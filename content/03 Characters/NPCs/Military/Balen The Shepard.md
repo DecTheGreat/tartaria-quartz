@@ -4,7 +4,7 @@ name: Balen The Shepard
 aliases: []
 category: Military
 occupation: Military Officer
-title: Sheriff
+title: Balen The Shepard
 status: Alive
 importance: Major
 disposition: Friendly
@@ -33,6 +33,7 @@ public_description: null
 publish: true
 created: 2026-07-21
 updated: 2026-07-21
+character_title: Sheriff
 ---
 
 # Balen The Shepard
@@ -48,7 +49,7 @@ updated: 2026-07-21
 > |---|---|
 > | **Category** | Military |
 > | **Occupation** | Military Officer |
-> | **Title** | Sheriff |
+> | **Title** | Balen The Shepard |
 > | **Ancestry** | Human |
 > | **Status** | Alive |
 >

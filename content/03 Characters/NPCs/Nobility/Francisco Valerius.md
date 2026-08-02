@@ -5,7 +5,7 @@ aliases:
   - Fran The Toothless
 category: Nobility
 occupation: Ruler
-title: High Chancellor of the Golden League
+title: Francisco Valerius
 status: Alive
 importance: Major
 disposition: Neutral
@@ -34,6 +34,7 @@ public_description: null
 publish: true
 created: 2026-07-22
 updated: 2026-07-22
+character_title: High Chancellor of the Golden League
 ---
 
 # Francisco Valerius
@@ -48,7 +49,7 @@ updated: 2026-07-22
 > |---|---|
 > | **Category** | Nobility |
 > | **Occupation** | Ruler |
-> | **Title** | High Chancellor of the Golden League |
+> | **Title** | Francisco Valerius |
 > | **Ancestry** | Human |
 > | **Culture** | the Protectorate of Elyndra |
 > | **Pronouns** | He/Him |

@@ -127,6 +127,16 @@ async function main() {
     const { fm, body: rawBody } = parseMarkdown(await fs.readFile(file, "utf8"));
     if (fm.publish !== true) { skipped++; continue; }
 
+// Quartz uses `title` as the page and Explorer label.
+// Preserve the character's original title, then use `name` publicly.
+if (fm.type === "npc" && fm.name) {
+    if (fm.title) {
+      fm.character_title = fm.title;
+    }
+
+    fm.title = fm.name;
+  }
+
     let body = removeCallouts(rawBody, removeCalloutNames);
     body = removeBlocks(body, removeCodeBlocks);
     body = replaceViews(body, fm).replace(/\n{4,}/g, "\n\n\n").trim() + "\n";

@@ -4,7 +4,7 @@ name: Mira Stonecloak
 aliases: []
 category: Military
 occupation: Military Officer
-title: Leutenant
+title: Mira Stonecloak
 status: Alive
 importance: Minor
 disposition: Friendly
@@ -32,6 +32,7 @@ public_description: null
 publish: true
 created: 2026-07-22
 updated: 2026-07-22
+character_title: Leutenant
 ---
 
 # Mira Stonecloak
@@ -46,7 +47,7 @@ updated: 2026-07-22
 > |---|---|
 > | **Category** | Military |
 > | **Occupation** | Military Officer |
-> | **Title** | Leutenant |
+> | **Title** | Mira Stonecloak |
 > | **Ancestry** | Human |
 > | **Culture** |  |
 > | **Pronouns** |  |

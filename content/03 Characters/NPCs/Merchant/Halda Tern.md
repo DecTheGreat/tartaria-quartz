@@ -4,7 +4,7 @@ name: Halda Tern
 aliases: []
 category: Merchant
 occupation: Guild member
-title: Guildmaster
+title: Halda Tern
 status: Alive
 importance: Supporting
 disposition: Friendly
@@ -32,6 +32,7 @@ public_description: null
 publish: true
 created: 2026-07-22
 updated: 2026-07-22
+character_title: Guildmaster
 ---
 
 # Halda Tern
@@ -46,7 +47,7 @@ updated: 2026-07-22
 > |---|---|
 > | **Category** | Merchant |
 > | **Occupation** | Guild member |
-> | **Title** | Guildmaster |
+> | **Title** | Halda Tern |
 > | **Ancestry** | Dwarf |
 > | **Culture** |  |
 > | **Pronouns** |  |
@@ -67,13 +68,6 @@ updated: 2026-07-22
 
 
 Write a brief public description of who this character is and why they matter.
-## Portrait
-
-
-![[10 Assets/Portraits/Reeve_Halda_Tern.png]]
-
-
-^portrait
 
 ## Overview
 

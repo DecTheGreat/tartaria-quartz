@@ -4,7 +4,7 @@ name: Theren Wyrmsbane the fifth
 aliases: []
 category: Nobility
 occupation: Ruler
-title: Lord
+title: Theren Wyrmsbane the fifth
 status: Alive
 importance: Minor
 disposition: Friendly
@@ -32,6 +32,7 @@ public_description: null
 publish: true
 created: 2026-07-22
 updated: 2026-07-22
+character_title: Lord
 ---
 
 # Theren Wyrmsbane the fifth
@@ -46,7 +47,7 @@ updated: 2026-07-22
 > |---|---|
 > | **Category** | Nobility |
 > | **Occupation** | Ruler |
-> | **Title** | Lord |
+> | **Title** | Theren Wyrmsbane the fifth |
 > | **Ancestry** | Human |
 > | **Culture** |  |
 > | **Pronouns** |  |

@@ -5,7 +5,7 @@ aliases:
   - Blackjack, Raven King,
 category: Nobility
 occupation: Lord-Mayor
-title: Lord
+title: Krucro Belnet
 status: Alive
 importance: Major
 disposition: Hostile
@@ -34,6 +34,7 @@ public_description: null
 publish: true
 created: 2026-07-22
 updated: 2026-07-22
+character_title: Lord
 ---
 
 # Krucro Belnet
@@ -48,7 +49,7 @@ updated: 2026-07-22
 > |---|---|
 > | **Category** | Nobility |
 > | **Occupation** | Lord-Mayor |
-> | **Title** | Lord |
+> | **Title** | Krucro Belnet |
 > | **Ancestry** | Black Dragonborn |
 > | **Culture** |  |
 > | **Pronouns** | He/Him |

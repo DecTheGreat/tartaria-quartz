@@ -4,7 +4,7 @@ name: Commander Garrick Stonevein
 aliases: []
 category: Military
 occupation: Military officer
-title: Commander
+title: Commander Garrick Stonevein
 status: Alive
 importance: Major
 disposition: Friendly
@@ -32,6 +32,7 @@ public_description: null
 publish: true
 created: 2026-07-22
 updated: 2026-07-22
+character_title: Commander
 ---
 
 # Commander Garrick Stonevein
@@ -46,7 +47,7 @@ updated: 2026-07-22
 > |---|---|
 > | **Category** | Military |
 > | **Occupation** | Military officer |
-> | **Title** | Commander |
+> | **Title** | Commander Garrick Stonevein |
 > | **Ancestry** | Human |
 > | **Culture** |  |
 > | **Pronouns** |  |
