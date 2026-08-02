@@ -25,7 +25,7 @@ faction: city council
 organizations: []
 religion: ""
 deity: null
-portrait: null
+portrait: 10 Assets/Portraits/Reeve_Halda_Tern.png
 token: null
 map: null
 public_description: null
@@ -38,7 +38,7 @@ updated: 2026-07-22
 > [!infobox]
 > # Halda Tern
 >
-> 
+>  ![[10 Assets/Portraits/Reeve_Halda_Tern.png]]
 >
 > ###### Identity
 >
@@ -69,9 +69,9 @@ updated: 2026-07-22
 Write a brief public description of who this character is and why they matter.
 ## Portrait
 
-```image-layout-a
-![[PLACEHOLDER-NPC-PORTRAIT.png]]
-```
+
+![[10 Assets/Portraits/Reeve_Halda_Tern.png]]
+
 
 ^portrait
 
