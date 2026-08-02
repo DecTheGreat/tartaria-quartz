@@ -1,3 +1,39 @@
-@use "./variables.scss" as *;
+.callout[data-callout="infobox"] {
+  float: right !important;
+  display: block !important;
+  width: 420px !important;
+  max-width: 42% !important;
+  margin: 0 0 1.5rem 2rem !important;
+  padding: 0.75rem !important;
+  border: 1px solid var(--lightgray) !important;
+  border-radius: 8px !important;
+  background: var(--light) !important;
+}
 
-// put your custom CSS here!
+.callout[data-callout="infobox"] > .callout-title {
+  display: none !important;
+}
+
+.callout[data-callout="infobox"] img {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  margin: 0 auto 1rem !important;
+  object-fit: cover !important;
+  object-position: top center !important;
+}
+
+.callout[data-callout="infobox"] table {
+  width: 100% !important;
+  margin: 0 !important;
+}
+
+@media (max-width: 900px) {
+  .callout[data-callout="infobox"] {
+    float: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 1rem 0 !important;
+  }
+}
