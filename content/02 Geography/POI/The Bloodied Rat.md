@@ -1,17 +1,17 @@
 ---
 type: poi
-name: Frostfangs Respite
+name: The Bloodied Rat
 aliases: null
-poi_type: Inn
+poi_type: Tavern
 status: active
 publish: true
 continent: "[[Eldoria]]"
 country: "[[Galeria]]"
 region: "[[Frostfjord]]"
-settlement: "[[Wyrmsgate]]"
-district: Merchants Quarter
-owner: "[[Halda Tern]]"
-faction: null
+settlement: "[[Wrexfjord]]"
+district: Slums
+owner: Old Tom One-Eye
+faction: the Spectres Thieves Guild
 purpose: null
 condition: null
 access: null
@@ -23,17 +23,17 @@ map: 10 Assets/Maps/placeholder-map.png
 art: 10 Assets/Portraits/placeholder-character.png
 created: 2026-07-22
 updated: 2026-07-22
-title: Frostfangs Respite
+title: The Bloodied Rat
 ---
 
 > [!infobox]
 > 
 
-# Frostfangs Respite
+# The Bloodied Rat
 
 ## Overview
 
-the primary merchant meeting point in [[Wyrmsgate]] owned by [[Halda Tern]] Guildmaster of the Merchants guild and master of coin for the city.  
+Give a concise description of the location, what it is used for, and why it matters.
 
 ## First Impressions
 

@@ -1,6 +1,6 @@
 ---
 type: poi
-name: Frostfangs Respite
+name: The Vengeful Desert
 aliases: null
 poi_type: Inn
 status: active
@@ -8,9 +8,9 @@ publish: true
 continent: "[[Eldoria]]"
 country: "[[Galeria]]"
 region: "[[Frostfjord]]"
-settlement: "[[Wyrmsgate]]"
-district: Merchants Quarter
-owner: "[[Halda Tern]]"
+settlement: "[[Wrexfjord]]"
+district: Merchant Quarter
+owner: null
 faction: null
 purpose: null
 condition: null
@@ -21,19 +21,19 @@ law_level: null
 threat_level: null
 map: 10 Assets/Maps/placeholder-map.png
 art: 10 Assets/Portraits/placeholder-character.png
-created: 2026-07-22
-updated: 2026-07-22
-title: Frostfangs Respite
+created: 2026-07-20
+updated: 2026-07-20
+title: The Vengeful Desert
 ---
 
 > [!infobox]
 > 
 
-# Frostfangs Respite
+# The Vengeful Desert
 
 ## Overview
 
-the primary merchant meeting point in [[Wyrmsgate]] owned by [[Halda Tern]] Guildmaster of the Merchants guild and master of coin for the city.  
+Give a concise description of the location, what it is used for, and why it matters.
 
 ## First Impressions
 
