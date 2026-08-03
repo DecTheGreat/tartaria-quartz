@@ -2,17 +2,18 @@
 type: country
 publish: true
 name: Galeria
-aliases: null
+aliases:
+  - the Galerian Republic
 continent:
   - - Eldoria
 status: active
 capital:
   - - Iosia
-government: null
-ruler: null
+government: Plutocracy
+rule: "[[The Golden League]]"
 population: null
 area: null
-climate: null
+climate: Coastal Temperate
 terrain: null
 languages: null
 religions: null
@@ -43,15 +44,17 @@ Provide a short summary of this country, its identity, and its place within Tart
 
 ## Geography
 
-Describe its borders, coastlines, terrain, rivers, mountain ranges, forests, climate zones, and neighbouring states.
+dominated by forests, vast and dark, some hills and in the south in the Harvestlands farms.  
 
 ## Government
 
-Describe how the country is ruled, how leaders are selected, and how power is distributed.
+Formerly a Monarchy lead by the descendants of a great hero who was part of a band of adventurers who took down the infamous necromancer Xerxes the legendary first necromancer.  
+
+After the assassination of the royal family the Golden League took up Stewardship of Galeria after defeating royalists in the Galerian civil war approximately 100 years ago.  
 
 ## Capital
 
-Describe the capital and why it serves as the political or cultural centre.
+Iosia the seat of [[The Golden League]] ruling council of Galeria.  
 
 ## Regions
 
