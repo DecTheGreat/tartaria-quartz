@@ -6,6 +6,7 @@ publish: true
 description: null
 created: 2026-07-22
 updated: 2026-07-22
+title: Nobility
 ---
 
 # Nobility

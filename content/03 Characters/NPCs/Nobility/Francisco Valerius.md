@@ -49,7 +49,7 @@ character_title: High Chancellor of the Golden League
 > |---|---|
 > | **Category** | Nobility |
 > | **Occupation** | Ruler |
-> | **Title** | Francisco Valerius |
+> | **Title** | High Chancellor of the Golden League |
 > | **Ancestry** | Human |
 > | **Culture** | the Protectorate of Elyndra |
 > | **Pronouns** | He/Him |

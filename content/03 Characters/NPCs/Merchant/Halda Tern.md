@@ -47,7 +47,7 @@ character_title: Guildmaster
 > |---|---|
 > | **Category** | Merchant |
 > | **Occupation** | Guild member |
-> | **Title** | Halda Tern |
+> | **Title** | Guildmaster |
 > | **Ancestry** | Dwarf |
 > | **Culture** |  |
 > | **Pronouns** |  |

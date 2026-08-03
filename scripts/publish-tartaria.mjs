@@ -127,19 +127,27 @@ async function main() {
     const { fm, body: rawBody } = parseMarkdown(await fs.readFile(file, "utf8"));
     if (fm.publish !== true) { skipped++; continue; }
 
-// Quartz uses `title` as the page and Explorer label.
-// Preserve the character's original title, then use `name` publicly.
-if (fm.type === "npc" && fm.name) {
-    if (fm.title) {
-      fm.character_title = fm.title;
-    }
-
-    fm.title = fm.name;
+// Quartz uses `title` for page headings and Explorer labels.
+// Preserve NPC ranks/offices, then use `name` as the public page title.
+if (fm.name) {
+  if (fm.type === "npc" && fm.title) {
+    fm.character_title = fm.title;
   }
+
+  fm.title = fm.name;
+}
 
     let body = removeCallouts(rawBody, removeCalloutNames);
     body = removeBlocks(body, removeCodeBlocks);
-    body = replaceViews(body, fm).replace(/\n{4,}/g, "\n\n\n").trim() + "\n";
+    const viewFields = { ...fm };
+
+if (fm.type === "npc" && fm.character_title) {
+  viewFields.title = fm.character_title;
+}
+
+body = replaceViews(body, viewFields)
+  .replace(/\n{4,}/g, "\n\n\n")
+  .trim() + "\n";
 
     const result = `---\n${YAML.stringify(fm).trim()}\n---\n\n${body}`;
     const dest = path.join(output, rel);

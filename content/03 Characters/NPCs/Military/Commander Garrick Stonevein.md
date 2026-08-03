@@ -47,7 +47,7 @@ character_title: Commander
 > |---|---|
 > | **Category** | Military |
 > | **Occupation** | Military officer |
-> | **Title** | Commander Garrick Stonevein |
+> | **Title** | Commander |
 > | **Ancestry** | Human |
 > | **Culture** |  |
 > | **Pronouns** |  |

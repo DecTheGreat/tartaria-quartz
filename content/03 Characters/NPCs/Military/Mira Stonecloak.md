@@ -47,7 +47,7 @@ character_title: Leutenant
 > |---|---|
 > | **Category** | Military |
 > | **Occupation** | Military Officer |
-> | **Title** | Mira Stonecloak |
+> | **Title** | Leutenant |
 > | **Ancestry** | Human |
 > | **Culture** |  |
 > | **Pronouns** |  |

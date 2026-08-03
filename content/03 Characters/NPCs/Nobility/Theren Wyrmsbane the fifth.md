@@ -47,7 +47,7 @@ character_title: Lord
 > |---|---|
 > | **Category** | Nobility |
 > | **Occupation** | Ruler |
-> | **Title** | Theren Wyrmsbane the fifth |
+> | **Title** | Lord |
 > | **Ancestry** | Human |
 > | **Culture** |  |
 > | **Pronouns** |  |

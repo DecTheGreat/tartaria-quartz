@@ -49,7 +49,7 @@ character_title: Lord
 > |---|---|
 > | **Category** | Nobility |
 > | **Occupation** | Lord-Mayor |
-> | **Title** | Krucro Belnet |
+> | **Title** | Lord |
 > | **Ancestry** | Black Dragonborn |
 > | **Culture** |  |
 > | **Pronouns** | He/Him |

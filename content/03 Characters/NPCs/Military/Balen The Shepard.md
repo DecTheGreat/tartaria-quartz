@@ -49,7 +49,7 @@ character_title: Sheriff
 > |---|---|
 > | **Category** | Military |
 > | **Occupation** | Military Officer |
-> | **Title** | Balen The Shepard |
+> | **Title** | Sheriff |
 > | **Ancestry** | Human |
 > | **Status** | Alive |
 >

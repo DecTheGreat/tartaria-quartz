@@ -6,6 +6,7 @@ publish: true
 description: null
 created: 2026-07-21
 updated: 2026-07-21
+title: Military
 ---
 
 # Military
