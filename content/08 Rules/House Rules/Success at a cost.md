@@ -29,22 +29,22 @@ The complication should leave a lasting consequence that makes the success memor
 A player may invoke **Success at a Cost** when:
 
 - They fail an Ability Check, Attack Roll, or Saving Throw by **2 or less**.
-    
+
 - The outcome could reasonably succeed with an appropriate sacrifice.
-    
+
 - The GM agrees that the proposed complication is suitable.
-    
+
 
 The player proposes the cost.
 
 The GM may:
 
 - Accept the proposal.
-    
+
 - Negotiate a different complication.
-    
+
 - Reject the proposal if it would undermine the story or remove meaningful consequences.
-    
+
 
 ---
 
@@ -63,67 +63,67 @@ A complication should permanently or temporarily change the situation. It should
 ### Equipment
 
 - A weapon breaks.
-    
+
 - A shield splinters.
-    
+
 - Armour is damaged.
-    
+
 - A spellcasting focus cracks.
-    
+
 - Thieves' tools become unusable.
-    
+
 - Ammunition is exhausted.
-    
+
 
 ### Physical
 
 - Fall prone after succeeding.
-    
+
 - Take minor damage.
-    
+
 - Gain a level of Travel Fatigue.
-    
+
 - Lose all remaining movement.
-    
+
 - Become restrained or exposed.
-    
+
 
 ### Social
 
 - Owe a favour.
-    
+
 - Reveal sensitive information.
-    
+
 - Damage your reputation.
-    
+
 - Create suspicion.
-    
+
 - Offend an important NPC.
-    
+
 
 ### Narrative
 
 - Reinforcements are alerted.
-    
+
 - Valuable time is lost.
-    
+
 - Supplies are consumed.
-    
+
 - Another objective becomes more difficult.
-    
+
 - An enemy escapes while you achieve your goal.
-    
+
 
 ### Magical
 
 - Lose concentration.
-    
+
 - A magical item becomes inert until repaired.
-    
+
 - Magical energy creates an unintended side effect.
-    
+
 - A ward or enchantment is weakened.
-    
+
 
 ---
 
@@ -192,5 +192,13 @@ Every complication should leave the players thinking:
 > _"We succeeded... but was it worth the price?"_
 ## Related Rules
 
+```dataview
+LIST
+FROM "08 Rules"
+WHERE type = "rule"
+AND file.path != this.file.path
+AND category = this.category
+SORT file.name ASC
+```
 
 ---

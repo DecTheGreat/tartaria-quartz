@@ -89,34 +89,34 @@ Describe their:
 
 ### Traits
 
-- 
+-
 
 ### Ideals
 
-- 
+-
 
 ### Bonds
 
-- 
+-
 
 ### Flaws
 
-- 
+-
 
 ## Voice and Mannerisms
 
-**Voice:**  
+**Voice:**
 Describe their accent, tone, pace and vocabulary.
 
 **Common expressions:**
 
-- 
-- 
+-
+-
 
 **Mannerisms:**
 
-- 
-- 
+-
+-
 
 ## Role
 
@@ -126,8 +126,8 @@ Describe what the NPC does and how they fit into their community.
 
 ### Responsibilities
 
-- 
-- 
+-
+-
 
 ### Reputation
 
@@ -143,9 +143,21 @@ Describe where the NPC is normally found and what they are usually doing.
 
 ### Allies
 
+```dataview
+LIST
+FROM "03 Characters"
+WHERE contains(allies, this.file.link)
+SORT file.name ASC
+```
 
 ### Rivals and Enemies
 
+```dataview
+LIST
+FROM "03 Characters"
+WHERE contains(enemies, this.file.link)
+SORT file.name ASC
+```
 
 ### Family and Personal Connections
 
@@ -175,15 +187,15 @@ Describe what the NPC is currently doing, what pressures they face and how they 
 
 ### Immediate Goal
 
-- 
+-
 
 ### Long-Term Goal
 
-- 
+-
 
 ### Motivation
 
-- 
+-
 
 ## Resources
 
@@ -193,15 +205,15 @@ Describe any legal, political, religious or social authority they possess.
 
 ### Wealth and Property
 
-- 
+-
 
 ### Allies and Followers
 
-- 
+-
 
 ### Equipment
 
-- 
+-
 
 ## Knowledge
 
@@ -209,15 +221,15 @@ Describe any legal, political, religious or social authority they possess.
 
 Information most locals know about the NPC.
 
-- 
-- 
+-
+-
 
 ### Specialist Knowledge
 
 Information the NPC knows because of their occupation, history or faction.
 
-- 
-- 
+-
+-
 
 ## Services
 
@@ -229,12 +241,21 @@ Information the NPC knows because of their occupation, history or faction.
 
 ### Hooks
 
-- 
-- 
-- 
+-
+-
+-
 
 ### Active Quests
 
+```dataview
+TABLE
+status AS "Status",
+quest_giver AS "Quest Giver",
+settlement AS "Settlement"
+FROM "06 Adventures/Quests"
+WHERE contains(quest_giver, this.file.link)
+SORT file.name ASC
+```
 
 ## Encounters
 
@@ -242,15 +263,15 @@ Describe how the NPC behaves during social, exploration or combat encounters.
 
 ### Social Approach
 
-- 
+-
 
 ### Negotiation
 
-- 
+-
 
 ### Combat Behaviour
 
-- 
+-
 
 ## Statistics
 
@@ -263,12 +284,12 @@ Describe how the NPC behaves during social, exploration or combat encounters.
 
 ## Inventory and Treasure
 
-- 
-- 
+-
+-
 
 ## Notes
 
-- 
-- 
+-
+-
 
 ---

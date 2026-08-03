@@ -27,7 +27,18 @@ title: Iosia
 ---
 
 > [!infobox]
-> 
+> ## Iosia
+>
+> ![[10 Assets/Maps/placeholder-map.png]]
+>
+> | Field | Value |
+> | --- | --- |
+> | Type | Settlement |
+> | Type | capital |
+> | Region | [[Hearthlands]] |
+> | Country | [[Galeria]] |
+> | Continent | [[Eldoria]] |
+> | Status | active |
 
 # Iosia
 
@@ -99,30 +110,151 @@ Describe the settlement’s main industries, markets, trade routes, exports, imp
 
 ### Inns and Taverns
 
+```dataview
+TABLE
+poi_type AS "Type",
+owner AS "Owner",
+district AS "District",
+status AS "Status"
+FROM "02 Geography/POI"
+WHERE type = "poi"
+AND settlement = this.file.link
+AND contains(["inn", "tavern"], lower(string(poi_type)))
+SORT file.name ASC
+```
 
 ### Shops and Markets
 
+```dataview
+TABLE
+poi_type AS "Type",
+owner AS "Owner",
+district AS "District",
+status AS "Status"
+FROM "02 Geography/POI"
+WHERE type = "poi"
+AND settlement = this.file.link
+AND contains(
+  [
+    "shop",
+    "market",
+    "merchant",
+    "smithy",
+    "apothecary"
+  ],
+  lower(string(poi_type))
+)
+SORT file.name ASC
+```
 
 ### Temples and Shrines
 
+```dataview
+TABLE
+poi_type AS "Type",
+religion AS "Religion",
+owner AS "Clergy or Keeper",
+district AS "District"
+FROM "02 Geography/POI"
+WHERE type = "poi"
+AND settlement = this.file.link
+AND contains(
+  [
+    "temple",
+    "shrine",
+    "chapel",
+    "monastery"
+  ],
+  lower(string(poi_type))
+)
+SORT file.name ASC
+```
 
 ## Points of Interest
 
+```dataview
+TABLE
+poi_type AS "Type",
+district AS "District",
+owner AS "Owner",
+status AS "Status"
+FROM "02 Geography/POI"
+WHERE type = "poi"
+AND settlement = this.file.link
+SORT district ASC, poi_type ASC, file.name ASC
+```
 
 ## Factions
 
+```dataview
+TABLE
+faction_type AS "Type",
+leader AS "Leader",
+headquarters AS "Headquarters",
+status AS "Status"
+FROM "04 Factions"
+WHERE settlement = this.file.link
+SORT file.name ASC
+```
 
 ## Notable Characters
 
+```dataview
+TABLE
+role AS "Role",
+faction AS "Faction",
+district AS "District",
+status AS "Status"
+FROM "03 Characters"
+WHERE type = "character"
+AND settlement = this.file.link
+SORT file.name ASC
+```
 
 ## Creatures and Threats
 
+```dataview
+TABLE
+creature_type AS "Type",
+cr AS "CR",
+habitat AS "Habitat",
+rarity AS "Rarity"
+FROM "05 Creatures"
+WHERE type = "creature"
+AND settlement = this.file.link
+SORT cr ASC, file.name ASC
+```
 
 ## Active Quests
 
+```dataview
+TABLE
+campaign AS "Campaign",
+adventure AS "Adventure",
+status AS "Status",
+difficulty AS "Difficulty"
+FROM "07 Campaigns"
+WHERE type = "quest"
+AND settlement = this.file.link
+AND status != "completed"
+SORT campaign ASC, file.name ASC
+```
 
 ## Planned Encounters
 
+```dataview
+TABLE
+campaign AS "Campaign",
+quest AS "Quest",
+encounter_type AS "Type",
+difficulty AS "Difficulty",
+status AS "Status"
+FROM "07 Campaigns"
+WHERE type = "encounter"
+AND settlement = this.file.link
+AND status != "completed"
+SORT campaign ASC, file.name ASC
+```
 
 ## History
 
@@ -134,14 +266,14 @@ Describe current political, military, economic, religious, social, criminal, or 
 
 ## Rumours
 
-- 
-- 
-- 
+-
+-
+-
 
 ## Adventure Hooks
 
-- 
-- 
-- 
+-
+-
+-
 
 ## GM Information

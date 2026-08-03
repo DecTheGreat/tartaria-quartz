@@ -21,15 +21,15 @@ updated: 2026-07-29
 Bonds are:
 
 - Directional
-    
+
 - Personal
-    
+
 - Limited to player characters
-    
+
 - Built from distinct emotional traits
-    
+
 - Used with the Echo Point system
-    
+
 
 A Bond does not represent a shared relationship between two characters.
 
@@ -46,19 +46,19 @@ Bonds may only exist between player characters.
 A character cannot form a mechanical Bond with:
 
 - NPCs
-    
+
 - Villains
-    
+
 - Followers
-    
+
 - Pets
-    
+
 - Familiars
-    
+
 - Faction leaders
-    
+
 - Other non-player characters
-    
+
 
 Narrative relationships with NPCs may still exist, but they are not tracked using this Bond system.
 
@@ -77,17 +77,17 @@ A character may only have one Bond entry for each other player character.
 A character might have Bonds with:
 
 - Rocko
-    
+
 - Kyra
-    
+
 - Dio
-    
+
 - Dave Kirby
-    
+
 - Hughnaught Manlad
-    
+
 - Bob
-    
+
 
 That character has reached the maximum of six Bonds.
 
@@ -108,13 +108,13 @@ A character may select only one emotion from each pair for the same Bond.
 For example:
 
 - A character cannot take Loyalty twice.
-    
+
 - A character cannot have both Loyalty and Mistrust toward the same character.
-    
+
 - A character cannot have both Affection and Hatred toward the same character.
-    
+
 - A character cannot have both Admiration and Inferiority toward the same character.
-    
+
 
 ---
 
@@ -137,24 +137,24 @@ Each emotion must come from a different pair.
 A Bond could contain:
 
 - Loyalty
-    
+
 - Admiration
-    
+
 - Affection
-    
+
 
 This is a **Strength 3 Bond**.
 
 It could not gain:
 
 - Loyalty again
-    
+
 - Mistrust, because Loyalty already occupies that pair
-    
+
 - Inferiority, because Admiration already occupies that pair
-    
+
 - Hatred, because Affection already occupies that pair
-    
+
 
 ---
 
@@ -165,29 +165,29 @@ A Bond may be created after a meaningful interaction or event between two player
 Examples include:
 
 - One character saving another
-    
+
 - Sharing a personal secret
-    
+
 - Fighting side by side
-    
+
 - Making a sacrifice
-    
+
 - Offering forgiveness
-    
+
 - Betraying the party
-    
+
 - Refusing aid
-    
+
 - Standing up for another character
-    
+
 - Publicly humiliating another character
-    
+
 - Surviving a dangerous event together
-    
+
 - Developing romantic feelings
-    
+
 - Growing resentful or jealous
-    
+
 
 When a Bond is first created, the player chooses one appropriate emotion.
 
@@ -202,23 +202,23 @@ The player should briefly explain why their character feels that emotion.
 A player may attempt to strengthen a Bond after:
 
 - A meaningful shared event
-    
+
 - An important conversation
-    
+
 - A significant sacrifice
-    
+
 - A betrayal
-    
+
 - A successful Hero's Gambit
-    
+
 - A life-saving intervention
-    
+
 - A major disagreement
-    
+
 - A Bonding downtime activity
-    
+
 - Another affecting event approved by the GM
-    
+
 
 To strengthen the Bond, the player adds one unused emotion from a pair not already represented in that Bond.
 
@@ -229,17 +229,17 @@ The GM may call for an appropriate Ability Check before allowing the Bond to str
 Possible checks include:
 
 - Charisma (Persuasion)
-    
+
 - Charisma (Deception)
-    
+
 - Charisma (Intimidation)
-    
+
 - Charisma (Performance)
-    
+
 - Wisdom (Insight)
-    
+
 - Another relevant check approved by the GM
-    
+
 
 The story must support the change.
 
@@ -262,18 +262,18 @@ Rocko has developed romantic feelings for Kyra.
 Rocko records:
 
 > **Kyra — Bond Strength 1**
-> 
+>
 > - Affection
->     
+>
 
 Kyra does not return Rocko's feelings. She finds his attention frustrating and overbearing.
 
 Kyra records:
 
 > **Rocko — Bond Strength 1**
-> 
+>
 > - Hatred
->     
+>
 
 These Bonds are separate.
 
@@ -290,26 +290,26 @@ An emotion may change into its opposing emotion after a major affecting event.
 Examples include:
 
 - Loyalty becoming Mistrust after betrayal
-    
+
 - Mistrust becoming Loyalty after repeated acts of courage
-    
+
 - Admiration becoming Inferiority after growing jealousy
-    
+
 - Inferiority becoming Admiration after acceptance or reconciliation
-    
+
 - Affection becoming Hatred after rejection or cruelty
-    
+
 - Hatred becoming Affection after forgiveness or emotional change
-    
+
 
 When an emotion changes into its opposite:
 
 - Remove the original emotion.
-    
+
 - Replace it with the opposing emotion.
-    
+
 - The Bond's strength remains the same.
-    
+
 
 The change should be supported by a significant event or period of roleplay.
 
@@ -324,19 +324,19 @@ A Bond may weaken when an emotional connection fades or is resolved.
 Examples include:
 
 - A rivalry losing importance
-    
+
 - Forgiveness easing hatred
-    
+
 - Repeated distance or absence
-    
+
 - A misunderstanding being resolved
-    
+
 - A character no longer feeling inferior
-    
+
 - Affection gradually fading
-    
+
 - Mistrust being disproven
-    
+
 
 When a Bond weakens, remove one emotion.
 
@@ -359,17 +359,17 @@ The emotion should be relevant to the situation.
 Possible benefits include:
 
 - Advantage on a roll
-    
+
 - A bonus to a roll
-    
+
 - Additional information
-    
+
 - A narrative opportunity
-    
+
 - Resistance to an emotional effect
-    
+
 - Another appropriate benefit approved by the GM
-    
+
 
 ---
 
@@ -378,13 +378,13 @@ Possible benefits include:
 Admiration may be invoked when:
 
 - Following the other character's example
-    
+
 - Remembering their advice
-    
+
 - Attempting to impress them
-    
+
 - Applying something learned from them
-    
+
 
 ### Example
 
@@ -397,13 +397,13 @@ Admiration may be invoked when:
 Inferiority may be invoked when:
 
 - Trying to prove yourself
-    
+
 - Refusing to be left behind
-    
+
 - Competing with the other character
-    
+
 - Pushing past your normal limits
-    
+
 
 ### Example
 
@@ -416,13 +416,13 @@ Inferiority may be invoked when:
 Loyalty may be invoked when:
 
 - Protecting the other character
-    
+
 - Aiding them
-    
+
 - Resisting attempts to abandon them
-    
+
 - Keeping a promise made to them
-    
+
 
 ### Example
 
@@ -435,13 +435,13 @@ Loyalty may be invoked when:
 Mistrust may be invoked when:
 
 - Looking for deception
-    
+
 - Preparing for betrayal
-    
+
 - Questioning the other character's motives
-    
+
 - Protecting yourself from manipulation
-    
+
 
 ### Example
 
@@ -454,15 +454,15 @@ Mistrust may be invoked when:
 Affection may be invoked when:
 
 - Comforting the other character
-    
+
 - Encouraging them
-    
+
 - Taking a risk for them
-    
+
 - Trying to understand their feelings
-    
+
 - Protecting them from harm
-    
+
 
 ### Example
 
@@ -475,15 +475,15 @@ Affection may be invoked when:
 Hatred may be invoked when:
 
 - Opposing the other character
-    
+
 - Resisting their influence
-    
+
 - Pursuing them
-    
+
 - Refusing to surrender to them
-    
+
 - Acting through anger or resentment
-    
+
 
 ### Example
 
@@ -498,40 +498,40 @@ A player may use a downtime activity to develop a Bond with another player chara
 Examples include:
 
 - Sharing a meal
-    
+
 - Sparring
-    
+
 - Drinking together
-    
+
 - Discussing a fear
-    
+
 - Sharing a personal story
-    
+
 - Teaching a skill
-    
+
 - Arguing over past decisions
-    
+
 - Offering an apology
-    
+
 - Working together on a task
-    
+
 - Mourning a loss
-    
+
 - Celebrating a victory
-    
+
 
 A Bonding scene may allow a player to:
 
 - Create a new Bond
-    
+
 - Add a new emotion
-    
+
 - Remove an emotion
-    
+
 - Change an emotion into its opposite
-    
+
 - Clarify how their character feels
-    
+
 
 The player should describe or roleplay the interaction rather than simply declaring a mechanical change.
 
@@ -569,25 +569,25 @@ Use the following format:
 # Quick Rules Summary
 
 - Bonds can only exist between player characters.
-    
+
 - Each character may have up to six Bonds.
-    
+
 - A character may only have one Bond with each other player character.
-    
+
 - Each Bond may contain up to three emotions.
-    
+
 - Each emotion may only be selected once.
-    
+
 - A Bond cannot contain both emotions from the same pair.
-    
+
 - Bond strength equals the number of emotions in the Bond.
-    
+
 - Bonds are directional and do not need to be mutual.
-    
+
 - Bonds may be invoked by spending Echo Points.
-    
+
 - Bonds should only change when supported by meaningful events or roleplay.
-    
+
 
 ---
 
@@ -596,37 +596,45 @@ Use the following format:
 Bonds should:
 
 - Reward player-driven storytelling
-    
+
 - Encourage relationships between party members
-    
+
 - Allow positive and negative emotions
-    
+
 - Reflect what happens during play
-    
+
 - Create useful reasons to spend Echo Points
-    
+
 - Change as the characters change
-    
+
 
 Bonds should not:
 
 - Force one player to control another player's feelings
-    
+
 - Be formed with NPCs
-    
+
 - Be increased through meaningless repeated checks
-    
+
 - Require mutual feelings
-    
+
 - Prevent characters from cooperating
-    
+
 - Replace roleplay with mechanical bookkeeping
-    
+
 
 The purpose of Bonds is to make the emotional history between player characters matter mechanically without dictating how those relationships must develop.
 
 
 ## Related Rules
 
+```dataview
+LIST
+FROM "08 Rules"
+WHERE type = "rule"
+AND file.path != this.file.path
+AND category = this.category
+SORT file.name ASC
+```
 
 ---

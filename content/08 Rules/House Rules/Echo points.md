@@ -40,13 +40,13 @@ A character gains Echo Points in the following ways:
 A significant enemy is one that meaningfully changes the encounter, such as:
 
 - A named villain.
-    
+
 - A new wave of enemies.
-    
+
 - A powerful monster.
-    
+
 - A major escalation determined by the GM.
-    
+
 
 Minor reinforcements or summoned creatures do not normally grant Echo Points.
 
@@ -61,15 +61,15 @@ The player must explain **how** that aspect of their character helps in the curr
 The GM may reward this by granting:
 
 - Advantage on a roll.
-    
+
 - A bonus to a roll.
-    
+
 - Additional information.
-    
+
 - A narrative benefit.
-    
+
 - Another appropriate effect.
-    
+
 
 The invoked trait should be relevant to the situation.
 
@@ -80,23 +80,23 @@ The invoked trait should be relevant to the situation.
 A player may invoke:
 
 - Species
-    
+
 - Background
-    
+
 - Class
-    
+
 - Subclass
-    
+
 - Bond
-    
+
 - Faction Membership
-    
+
 - Profession
-    
+
 - Significant Life Experience
-    
+
 - Other defining character traits approved by the GM
-    
+
 
 ### Examples
 
@@ -127,11 +127,11 @@ The player proposes the cost.
 The GM may:
 
 - Accept the complication.
-    
+
 - Negotiate a different complication.
-    
+
 - Reject the proposal if it would undermine the story or trivialise the challenge.
-    
+
 
 The success occurs, but the cost is immediately paid.
 
@@ -142,65 +142,65 @@ The success occurs, but the cost is immediately paid.
 ### Equipment
 
 - Your weapon breaks.
-    
+
 - Your shield splinters.
-    
+
 - Your armour is damaged.
-    
+
 - Your spellcasting focus cracks.
-    
+
 - Your thieves' tools become unusable.
-    
+
 
 ### Physical
 
 - Gain Travel Fatigue.
-    
+
 - Fall prone.
-    
+
 - Lose all remaining movement.
-    
+
 - Take minor damage.
-    
+
 - Become exposed to danger.
-    
+
 
 ### Social
 
 - Owe a favour.
-    
+
 - Reveal sensitive information.
-    
+
 - Damage your reputation.
-    
+
 - Create suspicion.
-    
+
 - Offend an important NPC.
-    
+
 
 ### Narrative
 
 - Reinforcements are alerted.
-    
+
 - Valuable time is lost.
-    
+
 - Supplies are consumed.
-    
+
 - A secondary objective becomes more difficult.
-    
+
 - An enemy escapes while you achieve your goal.
-    
+
 
 ### Magical
 
 - Lose concentration.
-    
+
 - A magic item temporarily ceases functioning.
-    
+
 - Wild magical side effects occur.
-    
+
 - An enchantment is weakened.
-    
+
 
 ---
 
@@ -229,15 +229,15 @@ Echo Points exist to encourage players to think about **who their characters are
 They reward:
 
 - Embracing character identity.
-    
+
 - Accepting failure as part of the story.
-    
+
 - Making meaningful sacrifices.
-    
+
 - Building relationships.
-    
+
 - Creating memorable moments.
-    
+
 
 Every Echo Point spent should reinforce the narrative by asking one simple question:
 
@@ -246,5 +246,13 @@ Every Echo Point spent should reinforce the narrative by asking one simple quest
 The answer should always be rooted in the character's history, experiences, or the price they are willing to pay.
 ## Related Rules
 
+```dataview
+LIST
+FROM "08 Rules"
+WHERE type = "rule"
+AND file.path != this.file.path
+AND category = this.category
+SORT file.name ASC
+```
 
 ---

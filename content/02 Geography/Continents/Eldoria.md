@@ -25,12 +25,64 @@ map: 10 Assets/Maps/Eldoria.png
 title: Eldoria
 ---
 
-## created: 2026-07-19  
+## created: 2026-07-19
 updated: 2026-07-19
 
 > [!infobox]
-> 
-> 
+>
+> ```dataviewjs
+> const p = dv.current();
+>
+> const clean = value => {
+>   if (value === null || value === undefined || value === "") return "";
+>   if (Array.isArray(value)) return value.join(", ");
+>   return String(value);
+> };
+>
+> const map = p.map ?? "10 Assets/Maps/placeholder-map.png";
+>
+> const rows = [
+>   ["Status", p.status],
+>   ["Population", p.population],
+>   ["Climate", p.climate],
+>   ["Terrain", p.terrain],
+>   ["Area", p.area],
+>   ["Largest Country", p.largest_country],
+>   ["Largest Settlement", p.largest_settlement],
+>   ["Dominant Species", p.dominant_species],
+>   ["Languages", p.languages],
+>   ["Religions", p.religions],
+>   ["Major Resources", p.major_resources],
+>   ["Oceans", p.oceans],
+>   ["Seas", p.seas],
+> ];
+>
+> dv.container.innerHTML = `
+>   <div class="tartaria-map">
+>     <img src="${app.vault.adapter.getResourcePath(map)}">
+>   </div>
+>
+>   <div class="tartaria-infobox-title">
+>     ${clean(p.name) || p.file.name}
+>   </div>
+>
+>   <div class="tartaria-infobox-section">
+>     Continent
+>   </div>
+>
+>   <table class="tartaria-infobox-table">
+>     ${rows
+>       .filter(([, value]) => clean(value) !== "")
+>       .map(([field, value]) => `
+>         <tr>
+>           <td class="tartaria-field">${field}</td>
+>           <td class="tartaria-value">${clean(value)}</td>
+>         </tr>
+>       `)
+>       .join("")}
+>   </table>
+> `;
+> ```
 
 # Eldoria
 
@@ -48,12 +100,45 @@ Describe its climate zones, seasons, weather patterns, and supernatural environm
 
 ## Countries
 
+```dataview
+TABLE
+government AS "Government",
+capital AS "Capital",
+population AS "Population",
+status AS "Status"
+FROM "02 Geography/Countries"
+WHERE type = "country"
+AND continent = this.file.link
+SORT file.name ASC
+```
 
 ## Regions
 
+```dataview
+TABLE
+country AS "Country",
+climate AS "Climate",
+terrain AS "Terrain",
+status AS "Status"
+FROM "02 Geography/Regions"
+WHERE type = "region"
+AND continent = this.file.link
+SORT country ASC, file.name ASC
+```
 
 ## Major Settlements
 
+```dataview
+TABLE
+settlement_type AS "Type",
+country AS "Country",
+region AS "Region",
+population AS "Population"
+FROM "02 Geography/Settlements"
+WHERE type = "settlement"
+AND continent = this.file.link
+SORT population DESC, file.name ASC
+```
 
 ## Peoples & Cultures
 
@@ -81,12 +166,45 @@ Describe major political, military, religious, economic, or supernatural events 
 
 ## Factions
 
+```dataview
+TABLE
+faction_type AS "Type",
+leader AS "Leader",
+headquarters AS "Headquarters",
+status AS "Status"
+FROM "04 Factions"
+WHERE continent = this.file.link
+SORT importance ASC, file.name ASC
+```
 
 ## Notable Characters
 
+```dataview
+TABLE
+entity_type AS "Type",
+role AS "Role",
+country AS "Country",
+region AS "Region",
+settlement AS "Settlement"
+FROM "03 Characters"
+WHERE type = "character"
+AND continent = this.file.link
+SORT importance ASC, file.name ASC
+```
 
 ## Creatures
 
+```dataview
+TABLE
+creature_type AS "Type",
+cr AS "CR",
+habitat AS "Habitat",
+rarity AS "Rarity"
+FROM "05 Creatures"
+WHERE type = "creature"
+AND continent = this.file.link
+SORT cr ASC, file.name ASC
+```
 
 ## Rumours
 

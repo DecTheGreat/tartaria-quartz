@@ -30,11 +30,22 @@ map: 10 Assets/Maps/Galeria.png
 title: Galeria
 ---
 
-## created: 2026-07-19  
+## created: 2026-07-19
 updated: 2026-07-19
 
 > [!infobox]
-> 
+> ## Galeria
+>
+> ![[10 Assets/Maps/Galeria.png]]
+>
+> | Field | Value |
+> | --- | --- |
+> | Type | Country |
+> | Continent | Eldoria |
+> | Status | active |
+> | Capital | Iosia |
+> | Government | Plutocracy |
+> | Climate | Coastal Temperate |
 
 # Galeria
 
@@ -44,26 +55,58 @@ Provide a short summary of this country, its identity, and its place within Tart
 
 ## Geography
 
-dominated by forests, vast and dark, some hills and in the south in the Harvestlands farms.  
+dominated by forests, vast and dark, some hills and in the south in the Harvestlands farms.
 
 ## Government
 
-Formerly a Monarchy lead by the descendants of a great hero who was part of a band of adventurers who took down the infamous necromancer Xerxes the legendary first necromancer.  
+Formerly a Monarchy lead by the descendants of a great hero who was part of a band of adventurers who took down the infamous necromancer Xerxes the legendary first necromancer.
 
-After the assassination of the royal family the Golden League took up Stewardship of Galeria after defeating royalists in the Galerian civil war approximately 100 years ago.  
+After the assassination of the royal family the Golden League took up Stewardship of Galeria after defeating royalists in the Galerian civil war approximately 100 years ago.
 
 ## Capital
 
-Iosia the seat of [[The Golden League]] ruling council of Galeria.  
+Iosia the seat of [[The Golden League]] ruling council of Galeria.
 
 ## Regions
 
+```dataview
+TABLE
+climate AS "Climate",
+terrain AS "Terrain",
+status AS "Status"
+FROM "02 Geography/Regions"
+WHERE type = "region"
+AND country = this.file.link
+SORT file.name ASC
+```
 
 ## Settlements
 
+```dataview
+TABLE
+settlement_type AS "Type",
+region AS "Region",
+population AS "Population",
+status AS "Status"
+FROM "02 Geography/Settlements"
+WHERE type = "settlement"
+AND country = this.file.link
+SORT region ASC, file.name ASC
+```
 
 ## Points of Interest
 
+```dataview
+TABLE
+poi_type AS "Type",
+settlement AS "Settlement",
+region AS "Region",
+owner AS "Owner"
+FROM "02 Geography/POI"
+WHERE type = "poi"
+AND country = this.file.link
+SORT region ASC, settlement ASC, file.name ASC
+```
 
 ## People & Culture
 
@@ -91,12 +134,45 @@ Describe laws, punishments, law enforcement, courts, corruption, and civil right
 
 ## Factions
 
+```dataview
+TABLE
+faction_type AS "Type",
+leader AS "Leader",
+headquarters AS "Headquarters",
+status AS "Status"
+FROM "04 Factions"
+WHERE country = this.file.link
+SORT importance ASC, file.name ASC
+```
 
 ## Notable Characters
 
+```dataview
+TABLE
+role AS "Role",
+region AS "Region",
+settlement AS "Settlement",
+faction AS "Faction",
+status AS "Status"
+FROM "03 Characters"
+WHERE type = "character"
+AND country = this.file.link
+SORT importance ASC, file.name ASC
+```
 
 ## Creatures
 
+```dataview
+TABLE
+creature_type AS "Type",
+cr AS "CR",
+habitat AS "Habitat",
+rarity AS "Rarity"
+FROM "05 Creatures"
+WHERE type = "creature"
+AND country = this.file.link
+SORT cr ASC, file.name ASC
+```
 
 ## History
 

@@ -27,7 +27,22 @@ title: The Bloodied Rat
 ---
 
 > [!infobox]
-> 
+> ## The Bloodied Rat
+>
+> ![[10 Assets/Maps/placeholder-map.png]]
+>
+> | Field | Value |
+> | --- | --- |
+> | Type | Point of Interest |
+> | Type | Tavern |
+> | Settlement | [[Wrexfjord]] |
+> | District | Slums |
+> | Region | [[Frostfjord]] |
+> | Country | [[Galeria]] |
+> | Continent | [[Eldoria]] |
+> | Status | active |
+> | Owner | Old Tom One-Eye |
+> | Faction | the Spectres Thieves Guild |
 
 # The Bloodied Rat
 
@@ -62,6 +77,16 @@ Describe who owns, controls, maintains, occupies, or claims the location.
 
 ## Staff and Residents
 
+```dataview
+TABLE
+role AS "Role",
+faction AS "Faction",
+status AS "Status"
+FROM "03 Characters"
+WHERE type = "character"
+AND poi = this.file.link
+SORT role ASC, file.name ASC
+```
 
 ## Services
 
@@ -89,18 +114,74 @@ Describe locks, guards, traps, wards, patrols, restricted areas, passwords, and 
 
 ## Factions
 
+```dataview
+TABLE
+faction_type AS "Type",
+leader AS "Leader",
+status AS "Status"
+FROM "04 Factions"
+WHERE headquarters = this.file.link
+OR poi = this.file.link
+SORT file.name ASC
+```
 
 ## Notable Characters
 
+```dataview
+TABLE
+role AS "Role",
+faction AS "Faction",
+status AS "Status"
+FROM "03 Characters"
+WHERE type = "character"
+AND poi = this.file.link
+SORT file.name ASC
+```
 
 ## Creatures and Threats
 
+```dataview
+TABLE
+creature_type AS "Type",
+cr AS "CR",
+temperament AS "Temperament",
+status AS "Status"
+FROM "05 Creatures"
+WHERE type = "creature"
+AND poi = this.file.link
+SORT cr ASC, file.name ASC
+```
 
 ## Active Quests
 
+```dataview
+TABLE
+campaign AS "Campaign",
+adventure AS "Adventure",
+status AS "Status",
+difficulty AS "Difficulty"
+FROM "07 Campaigns"
+WHERE type = "quest"
+AND poi = this.file.link
+AND status != "completed"
+SORT campaign ASC, file.name ASC
+```
 
 ## Planned Encounters
 
+```dataview
+TABLE
+campaign AS "Campaign",
+quest AS "Quest",
+encounter_type AS "Type",
+difficulty AS "Difficulty",
+status AS "Status"
+FROM "07 Campaigns"
+WHERE type = "encounter"
+AND poi = this.file.link
+AND status != "completed"
+SORT campaign ASC, file.name ASC
+```
 
 ## History
 
@@ -112,15 +193,15 @@ Describe what is happening here right now.
 
 ## Rumours
 
-- 
-- 
-- 
+-
+-
+-
 
 ## Adventure Hooks
 
-- 
-- 
-- 
+-
+-
+-
 
 ## Treasure and Rewards
 

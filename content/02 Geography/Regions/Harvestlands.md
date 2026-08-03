@@ -27,7 +27,16 @@ title: Harvestlands
 ---
 
 > [!infobox]
-> 
+> ## Harvestlands
+>
+> ![[10 Assets/Maps/placeholder-map.png]]
+>
+> | Field | Value |
+> | --- | --- |
+> | Type | Region |
+> | Continent | [[Eldoria]] |
+> | Country | [[Galeria]] |
+> | Status | active |
 
 # Harvestlands
 
@@ -45,10 +54,16 @@ Describe the general climate, seasons, storms, supernatural weather, or environm
 
 ## Settlements
 
+```dataview
+TABLE location_type, population, ruler, status
+FROM "02 Locations"
+WHERE parent_region = this.file.link OR region = this.file.link OR parent_region = this.name OR region = this.name
+SORT file.name ASC
+```
 
 ## Important Locations
 
-- 
+-
 
 ## People & Culture
 
@@ -60,9 +75,21 @@ Describe who rules the region, how law is enforced, taxes, justice, corruption, 
 
 ## Factions
 
+```dataview
+TABLE faction_type, leader, headquarters, status
+FROM "04 Factions"
+WHERE region = this.file.link OR region = this.name
+SORT importance ASC, file.name ASC
+```
 
 ## Notable Characters
 
+```dataview
+TABLE role, faction, status
+FROM "03 Characters"
+WHERE location = this.file.link OR homeland = this.file.link OR region = this.file.link OR location = this.name OR homeland = this.name OR region = this.name
+SORT importance ASC, file.name ASC
+```
 
 ## Economy
 
@@ -78,10 +105,10 @@ Describe major temples, local gods, saints, spirits, taboos, cult activity, and 
 
 ## Rumours
 
-- 
+-
 
 ## Adventure Hooks
 
-- 
+-
 
 ## GM Information

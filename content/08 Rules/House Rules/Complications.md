@@ -43,7 +43,7 @@ Each complication grants a meaningful benefit and a drawback.
 
 ## Procedure
 
-1. roll a D12 
+1. roll a D12
 2. player notes the benefit on the character sheet
 3. DM notes the drawback on the character notes
 
@@ -58,5 +58,13 @@ Each complication grants a meaningful benefit and a drawback.
 
 ## Related Rules
 
+```dataview
+LIST
+FROM "08 Rules"
+WHERE type = "rule"
+AND file.path != this.file.path
+AND category = this.category
+SORT file.name ASC
+```
 
 ---
