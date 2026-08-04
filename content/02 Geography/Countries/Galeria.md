@@ -51,7 +51,7 @@ updated: 2026-07-19
 
 ## Overview
 
-Provide a short summary of this country, its identity, and its place within Tartaria.
+A Plutocratic Republic that is in the stewardship of the Golden League after the loss of the Galerian royal family.
 
 ## Geography
 
@@ -61,7 +61,7 @@ dominated by forests, vast and dark, some hills and in the south in the Harvestl
 
 Formerly a Monarchy lead by the descendants of a great hero who was part of a band of adventurers who took down the infamous necromancer Xerxes the legendary first necromancer.
 
-After the assassination of the royal family the Golden League took up Stewardship of Galeria after defeating royalists in the Galerian civil war approximately 100 years ago.
+After the assassination of the royal family the Golden League took up Stewardship of Galeria after defeating royalists in the Galerian civil war approximately 100 years ago.  The Royalists were backed by [[The Protectorate of Elyndra]] who wanted to make Galeria a vassal state of [[The Protectorate of Elyndra]].
 
 ## Capital
 
@@ -93,15 +93,15 @@ Iosia the seat of [[The Golden League]] ruling council of Galeria.
 
 ## People & Culture
 
-Describe the country’s peoples, traditions, clothing, cuisine, festivals, taboos, and social customs.
+Predominantly Human. Then Common Dwarfs, Elves, Halflings, Gnomes, Dragonborn.  Then Uncommon Tieflings, Assimar, Goblins, Orcs, Goliaths, Lizardfolk, Tabaxi, Beastfolk.
 
 ## Languages
 
-Describe common languages, dialects, writing systems, and regional differences.
+the common human language is called Galeran ( though it's more like a dialect), Dwarfish, Elvish, Gnomish, and Draconic.
 
 ## Religion
 
-Describe important faiths, temples, clergy, religious laws, pilgrimages, and local beliefs.
+The main deity worshipped across Galeria is [[Aureon]], Keeper of the First Bargain, god of the bargain and keeper of the deal, twin of [[Vexius]], The Smiling Fox, the Trickster god sons of [[Aletheia]] and [[Kaelen]].
 
 ## Economy & Trade
 
