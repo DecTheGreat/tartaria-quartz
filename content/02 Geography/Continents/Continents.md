@@ -16,17 +16,9 @@ actions:
 
 ## Continents
 
-```dataview
-TABLE
-status AS "Status",
-population AS "Population",
-climate AS "Climate",
-terrain AS "Terrain",
-largest_country AS "Largest Country"
-FROM "02 Geography/Continents"
-WHERE type = "continent"
-SORT file.name ASC
-```
+| Name | Status | Population | Climate | Terrain | Largest Country |
+| --- | --- | --- | --- | --- | --- |
+| [[02 Geography/Continents/Eldoria\|Eldoria]] | active |  |  |  |  |
 
 ---
 
@@ -82,15 +74,9 @@ dv.table(
 
 ## Recently Modified
 
-```dataview
-TABLE
-status AS "Status",
-file.mtime AS "Modified"
-FROM "02 Geography/Continents"
-WHERE type = "continent"
-SORT file.mtime DESC
-LIMIT 10
-```
+| Name | Status | Modified |
+| --- | --- | --- |
+| [[02 Geography/Continents/Eldoria\|Eldoria]] | active |  |
 
 ---
 
@@ -98,39 +84,18 @@ LIMIT 10
 
 ### Missing Maps
 
-```dataview
-TABLE
-status AS "Status",
-climate AS "Climate"
-FROM "02 Geography/Continents"
-WHERE type = "continent"
-AND (
-  !map
-  OR map = "10 Assets/Maps/placeholder-map.png"
-)
-SORT file.name ASC
-```
+| Name | Status | Climate |
+| --- | --- | --- |
+| [[02 Geography/Continents/Eldoria\|Eldoria]] | active |  |
 
 ### Missing Climate
 
-```dataview
-TABLE
-status AS "Status",
-terrain AS "Terrain"
-FROM "02 Geography/Continents"
-WHERE type = "continent"
-AND !climate
-SORT file.name ASC
-```
+| Name | Status | Terrain |
+| --- | --- | --- |
+| [[02 Geography/Continents/Eldoria\|Eldoria]] | active |  |
 
 ### Missing Population
 
-```dataview
-TABLE
-status AS "Status",
-climate AS "Climate"
-FROM "02 Geography/Continents"
-WHERE type = "continent"
-AND !population
-SORT file.name ASC
-```
+| Name | Status | Climate |
+| --- | --- | --- |
+| [[02 Geography/Continents/Eldoria\|Eldoria]] | active |  |

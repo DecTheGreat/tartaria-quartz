@@ -33,78 +33,53 @@ Describe the NPCs who belong to the **Military** category.
 
 ## NPCs
 
-```dataview
-TABLE
-occupation AS "Occupation",
-title AS "Title",
-settlement AS "Settlement",
-faction AS "Faction",
-status AS "Status",
-importance AS "Importance"
-FROM "03 Characters/NPCs/Military"
-WHERE type = "npc"
-SORT file.name ASC
-```
+| Name | Occupation | Title | Settlement | Faction | Status | Importance |
+| --- | --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Balen The Shepard | Wrexfjord | Frostguard | Alive | Major |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Commander Garrick Stonevein | % tp.file.title % | Gorgeguard | Alive | Major |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Mira Stonecloak | Wrexfjord | Frostguard | Alive | Minor |
 
 ## Statistics
 
-```dataview
-TABLE WITHOUT ID
-length(rows) AS "NPC Count"
-FROM "03 Characters/NPCs/Military"
-WHERE type = "npc"
-```
+| Name | WITHOUT ID length(rows) AS "NPC Count" |
+| --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  |
 
 ## Recently Modified
 
-```dataview
-TABLE
-file.mtime AS "Modified",
-occupation AS "Occupation",
-settlement AS "Settlement"
-FROM "03 Characters/NPCs/Military"
-WHERE type = "npc"
-SORT file.mtime DESC
-LIMIT 10
-```
+| Name | Modified | Occupation | Settlement |
+| --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  | Military officer | % tp.file.title % |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  | Military Officer | Wrexfjord |
 
 ## Health Checks
 
 ### Missing Occupation
 
-```dataview
-TABLE
-settlement AS "Settlement",
-status AS "Status"
-FROM "03 Characters/NPCs/Military"
-WHERE type = "npc"
-AND (!occupation OR occupation = "")
-SORT file.name ASC
-```
+| Name | Settlement | Status |
+| --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Wrexfjord | Alive |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | % tp.file.title % | Alive |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Wrexfjord | Alive |
 
 ### Missing Settlement
 
-```dataview
-TABLE
-occupation AS "Occupation",
-status AS "Status"
-FROM "03 Characters/NPCs/Military"
-WHERE type = "npc"
-AND (!settlement OR settlement = "")
-SORT file.name ASC
-```
+| Name | Occupation | Status |
+| --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Alive |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Alive |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Alive |
 
 ### Missing Portrait
 
-```dataview
-TABLE
-occupation AS "Occupation",
-settlement AS "Settlement"
-FROM "03 Characters/NPCs/Military"
-WHERE type = "npc"
-AND (!portrait OR portrait = "")
-SORT file.name ASC
-```
+| Name | Occupation | Settlement |
+| --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | % tp.file.title % |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord |
 
 ## Notes
 

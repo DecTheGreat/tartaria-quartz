@@ -69,44 +69,27 @@ Iosia the seat of [[The Golden League]] ruling council of Galeria.
 
 ## Regions
 
-```dataview
-TABLE
-climate AS "Climate",
-terrain AS "Terrain",
-status AS "Status"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-AND country = this.file.link
-SORT file.name ASC
-```
+| Name | Climate | Terrain | Status |
+| --- | --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] |  |  | active |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] |  |  | active |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] |  |  | active |
 
 ## Settlements
 
-```dataview
-TABLE
-settlement_type AS "Type",
-region AS "Region",
-population AS "Population",
-status AS "Status"
-FROM "02 Geography/Settlements"
-WHERE type = "settlement"
-AND country = this.file.link
-SORT region ASC, file.name ASC
-```
+| Name | Type | Region | Population | Status |
+| --- | --- | --- | --- | --- |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | city | [[Frostfjord]] |  | active |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | city | [[Frostfjord]] |  | active |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | capital | [[Hearthlands]] |  | active |
 
 ## Points of Interest
 
-```dataview
-TABLE
-poi_type AS "Type",
-settlement AS "Settlement",
-region AS "Region",
-owner AS "Owner"
-FROM "02 Geography/POI"
-WHERE type = "poi"
-AND country = this.file.link
-SORT region ASC, settlement ASC, file.name ASC
-```
+| Name | Type | Settlement | Region | Owner |
+| --- | --- | --- | --- | --- |
+| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | [[Wrexfjord]] | [[Frostfjord]] | Old Tom One-Eye |
+| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | [[Wrexfjord]] | [[Frostfjord]] |  |
+| [[02 Geography/POI/Frostfangs Respite\|Frostfangs Respite]] | Inn | [[Wyrmsgate]] | [[Frostfjord]] | [[Halda Tern]] |
 
 ## People & Culture
 
@@ -134,45 +117,15 @@ Describe laws, punishments, law enforcement, courts, corruption, and civil right
 
 ## Factions
 
-```dataview
-TABLE
-faction_type AS "Type",
-leader AS "Leader",
-headquarters AS "Headquarters",
-status AS "Status"
-FROM "04 Factions"
-WHERE country = this.file.link
-SORT importance ASC, file.name ASC
-```
+_No published entries._
 
 ## Notable Characters
 
-```dataview
-TABLE
-role AS "Role",
-region AS "Region",
-settlement AS "Settlement",
-faction AS "Faction",
-status AS "Status"
-FROM "03 Characters"
-WHERE type = "character"
-AND country = this.file.link
-SORT importance ASC, file.name ASC
-```
+_No published entries._
 
 ## Creatures
 
-```dataview
-TABLE
-creature_type AS "Type",
-cr AS "CR",
-habitat AS "Habitat",
-rarity AS "Rarity"
-FROM "05 Creatures"
-WHERE type = "creature"
-AND country = this.file.link
-SORT cr ASC, file.name ASC
-```
+_No published entries._
 
 ## History
 

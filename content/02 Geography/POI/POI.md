@@ -23,47 +23,31 @@ actions:
 
 ## Points of Interest
 
-```dataview
-TABLE
-poi_type AS "Type",
-settlement AS "Settlement",
-region AS "Region",
-country AS "Country",
-owner AS "Owner",
-status AS "Status"
-FROM "02 Geography/POI"
-WHERE type = "poi"
-SORT settlement ASC, poi_type ASC, file.name ASC
-```
+| Name | Type | Settlement | Region | Country | Owner | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | [[Wrexfjord]] | [[Frostfjord]] | [[Galeria]] |  | active |
+| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | [[Wrexfjord]] | [[Frostfjord]] | [[Galeria]] | Old Tom One-Eye | active |
+| [[02 Geography/POI/Frostfangs Respite\|Frostfangs Respite]] | Inn | [[Wyrmsgate]] | [[Frostfjord]] | [[Galeria]] | [[Halda Tern]] | active |
 
 ---
 
 ## POIs by Settlement
 
-```dataview
-TABLE
-poi_type AS "Type",
-district AS "District",
-owner AS "Owner",
-status AS "Status"
-FROM "02 Geography/POI"
-WHERE type = "poi"
-GROUP BY settlement
-```
+| Name | Type | District | Owner | Status |
+| --- | --- | --- | --- | --- |
+| [[02 Geography/POI/Frostfangs Respite\|Frostfangs Respite]] | Inn | Merchants Quarter | [[Halda Tern]] | active |
+| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | Slums | Old Tom One-Eye | active |
+| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | Merchant Quarter |  | active |
 
 ---
 
 ## Statistics
 
-```dataview
-TABLE WITHOUT ID
-poi_type AS "Type",
-length(rows) AS "Count"
-FROM "02 Geography/POI"
-WHERE type = "poi"
-GROUP BY poi_type
-SORT poi_type ASC
-```
+| Name | WITHOUT ID poi_type AS "Type" | length(rows) AS "Count" |
+| --- | --- | --- |
+| [[02 Geography/POI/Frostfangs Respite\|Frostfangs Respite]] |  |  |
+| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] |  |  |
+| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] |  |  |
 
 ---
 

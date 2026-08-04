@@ -12,78 +12,47 @@ This dashboard provides an overview of Tartaria’s physical world and automatic
 
 ## 🌎 Continents
 
-```dataview
-TABLE
-status AS "Status",
-climate AS "Climate",
-population AS "Population"
-FROM "02 Geography/Continents"
-WHERE type = "continent"
-SORT file.name ASC
-```
+| Name | Status | Climate | Population |
+| --- | --- | --- | --- |
+| [[02 Geography/Continents/Eldoria\|Eldoria]] | active |  |  |
 
 ---
 
 ## 👑 Countries
 
-```dataview
-TABLE
-continent AS "Continent",
-government AS "Government",
-capital AS "Capital",
-status AS "Status"
-FROM "02 Geography/Countries"
-WHERE type = "country"
-SORT continent ASC, file.name ASC
-```
+| Name | Continent | Government | Capital | Status |
+| --- | --- | --- | --- | --- |
+| [[02 Geography/Countries/Galeria\|Galeria]] | Eldoria | Plutocracy | Iosia | active |
 
 ---
 
 ## 🗺 Regions
 
-```dataview
-TABLE
-country AS "Country",
-continent AS "Continent",
-climate AS "Climate",
-terrain AS "Terrain",
-status AS "Status"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-SORT country ASC, file.name ASC
-```
+| Name | Country | Continent | Climate | Terrain | Status |
+| --- | --- | --- | --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Galeria]] | [[Eldoria]] |  |  | active |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Galeria]] | [[Eldoria]] |  |  | active |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Galeria]] | [[Eldoria]] |  |  | active |
 
 ---
 
 ## 🏘 Settlements
 
-```dataview
-TABLE
-settlement_type AS "Type",
-region AS "Region",
-country AS "Country",
-population AS "Population",
-status AS "Status"
-FROM "02 Geography/Settlements"
-WHERE type = "settlement"
-SORT region ASC, settlement_type ASC, file.name ASC
-```
+| Name | Type | Region | Country | Population | Status |
+| --- | --- | --- | --- | --- | --- |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | city | [[Frostfjord]] | [[Galeria]] |  | active |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | city | [[Frostfjord]] | [[Galeria]] |  | active |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | capital | [[Hearthlands]] | [[Galeria]] |  | active |
 
 ---
 
 ## 📍 Points of Interest
 
-```dataview
-TABLE
-poi_type AS "Type",
-settlement AS "Settlement",
-region AS "Region",
-owner AS "Owner",
-status AS "Status"
-FROM "02 Geography/POI"
-WHERE type = "poi"
-SORT settlement ASC, poi_type ASC, file.name ASC
-```
+| Name | Type | Settlement | Region | Owner | Status |
+| --- | --- | --- | --- | --- | --- |
+| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | [[Wrexfjord]] | [[Frostfjord]] |  | active |
+| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | [[Wrexfjord]] | [[Frostfjord]] | Old Tom One-Eye | active |
+| [[02 Geography/POI/Frostfangs Respite\|Frostfangs Respite]] | Inn | [[Wyrmsgate]] | [[Frostfjord]] | [[Halda Tern]] | active |
 
 ---
 
@@ -180,15 +149,25 @@ for (const continent of continents) {
 
 ## 📝 Recently Modified Geography
 
-```dataview
-TABLE
-type AS "Type",
-file.mtime AS "Modified"
-FROM "02 Geography"
-WHERE file.name != "Geography"
-SORT file.mtime DESC
-LIMIT 12
-```
+| Name | Type | Modified |
+| --- | --- | --- |
+| [[02 Geography/02 Geography\|02 Geography]] | index |  |
+| [[02 Geography/Continents/Continents\|Continents]] | index |  |
+| [[02 Geography/Continents/Eldoria\|Eldoria]] | continent |  |
+| [[02 Geography/Countries/Countries\|Countries]] | index |  |
+| [[02 Geography/Countries/Galeria\|Galeria]] | country |  |
+| [[02 Geography/POI/Frostfangs Respite\|Frostfangs Respite]] | poi |  |
+| [[02 Geography/POI/POI\|POI]] | index |  |
+| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | poi |  |
+| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | poi |  |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | region |  |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | region |  |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | region |  |
+| [[02 Geography/Regions/Regions\|Regions]] |  |  |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | settlement |  |
+| [[02 Geography/Settlements/Settlements\|Settlements]] | index |  |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | settlement |  |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | settlement |  |
 
 ---
 
@@ -196,49 +175,30 @@ LIMIT 12
 
 ### Countries Missing a Continent
 
-```dataview
-TABLE
-government AS "Government",
-capital AS "Capital"
-FROM "02 Geography/Countries"
-WHERE type = "country"
-AND !continent
-SORT file.name ASC
-```
+| Name | Government | Capital |
+| --- | --- | --- |
+| [[02 Geography/Countries/Galeria\|Galeria]] | Plutocracy | Iosia |
 
 ### Regions Missing a Country
 
-```dataview
-TABLE
-continent AS "Continent",
-climate AS "Climate"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-AND !country
-SORT file.name ASC
-```
+| Name | Continent | Climate |
+| --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Eldoria]] |  |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Eldoria]] |  |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Eldoria]] |  |
 
 ### Settlements Missing a Region
 
-```dataview
-TABLE
-settlement_type AS "Type",
-country AS "Country"
-FROM "02 Geography/Settlements"
-WHERE type = "settlement"
-AND !region
-SORT file.name ASC
-```
+| Name | Type | Country |
+| --- | --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | capital | [[Galeria]] |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | city | [[Galeria]] |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | city | [[Galeria]] |
 
 ### Points of Interest Missing a Parent Location
 
-```dataview
-TABLE
-poi_type AS "Type",
-region AS "Region"
-FROM "02 Geography/POI"
-WHERE type = "poi"
-AND !settlement
-AND !region
-SORT file.name ASC
-```
+| Name | Type | Region |
+| --- | --- | --- |
+| [[02 Geography/POI/Frostfangs Respite\|Frostfangs Respite]] | Inn | [[Frostfjord]] |
+| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | [[Frostfjord]] |
+| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | [[Frostfjord]] |

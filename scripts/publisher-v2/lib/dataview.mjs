@@ -212,12 +212,12 @@ function renderTable(records, columns) {
 
   const headers = ["Name", ...columns.map((column) => column.label)];
   const divider = headers.map(() => "---");
-  const rows = records.map((record) => [
-    makeFileLink(record),
-    ...columns.map((column) =>
-      escapeTableCell(toText(getField(record, column.field))),
-    ),
-  ]);
+ const rows = records.map((record) => [
+  escapeTableCell(makeFileLink(record)),
+  ...columns.map((column) =>
+    escapeTableCell(toText(getField(record, column.field))),
+  ),
+]);
 
   return [
     `| ${headers.map(escapeTableCell).join(" | ")} |`,

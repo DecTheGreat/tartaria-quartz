@@ -30,91 +30,34 @@ actions:
 
 ## Categories
 
-```dataview
-TABLE WITHOUT ID
-file.link AS "Category",
-length(filter(file.folder, (f) => contains(f, file.name))) AS "Factions"
-FROM "04 Factions"
-WHERE type = "faction_category"
-SORT file.name ASC
-```
+| Name | WITHOUT ID file.link AS "Category" | length(filter(file.folder | (f) => contains(f | file.name))) AS "Factions" |
+| --- | --- | --- | --- | --- |
+| [[04 Factions/Military/Military\|Military]] |  |  |  |  |
 
 ---
 
 ## All Factions
 
-```dataview
-TABLE
-category AS "Category",
-faction_type AS "Type",
-headquarters AS "Headquarters",
-integrity AS "Integrity",
-alignment AS "Alignment",
-status AS "Status"
-FROM "04 Factions"
-WHERE type = "faction"
-SORT file.name ASC
-```
+_No published entries._
 
 ---
 ## Honourable Factions
 
-```dataview
-TABLE
-category AS "Category",
-faction_type AS "Type",
-headquarters AS "Headquarters",
-leader AS "Leader"
-FROM "04 Factions"
-WHERE type = "faction"
-AND contains(
-  list("Honourable", "Generally Honourable"),
-  integrity
-)
-SORT file.name ASC
-```
+_No published entries._
 
 ## Corrupt Factions
 
-```dataview
-TABLE
-category AS "Category",
-faction_type AS "Type",
-headquarters AS "Headquarters",
-leader AS "Leader",
-integrity AS "Integrity"
-FROM "04 Factions"
-WHERE type = "faction"
-AND contains(
-  list("Compromised", "Corrupt", "Deeply Corrupt"),
-  integrity
-)
-SORT integrity ASC, file.name ASC
-```
+_No published entries._
 
 ## Statistics
 
-```dataview
-TABLE WITHOUT ID
-length(rows) AS "Faction Count"
-FROM "04 Factions"
-WHERE type = "faction"
-```
+_No published entries._
 
 ---
 
 ## Recently Modified
 
-```dataview
-TABLE
-file.mtime AS "Modified",
-category,
-status
-FROM "04 Factions"
-WHERE type = "faction"
-SORT file.mtime DESC
-LIMIT 10
-```
+_No published entries._
 
 ---
 
@@ -122,63 +65,28 @@ LIMIT 10
 
 ## Missing Category
 
-```dataview
-TABLE
-status,
-headquarters
-FROM "04 Factions"
-WHERE type = "faction"
-AND (!category OR category = "")
-```
+_No published entries._
 
 ---
 
 ## Missing Headquarters
 
-```dataview
-TABLE
-category,
-status
-FROM "04 Factions"
-WHERE type = "faction"
-AND (!headquarters OR headquarters = "")
-```
+_No published entries._
 
 ---
 
 ## Missing Leader
 
-```dataview
-TABLE
-category,
-headquarters
-FROM "04 Factions"
-WHERE type = "faction"
-AND (!leader OR leader = "")
-```
+_No published entries._
 
 ---
 
 ## Missing Symbol
 
-```dataview
-TABLE
-category,
-leader
-FROM "04 Factions"
-WHERE type = "faction"
-AND (!symbol OR symbol = "")
-```
+_No published entries._
 
 ---
 
 ## Missing Public Description
 
-```dataview
-TABLE
-category,
-leader
-FROM "04 Factions"
-WHERE type = "faction"
-AND (!public_description OR public_description = "")
-```
+_No published entries._

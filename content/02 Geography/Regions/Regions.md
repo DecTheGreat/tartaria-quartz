@@ -21,19 +21,11 @@ actions:
 
 ## Regions
 
-```dataview
-TABLE
-country AS "Country",
-continent AS "Continent",
-regional_seat AS "Regional Seat",
-climate AS "Climate",
-terrain AS "Terrain",
-population AS "Population",
-status AS "Status"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-SORT country ASC, file.name ASC
-```
+| Name | Country | Continent | Regional Seat | Climate | Terrain | Population | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Galeria]] | [[Eldoria]] |  |  |  |  | active |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Galeria]] | [[Eldoria]] |  |  |  |  | active |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Galeria]] | [[Eldoria]] |  |  |  |  | active |
 
 ---
 
@@ -167,17 +159,11 @@ dv.table(
 
 ## Recently Modified
 
-```dataview
-TABLE
-country AS "Country",
-continent AS "Continent",
-status AS "Status",
-file.mtime AS "Modified"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-SORT file.mtime DESC
-LIMIT 10
-```
+| Name | Country | Continent | Status | Modified |
+| --- | --- | --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Galeria]] | [[Eldoria]] | active |  |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Galeria]] | [[Eldoria]] | active |  |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Galeria]] | [[Eldoria]] | active |  |
 
 ---
 
@@ -185,79 +171,48 @@ LIMIT 10
 
 ### Missing Country
 
-```dataview
-TABLE
-continent AS "Continent",
-status AS "Status"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-AND !country
-SORT file.name ASC
-```
+| Name | Continent | Status |
+| --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Eldoria]] | active |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Eldoria]] | active |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Eldoria]] | active |
 
 ### Missing Continent
 
-```dataview
-TABLE
-country AS "Country",
-status AS "Status"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-AND !continent
-SORT file.name ASC
-```
+| Name | Country | Status |
+| --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Galeria]] | active |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Galeria]] | active |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Galeria]] | active |
 
 ### Missing Regional Seat
 
-```dataview
-TABLE
-country AS "Country",
-population AS "Population",
-status AS "Status"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-AND !regional_seat
-SORT file.name ASC
-```
+| Name | Country | Population | Status |
+| --- | --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Galeria]] |  | active |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Galeria]] |  | active |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Galeria]] |  | active |
 
 ### Missing Climate
 
-```dataview
-TABLE
-country AS "Country",
-terrain AS "Terrain",
-status AS "Status"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-AND !climate
-SORT file.name ASC
-```
+| Name | Country | Terrain | Status |
+| --- | --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Galeria]] |  | active |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Galeria]] |  | active |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Galeria]] |  | active |
 
 ### Missing Terrain
 
-```dataview
-TABLE
-country AS "Country",
-climate AS "Climate",
-status AS "Status"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-AND !terrain
-SORT file.name ASC
-```
+| Name | Country | Climate | Status |
+| --- | --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Galeria]] |  | active |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Galeria]] |  | active |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Galeria]] |  | active |
 
 ### Missing Maps
 
-```dataview
-TABLE
-country AS "Country",
-regional_seat AS "Regional Seat",
-status AS "Status"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-AND (
-  !map
-  OR map = "10 Assets/Maps/placeholder-map.png"
-)
-SORT file.name ASC
-```
+| Name | Country | Regional Seat | Status |
+| --- | --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Galeria]] |  | active |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Galeria]] |  | active |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Galeria]] |  | active |

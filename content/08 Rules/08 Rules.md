@@ -39,126 +39,62 @@ publish: true
 
 ## 📁 Rule Categories
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Category",
-    length(
-        filter(
-            this.file.inlinks,
-            (link) => meta(link).type = "rule"
-        )
-    ) AS "Rules",
-    file.mtime AS "Updated"
-FROM "08 Rules"
-WHERE type = "rule_category"
-SORT file.name ASC
-```
+_No published entries._
 
 ---
 
 ## 📜 All Rules
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Rule",
-    category AS "Category",
-    system AS "System",
-    source AS "Source",
-    status AS "Status",
-    visibility AS "Visibility"
-FROM "08 Rules"
-WHERE type = "rule"
-SORT category ASC, file.name ASC
-```
+| Name | WITHOUT ID file.link AS "Rule" | Category | System | Source | Status | Visibility |
+| --- | --- | --- | --- | --- | --- | --- |
+| [[08 Rules/House Rules/Ancestry\|Ancestry]] |  | House Rules | D&D 5e 2024 | Homebrew | Draft | Public |
+| [[08 Rules/House Rules/Bonds\|Bonds]] |  | House Rules | D&D 5e 2024 | Homebrew | Draft | Public |
+| [[08 Rules/House Rules/Complications\|Complications]] |  | House Rules | D&D 5e 2024 | Homebrew | Draft | Public |
+| [[08 Rules/House Rules/Echo points\|Echo points]] |  | House Rules | D&D 5e 2024 | Homebrew | Draft | Public |
+| [[08 Rules/House Rules/Success at a cost\|Success at a cost]] |  | House Rules | D&D 5e 2024 | Homebrew | Draft | Public |
 
 ---
 
 ## 🧪 Rules in Testing
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Rule",
-    category AS "Category",
-    status AS "Status"
-FROM "08 Rules"
-WHERE type = "rule"
-AND status = "Testing"
-SORT file.name ASC
-```
+_No published entries._
 
 ---
 
 ## 📝 Draft Rules
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Rule",
-    category AS "Category",
-    source AS "Source"
-FROM "08 Rules"
-WHERE type = "rule"
-AND status = "Draft"
-SORT file.name ASC
-```
+| Name | WITHOUT ID file.link AS "Rule" | Category | Source |
+| --- | --- | --- | --- |
+| [[08 Rules/House Rules/Ancestry\|Ancestry]] |  | House Rules | Homebrew |
+| [[08 Rules/House Rules/Bonds\|Bonds]] |  | House Rules | Homebrew |
+| [[08 Rules/House Rules/Complications\|Complications]] |  | House Rules | Homebrew |
+| [[08 Rules/House Rules/Echo points\|Echo points]] |  | House Rules | Homebrew |
+| [[08 Rules/House Rules/Success at a cost\|Success at a cost]] |  | House Rules | Homebrew |
 
 ---
 
 ## ✅ Active Rules
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Rule",
-    category AS "Category",
-    source AS "Source"
-FROM "08 Rules"
-WHERE type = "rule"
-AND status = "Active"
-SORT category ASC, file.name ASC
-```
+_No published entries._
 
 ---
 
 ## 🔒 GM-Only Rules
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Rule",
-    category AS "Category",
-    status AS "Status"
-FROM "08 Rules"
-WHERE type = "rule"
-AND visibility = "GM Only"
-SORT category ASC, file.name ASC
-```
+_No published entries._
 
 ---
 
 ## 🌐 Published Rules
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Rule",
-    category AS "Category",
-    status AS "Status"
-FROM "08 Rules"
-WHERE type = "rule"
-AND publish = true
-SORT category ASC, file.name ASC
-```
+| Name | WITHOUT ID file.link AS "Rule" | Category | Status |
+| --- | --- | --- | --- |
+| [[08 Rules/House Rules/Ancestry\|Ancestry]] |  | House Rules | Draft |
+| [[08 Rules/House Rules/Bonds\|Bonds]] |  | House Rules | Draft |
+| [[08 Rules/House Rules/Complications\|Complications]] |  | House Rules | Draft |
+| [[08 Rules/House Rules/Echo points\|Echo points]] |  | House Rules | Draft |
+| [[08 Rules/House Rules/Success at a cost\|Success at a cost]] |  | House Rules | Draft |
 
 ## 📁 Rule Categories
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Category",
-    length(
-        filter(
-            pages("08 Rules"),
-            (rule) => rule.type = "rule" AND rule.category = file.name
-        )
-    ) AS "Rules",
-    file.mtime AS "Updated"
-FROM "08 Rules"
-WHERE type = "rule_category"
-SORT file.name ASC
-```
+_No published entries._

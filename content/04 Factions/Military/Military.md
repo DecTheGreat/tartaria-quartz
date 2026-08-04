@@ -30,65 +30,25 @@ actions:
 
 ## Factions
 
-```dataview
-TABLE
-faction_type AS "Type",
-public_reputation AS "Reputation",
-integrity AS "Integrity",
-headquarters AS "Headquarters",
-leader AS "Leader",
-status AS "Status"
-FROM "04 Factions"
-WHERE type = "faction"
-AND file.folder = this.file.folder
-SORT file.name ASC
-```
+_No published entries._
 
 ---
 
 ## Major Factions
 
-```dataview
-TABLE
-faction_type AS "Type",
-integrity AS "Integrity",
-headquarters AS "Headquarters",
-leader AS "Leader"
-FROM "04 Factions"
-WHERE type = "faction"
-AND file.folder = this.file.folder
-AND importance = "Major"
-SORT file.name ASC
-```
+_No published entries._
 
 ---
 
 ## Recently Modified
 
-```dataview
-TABLE
-file.mtime AS "Modified",
-faction_type AS "Type",
-integrity AS "Integrity",
-status AS "Status"
-FROM "04 Factions"
-WHERE type = "faction"
-AND file.folder = this.file.folder
-SORT file.mtime DESC
-LIMIT 10
-```
+_No published entries._
 
 ---
 
 ## Statistics
 
-```dataview
-TABLE WITHOUT ID
-length(rows) AS "Faction Count"
-FROM "04 Factions"
-WHERE type = "faction"
-AND file.folder = this.file.folder
-```
+_No published entries._
 
 ---
 
@@ -96,56 +56,16 @@ AND file.folder = this.file.folder
 
 ## Missing Faction Type
 
-```dataview
-TABLE
-integrity AS "Integrity",
-leader AS "Leader",
-headquarters AS "Headquarters"
-FROM "04 Factions"
-WHERE type = "faction"
-AND file.folder = this.file.folder
-AND (!faction_type OR faction_type = "")
-SORT file.name ASC
-```
+_No published entries._
 
 ## Missing Integrity
 
-```dataview
-TABLE
-faction_type AS "Type",
-leader AS "Leader",
-headquarters AS "Headquarters"
-FROM "04 Factions"
-WHERE type = "faction"
-AND file.folder = this.file.folder
-AND (!integrity OR integrity = "")
-SORT file.name ASC
-```
+_No published entries._
 
 ## Missing Leader
 
-```dataview
-TABLE
-faction_type AS "Type",
-integrity AS "Integrity",
-headquarters AS "Headquarters"
-FROM "04 Factions"
-WHERE type = "faction"
-AND file.folder = this.file.folder
-AND (!leader OR leader = "")
-SORT file.name ASC
-```
+_No published entries._
 
 ## Missing Headquarters
 
-```dataview
-TABLE
-faction_type AS "Type",
-integrity AS "Integrity",
-leader AS "Leader"
-FROM "04 Factions"
-WHERE type = "faction"
-AND file.folder = this.file.folder
-AND (!headquarters OR headquarters = "")
-SORT file.name ASC
-```
+_No published entries._

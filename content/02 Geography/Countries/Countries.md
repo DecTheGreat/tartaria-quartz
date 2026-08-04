@@ -23,18 +23,9 @@ actions:
 
 ## Countries
 
-```dataview
-TABLE
-continent AS "Continent",
-status AS "Status",
-government AS "Government",
-capital AS "Capital",
-ruler AS "Ruler",
-population AS "Population"
-FROM "02 Geography/Countries"
-WHERE type = "country"
-SORT continent ASC, file.name ASC
-```
+| Name | Continent | Status | Government | Capital | Ruler | Population |
+| --- | --- | --- | --- | --- | --- | --- |
+| [[02 Geography/Countries/Galeria\|Galeria]] | Eldoria | active | Plutocracy | Iosia |  |  |
 
 ---
 
@@ -152,16 +143,9 @@ dv.table(
 
 ## Recently Modified
 
-```dataview
-TABLE
-continent AS "Continent",
-status AS "Status",
-file.mtime AS "Modified"
-FROM "02 Geography/Countries"
-WHERE type = "country"
-SORT file.mtime DESC
-LIMIT 10
-```
+| Name | Continent | Status | Modified |
+| --- | --- | --- | --- |
+| [[02 Geography/Countries/Galeria\|Galeria]] | Eldoria | active |  |
 
 ---
 
@@ -169,54 +153,24 @@ LIMIT 10
 
 ### Missing Continents
 
-```dataview
-TABLE
-status AS "Status",
-government AS "Government"
-FROM "02 Geography/Countries"
-WHERE type = "country"
-AND !continent
-SORT file.name ASC
-```
+| Name | Status | Government |
+| --- | --- | --- |
+| [[02 Geography/Countries/Galeria\|Galeria]] | active | Plutocracy |
 
 ### Missing Capitals
 
-```dataview
-TABLE
-continent AS "Continent",
-government AS "Government",
-status AS "Status"
-FROM "02 Geography/Countries"
-WHERE type = "country"
-AND !capital
-SORT file.name ASC
-```
+| Name | Continent | Government | Status |
+| --- | --- | --- | --- |
+| [[02 Geography/Countries/Galeria\|Galeria]] | Eldoria | Plutocracy | active |
 
 ### Missing Governments
 
-```dataview
-TABLE
-continent AS "Continent",
-capital AS "Capital",
-status AS "Status"
-FROM "02 Geography/Countries"
-WHERE type = "country"
-AND !government
-SORT file.name ASC
-```
+| Name | Continent | Capital | Status |
+| --- | --- | --- | --- |
+| [[02 Geography/Countries/Galeria\|Galeria]] | Eldoria | Iosia | active |
 
 ### Missing Maps
 
-```dataview
-TABLE
-continent AS "Continent",
-capital AS "Capital",
-status AS "Status"
-FROM "02 Geography/Countries"
-WHERE type = "country"
-AND (
-  !map
-  OR map = "10 Assets/Maps/placeholder-map.png"
-)
-SORT file.name ASC
-```
+| Name | Continent | Capital | Status |
+| --- | --- | --- | --- |
+| [[02 Geography/Countries/Galeria\|Galeria]] | Eldoria | Iosia | active |

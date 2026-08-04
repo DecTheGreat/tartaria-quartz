@@ -24,148 +24,89 @@ actions:
 
 ## NPC Categories
 
-```dataview
-TABLE WITHOUT ID
-category AS "Category",
-length(rows) AS "NPCs"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-GROUP BY category
-SORT category ASC
-```
+| Name | WITHOUT ID category AS "Category" | length(rows) AS "NPCs" |
+| --- | --- | --- |
+| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] |  |  |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  |  |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  |  |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  |  |
+| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] |  |  |
+| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] |  |  |
+| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] |  |  |
 
 ---
 
 ## All NPCs
 
-```dataview
-TABLE
-category AS "Category",
-occupation AS "Occupation",
-settlement AS "Settlement",
-faction AS "Faction",
-status AS "Status"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-SORT category ASC, file.name ASC
-```
+| Name | Category | Occupation | Settlement | Faction | Status |
+| --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate | city council | Alive |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord | Frostguard | Alive |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % | Gorgeguard | Alive |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord | Frostguard | Alive |
+| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia | The Golden League | Alive |
+| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord | The Hand of Morpheus, The Amethyst Ravens | Alive |
+| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |  | Alive |
 
 ---
 
 ## Nobility
 
-```dataview
-TABLE
-title AS "Title",
-settlement AS "Settlement",
-country AS "Country",
-faction AS "Faction",
-status AS "Status"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND category = "Nobility"
-SORT file.name ASC
-```
+| Name | Title | Settlement | Country | Faction | Status |
+| --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Francisco Valerius | Iosia | [[Galeria]] | The Golden League | Alive |
+| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Krucro Belnet | Wrexfjord | [[Galeria]] | The Hand of Morpheus, The Amethyst Ravens | Alive |
+| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Theren Wyrmsbane the fifth | Wyrmsgate | [[Galeria]] |  | Alive |
 
 ---
 
 ## Military
 
-```dataview
-TABLE
-rank AS "Rank",
-occupation AS "Occupation",
-settlement AS "Settlement",
-faction AS "Faction",
-status AS "Status"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND category = "Military"
-SORT rank ASC, file.name ASC
-```
+| Name | Rank | Occupation | Settlement | Faction | Status |
+| --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  | Military Officer | Wrexfjord | Frostguard | Alive |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  | Military officer | % tp.file.title % | Gorgeguard | Alive |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  | Military Officer | Wrexfjord | Frostguard | Alive |
 
 ---
 
 ## Merchants
 
-```dataview
-TABLE
-occupation AS "Occupation",
-business AS "Business",
-settlement AS "Settlement",
-faction AS "Faction",
-status AS "Status"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND category = "Merchant"
-SORT settlement ASC, file.name ASC
-```
+| Name | Occupation | Business | Settlement | Faction | Status |
+| --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Guild member |  | Wyrmsgate | city council | Alive |
 
 ---
 
 ## Religious
 
-```dataview
-TABLE
-religion AS "Religion",
-title AS "Title",
-settlement AS "Settlement",
-faction AS "Faction",
-status AS "Status"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND category = "Religious"
-SORT religion ASC, file.name ASC
-```
+_No published entries._
 
 ---
 
 ## Criminal
 
-```dataview
-TABLE
-occupation AS "Role",
-faction AS "Faction",
-settlement AS "Settlement",
-status AS "Status"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND category = "Criminal"
-SORT faction ASC, file.name ASC
-```
+_No published entries._
 
 ---
 
 ## Arcane
 
-```dataview
-TABLE
-occupation AS "Occupation",
-magic_type AS "Magic",
-settlement AS "Settlement",
-faction AS "Faction",
-status AS "Status"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND category = "Arcane"
-SORT settlement ASC, file.name ASC
-```
+_No published entries._
 
 ---
 
 ## Recently Modified
 
-```dataview
-TABLE
-category AS "Category",
-occupation AS "Occupation",
-settlement AS "Settlement",
-file.mtime AS "Modified"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-SORT file.mtime DESC
-LIMIT 10
-```
+| Name | Category | Occupation | Settlement | Modified |
+| --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |  |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |  |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |  |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |  |
+| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |  |
+| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |  |
+| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |  |
 
 ---
 
@@ -173,83 +114,72 @@ LIMIT 10
 
 ## Missing Category
 
-```dataview
-TABLE
-occupation AS "Occupation",
-settlement AS "Settlement",
-status AS "Status"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND !category
-SORT file.name ASC
-```
+| Name | Occupation | Settlement | Status |
+| --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Wrexfjord | Alive |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | % tp.file.title % | Alive |
+| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Ruler | Iosia | Alive |
+| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Guild member | Wyrmsgate | Alive |
+| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Lord-Mayor | Wrexfjord | Alive |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord | Alive |
+| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Ruler | Wyrmsgate | Alive |
 
 ## Missing Occupation
 
-```dataview
-TABLE
-category AS "Category",
-settlement AS "Settlement",
-faction AS "Faction"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND !occupation
-SORT file.name ASC
-```
+| Name | Category | Settlement | Faction |
+| --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Wrexfjord | Frostguard |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | % tp.file.title % | Gorgeguard |
+| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Iosia | The Golden League |
+| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Wyrmsgate | city council |
+| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Wrexfjord | The Hand of Morpheus, The Amethyst Ravens |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Wrexfjord | Frostguard |
+| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Wyrmsgate |  |
 
 ## Missing Location
 
-```dataview
-TABLE
-category AS "Category",
-occupation AS "Occupation",
-faction AS "Faction"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND !settlement
-AND !region
-AND !current_location
-SORT file.name ASC
-```
+| Name | Category | Occupation | Faction |
+| --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Frostguard |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | Gorgeguard |
+| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | The Golden League |
+| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | city council |
+| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | The Hand of Morpheus, The Amethyst Ravens |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Frostguard |
+| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler |  |
 
 ## Missing Faction
 
-```dataview
-TABLE
-category AS "Category",
-occupation AS "Occupation",
-settlement AS "Settlement"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND !faction
-SORT file.name ASC
-```
+| Name | Category | Occupation | Settlement |
+| --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |
+| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |
+| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |
+| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 
 ## Missing Portrait
 
-```dataview
-TABLE
-category AS "Category",
-occupation AS "Occupation",
-settlement AS "Settlement"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND (
-  !portrait
-  OR portrait = "10 Assets/Portraits/placeholder-character.png"
-)
-SORT file.name ASC
-```
+| Name | Category | Occupation | Settlement |
+| --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |
+| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |
+| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |
+| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 
 ## Missing Public Description
 
-```dataview
-TABLE
-category AS "Category",
-occupation AS "Occupation",
-settlement AS "Settlement"
-FROM "03 Characters/NPCs"
-WHERE type = "npc"
-AND !summary
-SORT file.name ASC
-```
+| Name | Category | Occupation | Settlement |
+| --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |
+| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |
+| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |
+| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
+| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |

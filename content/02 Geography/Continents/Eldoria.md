@@ -100,45 +100,25 @@ Describe its climate zones, seasons, weather patterns, and supernatural environm
 
 ## Countries
 
-```dataview
-TABLE
-government AS "Government",
-capital AS "Capital",
-population AS "Population",
-status AS "Status"
-FROM "02 Geography/Countries"
-WHERE type = "country"
-AND continent = this.file.link
-SORT file.name ASC
-```
+| Name | Government | Capital | Population | Status |
+| --- | --- | --- | --- | --- |
+| [[02 Geography/Countries/Galeria\|Galeria]] | Plutocracy | Iosia |  | active |
 
 ## Regions
 
-```dataview
-TABLE
-country AS "Country",
-climate AS "Climate",
-terrain AS "Terrain",
-status AS "Status"
-FROM "02 Geography/Regions"
-WHERE type = "region"
-AND continent = this.file.link
-SORT country ASC, file.name ASC
-```
+| Name | Country | Climate | Terrain | Status |
+| --- | --- | --- | --- | --- |
+| [[02 Geography/Regions/Frostfjord\|Frostfjord]] | [[Galeria]] |  |  | active |
+| [[02 Geography/Regions/Harvestlands\|Harvestlands]] | [[Galeria]] |  |  | active |
+| [[02 Geography/Regions/Hearthlands\|Hearthlands]] | [[Galeria]] |  |  | active |
 
 ## Major Settlements
 
-```dataview
-TABLE
-settlement_type AS "Type",
-country AS "Country",
-region AS "Region",
-population AS "Population"
-FROM "02 Geography/Settlements"
-WHERE type = "settlement"
-AND continent = this.file.link
-SORT population DESC, file.name ASC
-```
+| Name | Type | Country | Region | Population |
+| --- | --- | --- | --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | capital | [[Galeria]] | [[Hearthlands]] |  |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | city | [[Galeria]] | [[Frostfjord]] |  |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | city | [[Galeria]] | [[Frostfjord]] |  |
 
 ## Peoples & Cultures
 
@@ -166,45 +146,15 @@ Describe major political, military, religious, economic, or supernatural events 
 
 ## Factions
 
-```dataview
-TABLE
-faction_type AS "Type",
-leader AS "Leader",
-headquarters AS "Headquarters",
-status AS "Status"
-FROM "04 Factions"
-WHERE continent = this.file.link
-SORT importance ASC, file.name ASC
-```
+_No published entries._
 
 ## Notable Characters
 
-```dataview
-TABLE
-entity_type AS "Type",
-role AS "Role",
-country AS "Country",
-region AS "Region",
-settlement AS "Settlement"
-FROM "03 Characters"
-WHERE type = "character"
-AND continent = this.file.link
-SORT importance ASC, file.name ASC
-```
+_No published entries._
 
 ## Creatures
 
-```dataview
-TABLE
-creature_type AS "Type",
-cr AS "CR",
-habitat AS "Habitat",
-rarity AS "Rarity"
-FROM "05 Creatures"
-WHERE type = "creature"
-AND continent = this.file.link
-SORT cr ASC, file.name ASC
-```
+_No published entries._
 
 ## Rumours
 

@@ -247,15 +247,7 @@ Information the NPC knows because of their occupation, history or faction.
 
 ### Active Quests
 
-```dataview
-TABLE
-status AS "Status",
-quest_giver AS "Quest Giver",
-settlement AS "Settlement"
-FROM "06 Adventures/Quests"
-WHERE contains(quest_giver, this.file.link)
-SORT file.name ASC
-```
+_No published entries._
 
 ## Encounters
 

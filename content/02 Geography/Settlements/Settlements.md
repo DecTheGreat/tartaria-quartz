@@ -24,61 +24,41 @@ actions:
 
 ## Settlements
 
-```dataview
-TABLE
-settlement_type AS "Type",
-region AS "Region",
-country AS "Country",
-population AS "Population",
-government AS "Government",
-status AS "Status"
-FROM "02 Geography/Settlements"
-WHERE type = "settlement"
-SORT region ASC, settlement_type ASC, file.name ASC
-```
+| Name | Type | Region | Country | Population | Government | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | city | [[Frostfjord]] | [[Galeria]] |  | Plutocracy | active |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | city | [[Frostfjord]] | [[Galeria]] |  |  | active |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | capital | [[Hearthlands]] | [[Galeria]] |  |  | active |
 
 ---
 
 ## Settlements by Region
 
-```dataview
-TABLE
-settlement_type AS "Type",
-population AS "Population",
-government AS "Government",
-status AS "Status"
-FROM "02 Geography/Settlements"
-WHERE type = "settlement"
-GROUP BY region
-```
+| Name | Type | Population | Government | Status |
+| --- | --- | --- | --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | capital |  |  | active |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | city |  | Plutocracy | active |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | city |  |  | active |
 
 ---
 
 ## Statistics
 
-```dataview
-TABLE WITHOUT ID
-length(rows) AS "Count"
-FROM "02 Geography/Settlements"
-WHERE type = "settlement"
-GROUP BY settlement_type
-SORT settlement_type
-```
+| Name | WITHOUT ID length(rows) AS "Count" |
+| --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] |  |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] |  |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] |  |
 
 ---
 
 ## Recently Modified
 
-```dataview
-TABLE
-region,
-status,
-file.mtime AS Modified
-FROM "02 Geography/Settlements"
-WHERE type = "settlement"
-SORT file.mtime DESC
-LIMIT 10
-```
+| Name | region | status | file.mtime AS Modified |
+| --- | --- | --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | [[Hearthlands]] | active |  |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | [[Frostfjord]] | active |  |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | [[Frostfjord]] | active |  |
 
 ---
 
@@ -86,68 +66,48 @@ LIMIT 10
 
 ## Missing Region
 
-```dataview
-TABLE
-country,
-status
-FROM "02 Geography/Settlements"
-WHERE type="settlement"
-AND !region
-```
+| Name | country | status |
+| --- | --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | [[Galeria]] | active |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | [[Galeria]] | active |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | [[Galeria]] | active |
 
 ## Missing Country
 
-```dataview
-TABLE
-region,
-status
-FROM "02 Geography/Settlements"
-WHERE type="settlement"
-AND !country
-```
+| Name | region | status |
+| --- | --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | [[Hearthlands]] | active |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | [[Frostfjord]] | active |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | [[Frostfjord]] | active |
 
 ## Missing Continent
 
-```dataview
-TABLE
-country,
-status
-FROM "02 Geography/Settlements"
-WHERE type="settlement"
-AND !continent
-```
+| Name | country | status |
+| --- | --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | [[Galeria]] | active |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | [[Galeria]] | active |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | [[Galeria]] | active |
 
 ## Missing Population
 
-```dataview
-TABLE
-region,
-settlement_type
-FROM "02 Geography/Settlements"
-WHERE type="settlement"
-AND !population
-```
+| Name | region | settlement_type |
+| --- | --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | [[Hearthlands]] | capital |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | [[Frostfjord]] | city |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | [[Frostfjord]] | city |
 
 ## Missing Government
 
-```dataview
-TABLE
-region,
-population
-FROM "02 Geography/Settlements"
-WHERE type="settlement"
-AND !government
-```
+| Name | region | population |
+| --- | --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | [[Hearthlands]] |  |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | [[Frostfjord]] |  |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | [[Frostfjord]] |  |
 
 ## Missing Maps
 
-```dataview
-TABLE
-region
-FROM "02 Geography/Settlements"
-WHERE type="settlement"
-AND (
-!map OR
-map = "10 Assets/Maps/placeholder-map.png"
-)
-```
+| Name | region |
+| --- | --- |
+| [[02 Geography/Settlements/Iosia\|Iosia]] | [[Hearthlands]] |
+| [[02 Geography/Settlements/Wrexfjord\|Wrexfjord]] | [[Frostfjord]] |
+| [[02 Geography/Settlements/Wyrmsgate\|Wyrmsgate]] | [[Frostfjord]] |
