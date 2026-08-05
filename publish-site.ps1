@@ -1,37 +1,54 @@
 $ErrorActionPreference = "Stop"
 
 $QuartzPath = "C:\Users\decjo\tartaria-quartz"
+$LogPath = Join-Path $QuartzPath "publish-site.log"
 
-Set-Location $QuartzPath
+function Write-Log {
+    param([string]$Message)
 
-Write-Host "Publishing Tartaria notes..." -ForegroundColor Cyan
-node .\scripts\publish-tartaria.mjs
-
-if ($LASTEXITCODE -ne 0) {
-    throw "The Tartaria publisher failed."
+    $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+    "$Timestamp  $Message" |
+        Tee-Object -FilePath $LogPath -Append
 }
 
-git add -A
+try {
+    Set-Location $QuartzPath
 
-# Check whether the publisher produced any changes.
-git diff --cached --quiet
+    Write-Log "Starting Tartaria website publication."
 
-if ($LASTEXITCODE -eq 0) {
-    Write-Host "No website changes to publish." -ForegroundColor Yellow
-    exit 0
+    node .\scripts\publish-tartaria.mjs
+
+    if ($LASTEXITCODE -ne 0) {
+        throw "Tartaria publisher returned exit code $LASTEXITCODE."
+    }
+
+    git add -A
+
+    git diff --cached --quiet
+
+    if ($LASTEXITCODE -eq 0) {
+        Write-Log "No website changes detected."
+        exit 0
+    }
+
+    $CommitMessage =
+        "Publish Tartaria update - $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
+
+    git commit -m $CommitMessage
+
+    if ($LASTEXITCODE -ne 0) {
+        throw "Git commit failed."
+    }
+
+    git push
+
+    if ($LASTEXITCODE -ne 0) {
+        throw "Git push failed."
+    }
+
+    Write-Log "Website update pushed successfully."
 }
-
-$Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm"
-git commit -m "Publish Tartaria update - $Timestamp"
-
-if ($LASTEXITCODE -ne 0) {
-    throw "Git commit failed."
+catch {
+    Write-Log "ERROR: $($_.Exception.Message)"
+    exit 1
 }
-
-git push
-
-if ($LASTEXITCODE -ne 0) {
-    throw "Git push failed."
-}
-
-Write-Host "Tartaria website update pushed successfully." -ForegroundColor Green
