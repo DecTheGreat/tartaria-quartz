@@ -57,6 +57,7 @@ Welcome to **Tartaria**, a high fantasy setting where ancient dragons still shap
 
 _No published entries._
 
+
 ```meta-bind-button
 label: Create Pantheon
 icon: plus
@@ -68,9 +69,8 @@ actions:
     templateFile: "09 Templates/Actions/New_Pantheon.md"
     folderPath: "90 Publish"
     fileName: "Pantheon Wizard"
-    openNote: false
+    openNote: true
 ```
-
 
 ```meta-bind-button
 label: Create Deity
@@ -80,9 +80,9 @@ id: new-deity
 hidden: true
 actions:
   - type: templaterCreateNote
-    templateFile: "09 Templates/World/Deity Template.md"
-    folderPath: "01 World/Religions/Deities"
-    fileName: ""
+    templateFile: "09 Templates/Actions/New_Deity.md"
+    folderPath: "90 Publish"
+    fileName: "Deity Wizard"
     openNote: true
 ```
 
@@ -94,8 +94,8 @@ id: new-historical-event
 hidden: true
 actions:
   - type: templaterCreateNote
-    templateFile: "09 Templates/World/Historical Event Template.md"
-    folderPath: "01 World/History/Historical Events"
-    fileName: ""
+    templateFile: "09 Templates/Actions/New_Historical_Event.md"
+    folderPath: "90 Publish"
+    fileName: "Historical Event Wizard"
     openNote: true
 ```
