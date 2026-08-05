@@ -41,3 +41,24 @@ warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by
 To https://github.com/DecTheGreat/tartaria-quartz.git
    70e5477e31b40f4a3aee18486681e58acf7a575e..c07a4c64d60c3acdbef53709a8b30d8a67e8157f  main -> main
 2026-08-05 19:18:31  Website update pushed successfully.
+2026-08-05 19:29:54  Starting Tartaria website publication.
+
+Tartaria Publisher v2 complete
+Published notes:     38
+Converted infoboxes: 10
+Converted tables:    176
+Copied assets:       7
+Skipped notes:       64
+
+Missing assets: 5
+- 03 Characters/NPCs/Military/Commander Garrick Stonevein.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mira Stonecloak.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Francisco Valerius.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Krucro Belnet.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth.md: PLACEHOLDER-NPC-PORTRAIT.png
+warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by LF the next time Git touches it
+[main 89a6f7e9233ad5b613e0acd209f5d2f005ca4f04] Publish Tartaria update - 2026-08-05 19:29
+ 3 files changed, 68 insertions(+), 7 deletions(-)
+To https://github.com/DecTheGreat/tartaria-quartz.git
+   c07a4c64d60c3acdbef53709a8b30d8a67e8157f..89a6f7e9233ad5b613e0acd209f5d2f005ca4f04  main -> main
+2026-08-05 19:29:58  Website update pushed successfully.
