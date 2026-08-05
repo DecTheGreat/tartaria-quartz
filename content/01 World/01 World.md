@@ -10,6 +10,9 @@ icon: globe
 
 Welcome to **Tartaria**, a high fantasy setting where ancient dragons still shape kingdoms, forgotten empires sleep beneath the earth, and gods quietly influence the fate of mortals.
 
+## Create World Lore
+
+`BUTTON[new-pantheon]` `BUTTON[new-deity]` `BUTTON[new-historical-event]`
 ---
 
 ## 🌍 Geography
@@ -52,10 +55,46 @@ Welcome to **Tartaria**, a high fantasy setting where ancient dragons still shap
 
 ## 👑 Gods
 
-```dataview
-TABLE
-portfolio AS "Domain",
-alignment AS "Alignment"
-FROM "01 World/Religions/Deities"
-WHERE publish = true
-SORT file.name
+_No published entries._
+
+```meta-bind-button
+label: Create Pantheon
+icon: plus
+style: primary
+id: new-pantheon
+hidden: true
+actions:
+  - type: templaterCreateNote
+    templateFile: "09 Templates/World/Pantheon Template.md"
+    folderPath: "01 World/Religions/Pantheons"
+    fileName: ""
+    openNote: true
+```
+
+```meta-bind-button
+label: Create Deity
+icon: plus
+style: primary
+id: new-deity
+hidden: true
+actions:
+  - type: templaterCreateNote
+    templateFile: "09 Templates/World/Deity Template.md"
+    folderPath: "01 World/Religions/Deities"
+    fileName: ""
+    openNote: true
+```
+
+```meta-bind-button
+label: Create Historical Event
+icon: plus
+style: primary
+id: new-historical-event
+hidden: true
+actions:
+  - type: templaterCreateNote
+    templateFile: "09 Templates/World/Historical Event Template.md"
+    folderPath: "01 World/History/Historical Events"
+    fileName: ""
+    openNote: true
+```
