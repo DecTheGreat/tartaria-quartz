@@ -69,7 +69,7 @@ actions:
     templateFile: "09 Templates/Actions/New_Pantheon.md"
     folderPath: "90 Publish"
     fileName: "Pantheon Wizard"
-    openNote: true
+    openNote: false
 ```
 
 ```meta-bind-button
