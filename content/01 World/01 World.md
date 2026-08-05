@@ -64,9 +64,13 @@ style: primary
 id: new-pantheon
 hidden: true
 actions:
-  - type: open
-    link: "[[09 Templates/Actions/New_Pantheon]]"
+  - type: templaterCreateNote
+    templateFile: "09 Templates/Actions/New_Pantheon.md"
+    folderPath: "90 Publish"
+    fileName: "Pantheon Wizard"
+    openNote: false
 ```
+
 
 ```meta-bind-button
 label: Create Deity
