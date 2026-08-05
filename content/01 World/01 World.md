@@ -64,11 +64,8 @@ style: primary
 id: new-pantheon
 hidden: true
 actions:
-  - type: templaterCreateNote
-    templateFile: "09 Templates/World/Pantheon Template.md"
-    folderPath: "01 World/Religions/Pantheons"
-    fileName: ""
-    openNote: true
+  - type: open
+    link: "[[09 Templates/Actions/New_Pantheon]]"
 ```
 
 ```meta-bind-button
