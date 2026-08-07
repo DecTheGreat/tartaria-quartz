@@ -22,7 +22,8 @@ actions:
     templateFile: 09 Templates/Actions/New_Pantheon.md
 ```
 
-<br
+<br>
+
 ```meta-bind-button
 label: Create Deity
 icon: plus
