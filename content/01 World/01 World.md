@@ -35,6 +35,9 @@ actions:
     templateFile: 09 Templates/Actions/New_Deity.md
 ```
 
+<br>
+
+
 ---
 
 ## 🌍 Geography
