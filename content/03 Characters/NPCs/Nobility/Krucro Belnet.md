@@ -27,7 +27,7 @@ organizations:
   - The Hand of Morpheus, The Amethyst Ravens
 religion: Malakor worship (secret)
 deity: null
-portrait: 10 Assets/Portraits/Krucro_Belnet.png
+portrait: 10 Assets/Portraits/npc portraits/Krucro_Belnet.png
 token: null
 map: null
 public_description: null
@@ -41,7 +41,7 @@ character_title: Lord
 > [!infobox]
 > # Krucro Belnet
 >
->![[10 Assets/Portraits/Krucro_Belnet.png]]
+>![[10 Assets/Portraits/npc portraits/Krucro_Belnet.png]]
 >
 > ###### Identity
 >

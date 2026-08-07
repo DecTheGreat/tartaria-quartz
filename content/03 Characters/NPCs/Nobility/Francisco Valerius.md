@@ -27,7 +27,7 @@ organizations:
   - The Golden League
 religion: ""
 deity: null
-portrait: 10 Assets/Portraits/Francisco_Valerius.png
+portrait: 10 Assets/Portraits/npc portraits/Francisco_Valerius.png
 token: null
 map: null
 public_description: null
@@ -41,7 +41,7 @@ character_title: High Chancellor of the Golden League
 > [!infobox]
 > # Francisco Valerius
 >
-> ![[10 Assets/Portraits/Francisco_Valerius.png]]
+> ![[10 Assets/Portraits/npc portraits/Francisco_Valerius.png]]
 >
 > ###### Identity
 >

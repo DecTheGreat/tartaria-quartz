@@ -26,7 +26,7 @@ organizations:
   - Frostguard
 religion: ""
 deity: null
-portrait: 10 Assets/Portraits/Balen_The_Shepard.png
+portrait: 10 Assets/Portraits/npc portraits/Balen_The_Shepard.png
 token: null
 map: null
 public_description: null
@@ -41,7 +41,7 @@ character_title: Sheriff
 > [!infobox]
 > # Balen The Shepard
 >
->  ![[10 Assets/Portraits/Balen_The_Shepard.png]]
+>  ![[10 Assets/Portraits/npc portraits/Balen_The_Shepard.png]]
 >
 > ###### Identity
 >

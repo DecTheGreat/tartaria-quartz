@@ -25,7 +25,7 @@ faction: city council
 organizations: []
 religion: ""
 deity: null
-portrait: 10 Assets/Portraits/Reeve_Halda_Tern.png
+portrait: 10 Assets/Portraits/npc portraits/Reeve_Halda_Tern.png
 token: null
 map: null
 public_description: null
@@ -39,7 +39,7 @@ character_title: Guildmaster
 > [!infobox]
 > # Halda Tern
 >
->  ![[10 Assets/Portraits/Reeve_Halda_Tern.png]]
+>  ![[10 Assets/Portraits/npc portraits/Reeve_Halda_Tern.png]]
 >
 > ###### Identity
 >
