@@ -28,6 +28,7 @@ actions:
 | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] |  |  |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  |  |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] |  |  |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  |  |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  |  |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] |  |  |
@@ -42,6 +43,7 @@ actions:
 | --- | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate | city council | Alive |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord | Frostguard | Alive |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Captain | Wyrmsgate | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord | Frostguard | Alive |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia | The Golden League | Alive |
@@ -65,6 +67,7 @@ actions:
 | Name | Rank | Occupation | Settlement | Faction | Status |
 | --- | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  | Military Officer | Wrexfjord | Frostguard | Alive |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] |  | Captain | Wyrmsgate | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  | Military officer | % tp.file.title % | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  | Military Officer | Wrexfjord | Frostguard | Alive |
 
@@ -102,6 +105,7 @@ _No published entries._
 | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |  |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |  |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Captain | Wyrmsgate |  |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |  |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |  |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |  |
@@ -117,6 +121,7 @@ _No published entries._
 | Name | Occupation | Settlement | Status |
 | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Wrexfjord | Alive |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Captain | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | % tp.file.title % | Alive |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Ruler | Iosia | Alive |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Guild member | Wyrmsgate | Alive |
@@ -129,6 +134,7 @@ _No published entries._
 | Name | Category | Settlement | Faction |
 | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Wrexfjord | Frostguard |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Wyrmsgate | Gorgeguard |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | % tp.file.title % | Gorgeguard |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Iosia | The Golden League |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Wyrmsgate | city council |
@@ -141,6 +147,7 @@ _No published entries._
 | Name | Category | Occupation | Faction |
 | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Frostguard |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Captain | Gorgeguard |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | Gorgeguard |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | The Golden League |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | city council |
@@ -153,6 +160,7 @@ _No published entries._
 | Name | Category | Occupation | Settlement |
 | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Captain | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |
@@ -165,6 +173,7 @@ _No published entries._
 | Name | Category | Occupation | Settlement |
 | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Captain | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |
@@ -177,6 +186,7 @@ _No published entries._
 | Name | Category | Occupation | Settlement |
 | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Captain | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |
