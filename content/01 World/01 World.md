@@ -11,8 +11,28 @@ icon: globe
 Welcome to **Tartaria**, a high fantasy setting where ancient dragons still shape kingdoms, forgotten empires sleep beneath the earth, and gods quietly influence the fate of mortals.
 
 ## Create World Lore
+```meta-bind-button
+label: Create Pantheon
+icon: plus
+style: primary
+id: new-pantheon
+hidden: false
+actions:
+  - type: runTemplaterFile
+    templateFile: 09 Templates/Actions/New_Pantheon.md
+```
 
-`BUTTON[new-pantheon]` `BUTTON[new-deity]` `BUTTON[new-historical-event]`
+```meta-bind-button
+label: Create Deity
+icon: plus
+style: primary
+id: new-deity
+hidden: false
+actions:
+  - type: runTemplaterFile
+    templateFile: 09 Templates/Actions/New_Deity.md
+```
+
 ---
 
 ## 🌍 Geography
@@ -56,46 +76,3 @@ Welcome to **Tartaria**, a high fantasy setting where ancient dragons still shap
 ## 👑 Gods
 
 _No published entries._
-
-
-```meta-bind-button
-label: Create Pantheon
-icon: plus
-style: primary
-id: new-pantheon
-hidden: true
-actions:
-  - type: templaterCreateNote
-    templateFile: "09 Templates/Actions/New_Pantheon.md"
-    folderPath: "90 Publish"
-    fileName: "Pantheon Wizard"
-    openNote: false
-```
-
-```meta-bind-button
-label: Create Deity
-icon: plus
-style: primary
-id: new-deity
-hidden: true
-actions:
-  - type: templaterCreateNote
-    templateFile: "09 Templates/Actions/New_Deity.md"
-    folderPath: "90 Publish"
-    fileName: "Deity Wizard"
-    openNote: true
-```
-
-```meta-bind-button
-label: Create Historical Event
-icon: plus
-style: primary
-id: new-historical-event
-hidden: true
-actions:
-  - type: templaterCreateNote
-    templateFile: "09 Templates/Actions/New_Historical_Event.md"
-    folderPath: "90 Publish"
-    fileName: "Historical Event Wizard"
-    openNote: true
-```
