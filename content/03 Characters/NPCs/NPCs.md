@@ -26,6 +26,7 @@ actions:
 
 | Name | WITHOUT ID category AS "Category" | length(rows) AS "NPCs" |
 | --- | --- | --- |
+| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] |  |  |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] |  |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] |  |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] |  |  |
@@ -43,6 +44,7 @@ actions:
 
 | Name | Category | Occupation | Settlement | Faction | Status |
 | --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia | The Spectres | Alive |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate | city council | Alive |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |  | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord | the Spectres thieves guild | Alive |
@@ -95,7 +97,9 @@ _No published entries._
 
 ## Criminal
 
-_No published entries._
+| Name | Role | Faction | Settlement | Status |
+| --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Thief | The Spectres | Iosia | Alive |
 
 ---
 
@@ -109,6 +113,7 @@ _No published entries._
 
 | Name | Category | Occupation | Settlement | Modified |
 | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |  |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |  |
@@ -138,6 +143,7 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Ruler | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | Wrexfjord | Alive |
+| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Thief | Iosia | Alive |
 
 ## Missing Occupation
 
@@ -153,6 +159,7 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Wyrmsgate |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Wrexfjord |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Wrexfjord | the Spectres thieves guild |
+| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Iosia | The Spectres |
 
 ## Missing Location
 
@@ -168,6 +175,7 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | the Spectres thieves guild |
+| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | The Spectres |
 
 ## Missing Faction
 
@@ -183,6 +191,7 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
+| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |
 
 ## Missing Portrait
 
@@ -198,6 +207,7 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
+| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |
 
 ## Missing Public Description
 
@@ -213,3 +223,4 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
+| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |
