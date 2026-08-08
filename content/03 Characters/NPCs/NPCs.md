@@ -27,6 +27,8 @@ actions:
 | Name | WITHOUT ID category AS "Category" | length(rows) AS "NPCs" |
 | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] |  |  |
+| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] |  |  |
+| [[03 Characters/NPCs/Merchant/Tom\|Tom]] |  |  |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  |  |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] |  |  |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  |  |
@@ -42,6 +44,8 @@ actions:
 | Name | Category | Occupation | Settlement | Faction | Status |
 | --- | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate | city council | Alive |
+| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |  | Alive |
+| [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord | the Spectres thieves guild | Alive |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord | Frostguard | Alive |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Wyrmsgate | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % | Gorgeguard | Alive |
@@ -77,6 +81,8 @@ actions:
 
 | Name | Occupation | Business | Settlement | Faction | Status |
 | --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner |  | Wrexfjord |  | Alive |
+| [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner |  | Wrexfjord | the Spectres thieves guild | Alive |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Guild member |  | Wyrmsgate | city council | Alive |
 
 ---
@@ -104,6 +110,8 @@ _No published entries._
 | Name | Category | Occupation | Settlement | Modified |
 | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |  |
+| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |  |
+| [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |  |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |  |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Wyrmsgate |  |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |  |
@@ -128,6 +136,8 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Lord-Mayor | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Ruler | Wyrmsgate | Alive |
+| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner | Wrexfjord | Alive |
+| [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | Wrexfjord | Alive |
 
 ## Missing Occupation
 
@@ -141,6 +151,8 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Wrexfjord | The Hand of Morpheus, The Amethyst Ravens |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Wrexfjord | Frostguard |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Wyrmsgate |  |
+| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Wrexfjord |  |
+| [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Wrexfjord | the Spectres thieves guild |
 
 ## Missing Location
 
@@ -154,6 +166,8 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | The Hand of Morpheus, The Amethyst Ravens |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Frostguard |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler |  |
+| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner |  |
+| [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | the Spectres thieves guild |
 
 ## Missing Faction
 
@@ -167,6 +181,8 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
+| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
+| [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
 
 ## Missing Portrait
 
@@ -180,6 +196,8 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
+| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
+| [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
 
 ## Missing Public Description
 
@@ -193,3 +211,5 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
+| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
+| [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
