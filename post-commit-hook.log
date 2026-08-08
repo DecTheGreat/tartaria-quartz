@@ -677,3 +677,30 @@ warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by
 To https://github.com/DecTheGreat/tartaria-quartz.git
    1b77272e659d8effafdfb063280f85559e1e2885..15e2b7ce5974cd0b4c05b49f4e0b39300da4d4f5  main -> main
 2026-08-08 01:14:31  Website update pushed successfully.
+2026-08-08 01:19:32  Starting Tartaria website publication.
+
+Tartaria Publisher v2 complete
+Published notes:     41
+Converted infoboxes: 10
+Converted tables:    179
+Copied assets:       7
+Skipped notes:       78
+
+Missing assets: 8
+- 03 Characters/NPCs/Merchant/Thrasz.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Tom.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Captain Edrik Vale.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Commander Garrick Stonevein.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mira Stonecloak.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Francisco Valerius.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Krucro Belnet.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth.md: PLACEHOLDER-NPC-PORTRAIT.png
+warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by LF the next time Git touches it
+[main f5179952416f0860fae8deec42a6b96868a21767] Publish Tartaria update - 2026-08-08 01:19
+ 6 files changed, 642 insertions(+)
+ create mode 100644 content/03 Characters/NPCs/Merchant/Thrasz.md
+ create mode 100644 content/03 Characters/NPCs/Merchant/Tom.md
+To https://github.com/DecTheGreat/tartaria-quartz.git
+   15e2b7ce5974cd0b4c05b49f4e0b39300da4d4f5..f5179952416f0860fae8deec42a6b96868a21767  main -> main
+2026-08-08 01:19:34  Website update pushed successfully.
+2026-08-08 01:35:10  Starting Tartaria website publication.

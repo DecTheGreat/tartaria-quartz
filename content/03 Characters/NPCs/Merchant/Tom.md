@@ -67,7 +67,7 @@ character_title: owner
 ## Overview
 
 
-Write a brief public description of who this character is and why they matter.
+Write a brief public description of who this character is and why th
 ## Portrait
 
 ```image-layout-a
@@ -80,7 +80,7 @@ Write a brief public description of who this character is and why they matter.
 
 `=this.public_description`
 
-Write a brief public description of who this character is and why they matter.
+Old Tom "one-eye" is the owner and proprietor of [[The Bloodied Rat]] in [[Wrexfjord]] and an ally of [[the Spectres]]
 
 ## Appearance
 
