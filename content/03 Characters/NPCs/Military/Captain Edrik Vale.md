@@ -3,7 +3,7 @@ type: npc
 name: Captain Edrik Vale
 aliases: []
 category: Military
-occupation: Captain
+occupation: Military Officer
 title: Captain Edrik Vale
 status: Alive
 importance: Supporting
@@ -46,7 +46,7 @@ character_title: Captain
 > | Field | Value |
 > |---|---|
 > | **Category** | Military |
-> | **Occupation** | Captain |
+> | **Occupation** | Military Officer |
 > | **Title** | Captain |
 > | **Ancestry** | Human |
 > | **Culture** |  |

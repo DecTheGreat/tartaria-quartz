@@ -632,3 +632,26 @@ Missing assets: 5
 To https://github.com/DecTheGreat/tartaria-quartz.git
    a37b6c29c9226389f984f68140ca86ae009f3a48..359c83457d6993a601f2b0a0a5cf7beb35d8d572  main -> main
 2026-08-08 00:40:30  Website update pushed successfully.
+2026-08-08 00:45:31  Starting Tartaria website publication.
+
+Tartaria Publisher v2 complete
+Published notes:     39
+Converted infoboxes: 10
+Converted tables:    177
+Copied assets:       7
+Skipped notes:       78
+
+Missing assets: 6
+- 03 Characters/NPCs/Military/Captain Edrik Vale.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Commander Garrick Stonevein.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mira Stonecloak.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Francisco Valerius.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Krucro Belnet.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth.md: PLACEHOLDER-NPC-PORTRAIT.png
+warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by LF the next time Git touches it
+[main 1b77272e659d8effafdfb063280f85559e1e2885] Publish Tartaria update - 2026-08-08 00:45
+ 5 files changed, 330 insertions(+)
+ create mode 100644 content/03 Characters/NPCs/Military/Captain Edrik Vale.md
+To https://github.com/DecTheGreat/tartaria-quartz.git
+   359c83457d6993a601f2b0a0a5cf7beb35d8d572..1b77272e659d8effafdfb063280f85559e1e2885  main -> main
+2026-08-08 00:45:34  Website update pushed successfully.

@@ -36,7 +36,7 @@ Describe the NPCs who belong to the **Military** category.
 | Name | Occupation | Title | Settlement | Faction | Status | Importance |
 | --- | --- | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Balen The Shepard | Wrexfjord | Frostguard | Alive | Major |
-| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Captain | Captain Edrik Vale | Wyrmsgate | Gorgeguard | Alive | Supporting |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Captain Edrik Vale | Wyrmsgate | Gorgeguard | Alive | Supporting |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Commander Garrick Stonevein | % tp.file.title % | Gorgeguard | Alive | Major |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Mira Stonecloak | Wrexfjord | Frostguard | Alive | Minor |
 
@@ -54,7 +54,7 @@ Describe the NPCs who belong to the **Military** category.
 | Name | Modified | Occupation | Settlement |
 | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  | Military Officer | Wrexfjord |
-| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] |  | Captain | Wyrmsgate |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] |  | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  | Military officer | % tp.file.title % |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  | Military Officer | Wrexfjord |
 
@@ -74,7 +74,7 @@ Describe the NPCs who belong to the **Military** category.
 | Name | Occupation | Status |
 | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Alive |
-| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Captain | Alive |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Alive |
 
@@ -83,7 +83,7 @@ Describe the NPCs who belong to the **Military** category.
 | Name | Occupation | Settlement |
 | --- | --- | --- |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Wrexfjord |
-| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Captain | Wyrmsgate |
+| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | % tp.file.title % |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord |
 
