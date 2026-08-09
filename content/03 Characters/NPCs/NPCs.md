@@ -55,7 +55,7 @@ actions:
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Wyrmsgate | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord | Frostguard | Alive |
-| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia | Merchant Guard | Alive |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia | Merchantile Custodians | Alive |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia | The Golden League | Alive |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord | The Hand of Morpheus, The Amethyst Ravens | Alive |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |  | Alive |
@@ -81,7 +81,7 @@ actions:
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] |  | Military Officer | Wyrmsgate | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  | Military officer | % tp.file.title % | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  | Military Officer | Wrexfjord | Frostguard | Alive |
-| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] |  | Commander of the City Guard | Iosia | Merchant Guard | Alive |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] |  | Commander of the City Guard | Iosia | Merchantile Custodians | Alive |
 
 ---
 
@@ -167,7 +167,7 @@ _No published entries._
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Wyrmsgate | city council |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Wrexfjord | The Hand of Morpheus, The Amethyst Ravens |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Wrexfjord | Frostguard |
-| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Iosia | Merchant Guard |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Iosia | Merchantile Custodians |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Wyrmsgate |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Wrexfjord |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Wrexfjord | the Spectres thieves guild |
@@ -185,7 +185,7 @@ _No published entries._
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | city council |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | The Hand of Morpheus, The Amethyst Ravens |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Frostguard |
-| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Merchant Guard |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Merchantile Custodians |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | the Spectres thieves guild |

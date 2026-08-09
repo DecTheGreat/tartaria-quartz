@@ -21,7 +21,7 @@ settlement: Iosia
 district: ""
 location: Iosia
 poi: null
-faction: Merchant Guard
+faction: Merchantile Custodians
 organizations: []
 religion: Vaelor Thamiel
 deity: null
@@ -60,7 +60,7 @@ character_title: Captain
 > |---|---|
 > | **Settlement** | Iosia |
 > | **Location** | Iosia |
-> | **Faction** | Merchant Guard |
+> | **Faction** | Merchantile Custodians |
 > | **Religion** | Vaelor Thamiel |
 > | **Disposition** | Neutral |
 

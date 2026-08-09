@@ -40,7 +40,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Captain Edrik Vale | Wyrmsgate | Gorgeguard | Alive | Supporting |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Commander Garrick Stonevein | % tp.file.title % | Gorgeguard | Alive | Major |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Mira Stonecloak | Wrexfjord | Frostguard | Alive | Minor |
-| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Selia Rook | Iosia | Merchant Guard | Alive | Minor |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Selia Rook | Iosia | Merchantile Custodians | Alive | Minor |
 
 ## Statistics
 
