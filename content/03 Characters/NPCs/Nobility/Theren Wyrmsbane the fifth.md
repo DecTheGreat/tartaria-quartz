@@ -25,7 +25,7 @@ faction: ""
 organizations: []
 religion: ""
 deity: null
-portrait: null
+portrait: 10 Assets/Portraits/npc portraits/Balen_The_Shepard.png
 token: null
 map: null
 public_description: null
@@ -39,7 +39,7 @@ character_title: Lord
 > [!infobox]
 > # Theren Wyrmsbane the fifth
 >
->
+> 10 Assets/Portraits/npc portraits/Balen_The_Shepard.png
 >
 > ###### Identity
 >
