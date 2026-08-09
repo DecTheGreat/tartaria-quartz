@@ -1,15 +1,14 @@
 ---
 type: npc
-name: Nessa Veyr
-aliases:
-  - '"greyhand"'
+name: Rusk Varn
+aliases: []
 category: Criminal
 occupation: Thief
-title: Nessa Veyr
+title: Rusk Varn
 status: Alive
 importance: Minor
 disposition: Neutral
-ancestry: Halfling
+ancestry: Half-Orc
 culture: null
 gender: null
 pronouns: null
@@ -18,9 +17,9 @@ alignment: null
 continent: "[[Eldoria]]"
 country: "[[Galeria]]"
 region: "[[Frostfjord]]"
-settlement: Wrexfjord
+settlement: Wyrmsgate
 district: ""
-location: Wrexfjord
+location: Wyrmsgate
 poi: null
 faction: The Spectres
 organizations: []
@@ -36,9 +35,9 @@ updated: 2026-08-09
 character_title: Master of the Sanctum
 ---
 
-# Nessa Veyr
+# Rusk Varn
 > [!infobox]
-> # Nessa Veyr
+> # Rusk Varn
 >
 >
 >
@@ -49,7 +48,7 @@ character_title: Master of the Sanctum
 > | **Category** | Criminal |
 > | **Occupation** | Thief |
 > | **Title** | Master of the Sanctum |
-> | **Ancestry** | Halfling |
+> | **Ancestry** | Half-Orc |
 > | **Culture** |  |
 > | **Pronouns** |  |
 > | **Age** |  |
@@ -59,8 +58,8 @@ character_title: Master of the Sanctum
 >
 > | Field | Value |
 > |---|---|
-> | **Settlement** | Wrexfjord |
-> | **Location** | Wrexfjord |
+> | **Settlement** | Wyrmsgate |
+> | **Location** | Wyrmsgate |
 > | **Faction** | The Spectres |
 > | **Religion** | Vexius |
 > | **Disposition** | Neutral |
