@@ -39,6 +39,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Balen The Shepard | Wrexfjord | Frostguard | Alive | Major |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Captain Edrik Vale | Wyrmsgate | Gorgeguard | Alive | Supporting |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Commander Garrick Stonevein | % tp.file.title % | Gorgeguard | Alive | Major |
+| [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | City Guard | Kellen Marr | Iosia | Merchantile Custodians | Alive | Supporting |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Mira Stonecloak | Wrexfjord | Frostguard | Alive | Minor |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Selia Rook | Iosia | Merchantile Custodians | Alive | Minor |
 
@@ -50,6 +51,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] |  |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  |
+| [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] |  |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] |  |
 
@@ -61,6 +63,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] |  | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  | Military officer | % tp.file.title % |
+| [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] |  | City Guard | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] |  | Commander of the City Guard | Iosia |
 
@@ -74,6 +77,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | % tp.file.title % | Alive |
+| [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Iosia | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Iosia | Alive |
 
@@ -85,6 +89,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Alive |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Alive |
+| [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | City Guard | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Alive |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Alive |
 
@@ -96,6 +101,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | % tp.file.title % |
+| [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | City Guard | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Iosia |
 
