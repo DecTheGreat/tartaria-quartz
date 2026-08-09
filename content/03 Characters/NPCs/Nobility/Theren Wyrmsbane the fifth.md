@@ -25,7 +25,7 @@ faction: ""
 organizations: []
 religion: ""
 deity: null
-portrait: 10 Assets/Portraits/npc portraits/Balen_The_Shepard.png
+portrait: 10 Assets/Portraits/npc portraits/Theren_Wyrmsbane.png
 token: null
 map: null
 public_description: null
@@ -39,7 +39,7 @@ character_title: Lord
 > [!infobox]
 > # Theren Wyrmsbane the fifth
 >
-> 10 Assets/Portraits/npc portraits/Balen_The_Shepard.png
+> ![[10 Assets/Portraits/npc portraits/Theren_Wyrmsbane.png]]
 >
 > ###### Identity
 >
@@ -68,13 +68,6 @@ character_title: Lord
 
 
 Write a brief public description of who this character is and why they matter.
-## Portrait
-
-```image-layout-a
-![[PLACEHOLDER-NPC-PORTRAIT.png]]
-```
-
-^portrait
 
 ## Overview
 
