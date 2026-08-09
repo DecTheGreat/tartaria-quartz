@@ -31,6 +31,7 @@ actions:
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] |  |  |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] |  |  |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] |  |  |
+| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] |  |  |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] |  |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] |  |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] |  |  |
@@ -58,6 +59,7 @@ actions:
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia | The Spectres | Alive |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate | city council | Alive |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia | Golden League, Azure Crows, Morpheus' Hand | Alive |
+| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia | The Iorn Bank of Iosia | Alive |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia | Reeves Pirate, Crimson shipping company | Alive |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |  | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord | the Spectres thieves guild | Alive |
@@ -105,6 +107,7 @@ actions:
 | Name | Occupation | Business | Settlement | Faction | Status |
 | --- | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant |  | Iosia | Golden League, Azure Crows, Morpheus' Hand | Alive |
+| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Banker |  | Iosia | The Iorn Bank of Iosia | Alive |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay |  | Iosia | Reeves Pirate, Crimson shipping company | Alive |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner |  | Wrexfjord |  | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner |  | Wrexfjord | the Spectres thieves guild | Alive |
@@ -147,6 +150,7 @@ actions:
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |  |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |  |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |  |
+| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |  |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |  |
@@ -181,6 +185,7 @@ actions:
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | City Guard | Iosia | Alive |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Lord-Mayor | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Iosia | Alive |
+| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Banker | Iosia | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | High Priest | Iosia | Alive |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Iosia | Alive |
@@ -206,6 +211,7 @@ actions:
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | Iosia | Merchantile Custodians |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Wrexfjord | The Hand of Morpheus, The Amethyst Ravens |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Iosia | Golden League, Azure Crows, Morpheus' Hand |
+| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Iosia | The Iorn Bank of Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Wrexfjord | Frostguard |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | Iosia | Temple of Thaniel |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Iosia | Merchantile Custodians |
@@ -231,6 +237,7 @@ actions:
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | City Guard | Merchantile Custodians |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | The Hand of Morpheus, The Amethyst Ravens |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Golden League, Azure Crows, Morpheus' Hand |
+| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | The Iorn Bank of Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Frostguard |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Temple of Thaniel |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Merchantile Custodians |
@@ -256,6 +263,7 @@ actions:
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
+| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
@@ -281,6 +289,7 @@ actions:
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
+| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
@@ -306,6 +315,7 @@ actions:
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
+| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
