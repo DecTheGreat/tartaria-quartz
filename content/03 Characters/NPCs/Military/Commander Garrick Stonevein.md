@@ -13,7 +13,7 @@ culture: null
 gender: null
 pronouns: null
 age: null
-alignment: null
+alignment: Lawful Good
 continent: "[[Eldoria]]"
 country: "[[Galeria]]"
 region: "[[Frostfjord]]"
