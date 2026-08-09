@@ -42,6 +42,7 @@ actions:
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] |  |  |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] |  |  |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] |  |  |
+| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] |  |  |
 
 ---
 
@@ -52,7 +53,7 @@ actions:
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia | The Spectres | Alive |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate | city council | Alive |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia | Golden League, Azure Crows, Morpheus' Hand | Alive |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Admiral of the Red Quay | Iosia | Reeves Pirate, Crimson shipping company | Alive |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia | Reeves Pirate, Crimson shipping company | Alive |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |  | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord | the Spectres thieves guild | Alive |
 | [[03 Characters/NPCs/Military/Anya Varkos\|Anya Varkos]] | Military | Military officer | Iosia | Merchantile Custodians | Alive |
@@ -65,6 +66,7 @@ actions:
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia | The Golden League | Alive |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord | The Hand of Morpheus, The Amethyst Ravens | Alive |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |  | Alive |
+| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia | Temple of Thaniel | Alive |
 
 ---
 
@@ -97,7 +99,7 @@ actions:
 | Name | Occupation | Business | Settlement | Faction | Status |
 | --- | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant |  | Iosia | Golden League, Azure Crows, Morpheus' Hand | Alive |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Admiral of the Red Quay |  | Iosia | Reeves Pirate, Crimson shipping company | Alive |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay |  | Iosia | Reeves Pirate, Crimson shipping company | Alive |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner |  | Wrexfjord |  | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner |  | Wrexfjord | the Spectres thieves guild | Alive |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Guild member |  | Wyrmsgate | city council | Alive |
@@ -106,7 +108,9 @@ actions:
 
 ## Religious
 
-_No published entries._
+| Name | Religion | Title | Settlement | Faction | Status |
+| --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Thaniel | Old Grimvald Gravekeeper | Iosia | Temple of Thaniel | Alive |
 
 ---
 
@@ -131,7 +135,7 @@ _No published entries._
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |  |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |  |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |  |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Admiral of the Red Quay | Iosia |  |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |  |
 | [[03 Characters/NPCs/Military/Anya Varkos\|Anya Varkos]] | Military | Military officer | Iosia |  |
@@ -144,6 +148,7 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |  |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |  |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |  |
+| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |  |
 
 ---
 
@@ -163,8 +168,9 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Lord-Mayor | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Iosia | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord | Alive |
+| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | High Priest | Iosia | Alive |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Iosia | Alive |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Admiral of the Red Quay | Iosia | Alive |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay | Iosia | Alive |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Ruler | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | Wrexfjord | Alive |
@@ -184,6 +190,7 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Wrexfjord | The Hand of Morpheus, The Amethyst Ravens |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Iosia | Golden League, Azure Crows, Morpheus' Hand |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Wrexfjord | Frostguard |
+| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | Iosia | Temple of Thaniel |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Iosia | Merchantile Custodians |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Iosia | Reeves Pirate, Crimson shipping company |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Wyrmsgate |  |
@@ -205,8 +212,9 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | The Hand of Morpheus, The Amethyst Ravens |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Golden League, Azure Crows, Morpheus' Hand |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Frostguard |
+| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Temple of Thaniel |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Merchantile Custodians |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Admiral of the Red Quay | Reeves Pirate, Crimson shipping company |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Reeves Pirate, Crimson shipping company |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | the Spectres thieves guild |
@@ -226,8 +234,9 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Admiral of the Red Quay | Iosia |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
@@ -247,8 +256,9 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Admiral of the Red Quay | Iosia |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
@@ -268,8 +278,9 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Admiral of the Red Quay | Iosia |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |

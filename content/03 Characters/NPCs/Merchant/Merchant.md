@@ -37,7 +37,7 @@ Describe the NPCs who belong to the **Merchant** category.
 | --- | --- | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Guild member | Halda Tern | Wyrmsgate | city council | Alive | Supporting |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Lysander Vance | Iosia | Golden League, Azure Crows, Morpheus' Hand | Alive | Minor |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Admiral of the Red Quay | Sevrin Vaelor | Iosia | Reeves Pirate, Crimson shipping company | Alive | Minor |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay | Sevrin Vaelor | Iosia | Reeves Pirate, Crimson shipping company | Alive | Minor |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner | Thrasz | Wrexfjord |  | Alive | Supporting |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | Tom | Wrexfjord | the Spectres thieves guild | Alive | Supporting |
 
@@ -57,7 +57,7 @@ Describe the NPCs who belong to the **Merchant** category.
 | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] |  | Guild member | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] |  | Merchant | Iosia |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] |  | Admiral of the Red Quay | Iosia |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] |  | Owner of the Red Quay | Iosia |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] |  | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] |  | Tavern owner | Wrexfjord |
 
@@ -79,7 +79,7 @@ Describe the NPCs who belong to the **Merchant** category.
 | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Guild member | Alive |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Alive |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Admiral of the Red Quay | Alive |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay | Alive |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | Alive |
 
@@ -89,7 +89,7 @@ Describe the NPCs who belong to the **Merchant** category.
 | --- | --- | --- |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Guild member | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Iosia |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Admiral of the Red Quay | Iosia |
+| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay | Iosia |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | Wrexfjord |
 

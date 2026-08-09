@@ -1,13 +1,13 @@
 ---
 type: npc
-name: Sevrin Vaelor
+name: Old Grimvald Gravekeeper
 aliases: []
-category: Merchant
-occupation: Owner of the Red Quay
-title: Sevrin Vaelor
+category: Religious
+occupation: High Priest
+title: Old Grimvald Gravekeeper
 status: Alive
 importance: Minor
-disposition: Hostile
+disposition: Friendly
 ancestry: Human
 culture: null
 gender: null
@@ -21,9 +21,9 @@ settlement: Iosia
 district: ""
 location: Iosia
 poi: null
-faction: Reeves Pirate, Crimson shipping company
+faction: Temple of Thaniel
 organizations: []
-religion: ""
+religion: Thaniel
 deity: null
 portrait: null
 token: null
@@ -32,12 +32,12 @@ public_description: null
 publish: true
 created: 2026-08-09
 updated: 2026-08-09
-character_title: Captain
+character_title: High Priest
 ---
 
-# Sevrin Vaelor
+# Old Grimvald Gravekeeper
 > [!infobox]
-> # Sevrin Vaelor
+> # Old Grimvald Gravekeeper
 >
 >
 >
@@ -45,9 +45,9 @@ character_title: Captain
 >
 > | Field | Value |
 > |---|---|
-> | **Category** | Merchant |
-> | **Occupation** | Owner of the Red Quay |
-> | **Title** | Captain |
+> | **Category** | Religious |
+> | **Occupation** | High Priest |
+> | **Title** | High Priest |
 > | **Ancestry** | Human |
 > | **Culture** |  |
 > | **Pronouns** |  |
@@ -60,9 +60,9 @@ character_title: Captain
 > |---|---|
 > | **Settlement** | Iosia |
 > | **Location** | Iosia |
-> | **Faction** | Reeves Pirate, Crimson shipping company |
-> | **Religion** |  |
-> | **Disposition** | Hostile |
+> | **Faction** | Temple of Thaniel |
+> | **Religion** | Thaniel |
+> | **Disposition** | Friendly |
 
 ## Overview
 
