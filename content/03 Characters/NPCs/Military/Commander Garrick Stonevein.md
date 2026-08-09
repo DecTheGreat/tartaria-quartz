@@ -9,8 +9,8 @@ status: Alive
 importance: Major
 disposition: Friendly
 ancestry: Human
-culture: null
-gender: null
+culture: Galeran
+gender: Male
 pronouns: null
 age: null
 alignment: Lawful Good
@@ -49,7 +49,7 @@ character_title: Commander
 > | **Occupation** | Military officer |
 > | **Title** | Commander |
 > | **Ancestry** | Human |
-> | **Culture** |  |
+> | **Culture** | Galeran |
 > | **Pronouns** |  |
 > | **Age** |  |
 > | **Status** | Alive |
