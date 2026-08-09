@@ -26,6 +26,8 @@ actions:
 
 | Name | WITHOUT ID category AS "Category" | length(rows) AS "NPCs" |
 | --- | --- | --- |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] |  |  |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] |  |  |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] |  |  |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] |  |  |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] |  |  |
@@ -51,6 +53,8 @@ actions:
 
 | Name | Category | Occupation | Settlement | Faction | Status |
 | --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia | the inverted tower | Alive |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia | inverted tower | Alive |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia | The Spectres | Alive |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate | city council | Alive |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia | Golden League, Azure Crows, Morpheus' Hand | Alive |
@@ -127,7 +131,10 @@ actions:
 
 ## Arcane
 
-_No published entries._
+| Name | Occupation | Magic | Settlement | Faction | Status |
+| --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage |  | Iosia | the inverted tower | Alive |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist |  | Iosia | inverted tower | Alive |
 
 ---
 
@@ -135,6 +142,8 @@ _No published entries._
 
 | Name | Category | Occupation | Settlement | Modified |
 | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia |  |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia |  |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |  |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |  |
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |  |
@@ -176,10 +185,12 @@ _No published entries._
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | High Priest | Iosia | Alive |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Iosia | Alive |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay | Iosia | Alive |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage | Iosia | Alive |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Ruler | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Thief | Iosia | Alive |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist | Iosia | Alive |
 
 ## Missing Occupation
 
@@ -199,10 +210,12 @@ _No published entries._
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | Iosia | Temple of Thaniel |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Iosia | Merchantile Custodians |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Iosia | Reeves Pirate, Crimson shipping company |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Arcane | Iosia | the inverted tower |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Wyrmsgate |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Wrexfjord |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Wrexfjord | the Spectres thieves guild |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Iosia | The Spectres |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Iosia | inverted tower |
 
 ## Missing Location
 
@@ -222,10 +235,12 @@ _No published entries._
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Temple of Thaniel |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Merchantile Custodians |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Reeves Pirate, Crimson shipping company |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | the inverted tower |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler |  |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | the Spectres thieves guild |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | The Spectres |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | inverted tower |
 
 ## Missing Faction
 
@@ -245,10 +260,12 @@ _No published entries._
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia |
 
 ## Missing Portrait
 
@@ -268,10 +285,12 @@ _No published entries._
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia |
 
 ## Missing Public Description
 
@@ -291,7 +310,9 @@ _No published entries._
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia |

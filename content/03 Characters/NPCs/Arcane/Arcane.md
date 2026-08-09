@@ -33,29 +33,47 @@ Describe the NPCs who belong to the **Arcane** category.
 
 ## NPCs
 
-_No published entries._
+| Name | Occupation | Title | Settlement | Faction | Status | Importance |
+| --- | --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage | Sierra Breedlove | Iosia | the inverted tower | Alive | Minor |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist | Vorlag | Iosia | inverted tower | Alive | Minor |
 
 ## Statistics
 
-_No published entries._
+| Name | WITHOUT ID length(rows) AS "NPC Count" |
+| --- | --- |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] |  |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] |  |
 
 ## Recently Modified
 
-_No published entries._
+| Name | Modified | Occupation | Settlement |
+| --- | --- | --- | --- |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] |  | High Mage | Iosia |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] |  | Master Arcanist | Iosia |
 
 ## Health Checks
 
 ### Missing Occupation
 
-_No published entries._
+| Name | Settlement | Status |
+| --- | --- | --- |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Iosia | Alive |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Iosia | Alive |
 
 ### Missing Settlement
 
-_No published entries._
+| Name | Occupation | Status |
+| --- | --- | --- |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage | Alive |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist | Alive |
 
 ### Missing Portrait
 
-_No published entries._
+| Name | Occupation | Settlement |
+| --- | --- | --- |
+| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage | Iosia |
+| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist | Iosia |
 
 ## Notes
 
