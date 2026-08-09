@@ -36,6 +36,7 @@ Describe the NPCs who belong to the **Arcane** category.
 | Name | Occupation | Title | Settlement | Faction | Status | Importance |
 | --- | --- | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage | Sierra Breedlove | Iosia | the inverted tower | Alive | Minor |
+| [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] | High Mage | Telnor | Wrexfjord | The Inverted Towers | Alive | Minor |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist | Vorlag | Iosia | inverted tower | Alive | Minor |
 
 ## Statistics
@@ -43,6 +44,7 @@ Describe the NPCs who belong to the **Arcane** category.
 | Name | WITHOUT ID length(rows) AS "NPC Count" |
 | --- | --- |
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] |  |
+| [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] |  |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] |  |
 
 ## Recently Modified
@@ -50,6 +52,7 @@ Describe the NPCs who belong to the **Arcane** category.
 | Name | Modified | Occupation | Settlement |
 | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] |  | High Mage | Iosia |
+| [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] |  | High Mage | Wrexfjord |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] |  | Master Arcanist | Iosia |
 
 ## Health Checks
@@ -59,6 +62,7 @@ Describe the NPCs who belong to the **Arcane** category.
 | Name | Settlement | Status |
 | --- | --- | --- |
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Iosia | Alive |
+| [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Iosia | Alive |
 
 ### Missing Settlement
@@ -66,6 +70,7 @@ Describe the NPCs who belong to the **Arcane** category.
 | Name | Occupation | Status |
 | --- | --- | --- |
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage | Alive |
+| [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] | High Mage | Alive |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist | Alive |
 
 ### Missing Portrait
@@ -73,6 +78,7 @@ Describe the NPCs who belong to the **Arcane** category.
 | Name | Occupation | Settlement |
 | --- | --- | --- |
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage | Iosia |
+| [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] | High Mage | Wrexfjord |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist | Iosia |
 
 ## Notes

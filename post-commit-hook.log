@@ -1056,3 +1056,39 @@ warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by
 To https://github.com/DecTheGreat/tartaria-quartz.git
    9cc7fcd87211d62c603827f6b24aac5f7e0f62bd..a68309be6dce3988a4eacf468460e511e87d4326  main -> main
 2026-08-09 22:08:27  Website update pushed successfully.
+2026-08-09 22:16:07  Starting Tartaria website publication.
+
+Tartaria Publisher v2 complete
+Published notes:     59
+Converted infoboxes: 12
+Converted tables:    224
+Copied assets:       8
+Skipped notes:       89
+
+Missing assets: 19
+- 03 Characters/NPCs/Arcane/Sierra Breedlove.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Arcane/Vorlag.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Vaelis Crowmark.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Lysander Vance.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Merissa Korrin.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Sevrin Vaelor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Thrasz.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Tom.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Anya Varkos.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Captain Edrik Vale.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Commander Garrick Stonevein.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Kellen Marr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mira Stonecloak.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Selia Rook.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Francisco Valerius.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Krucro Belnet.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Religious/Durnik Ironjudged.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Religious/Old Grimvald Gravekeeper.md: PLACEHOLDER-NPC-PORTRAIT.png
+warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by LF the next time Git touches it
+[main c9c2a46a12a5cbbb40eb9466c91c3d868d22714c] Publish Tartaria update - 2026-08-09 22:16
+ 5 files changed, 346 insertions(+)
+ create mode 100644 content/03 Characters/NPCs/Merchant/Merissa Korrin.md
+To https://github.com/DecTheGreat/tartaria-quartz.git
+   a68309be6dce3988a4eacf468460e511e87d4326..c9c2a46a12a5cbbb40eb9466c91c3d868d22714c  main -> main
+2026-08-09 22:16:10  Website update pushed successfully.
