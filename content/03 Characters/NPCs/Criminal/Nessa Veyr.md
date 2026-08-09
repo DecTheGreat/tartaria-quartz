@@ -1,14 +1,15 @@
 ---
 type: npc
-name: Vaelis Crowmark
-aliases: []
+name: Nessa Veyr
+aliases:
+  - '"greyhand"'
 category: Criminal
-occupation: Thief
-title: Vaelis Crowmark
+occupation: Master of the Sanctum
+title: Nessa Veyr
 status: Alive
 importance: Minor
 disposition: Neutral
-ancestry: Human
+ancestry: Halfling
 culture: null
 gender: null
 pronouns: null
@@ -16,10 +17,10 @@ age: null
 alignment: null
 continent: "[[Eldoria]]"
 country: "[[Galeria]]"
-region: "[[Hearthlands]]"
-settlement: Iosia
+region: "[[Frostfjord]]"
+settlement: Wrexfjord
 district: ""
-location: Iosia
+location: Wrexfjord
 poi: null
 faction: The Spectres
 organizations: []
@@ -30,15 +31,14 @@ token: null
 map: null
 public_description: null
 publish: true
-created: 2026-08-08
-updated: 2026-08-08
-character_title: Grandmaster of the Spectres, Master of the First Sanctum and
-  Keeper of the Iosian Veil.
+created: 2026-08-09
+updated: 2026-08-09
+character_title: guildmaster
 ---
 
-# Vaelis Crowmark
+# Nessa Veyr
 > [!infobox]
-> # Vaelis Crowmark
+> # Nessa Veyr
 >
 >
 >
@@ -47,9 +47,9 @@ character_title: Grandmaster of the Spectres, Master of the First Sanctum and
 > | Field | Value |
 > |---|---|
 > | **Category** | Criminal |
-> | **Occupation** | Thief |
-> | **Title** | Grandmaster of the Spectres, Master of the First Sanctum and Keeper of the Iosian Veil. |
-> | **Ancestry** | Human |
+> | **Occupation** | Master of the Sanctum |
+> | **Title** | guildmaster |
+> | **Ancestry** | Halfling |
 > | **Culture** |  |
 > | **Pronouns** |  |
 > | **Age** |  |
@@ -59,8 +59,8 @@ character_title: Grandmaster of the Spectres, Master of the First Sanctum and
 >
 > | Field | Value |
 > |---|---|
-> | **Settlement** | Iosia |
-> | **Location** | Iosia |
+> | **Settlement** | Wrexfjord |
+> | **Location** | Wrexfjord |
 > | **Faction** | The Spectres |
 > | **Religion** | Vexius |
 > | **Disposition** | Neutral |

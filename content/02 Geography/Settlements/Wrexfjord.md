@@ -161,6 +161,7 @@ _No published entries._
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Golden League, Azure Crows, Morpheus' Hand |  | Alive |
 | [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Banker | The Iorn Bank of Iosia |  | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Frostguard |  | Alive |
+| [[03 Characters/NPCs/Criminal/Nessa Veyr\|Nessa Veyr]] | Master of the Sanctum | The Spectres |  | Alive |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | High Priest | Temple of Thaniel |  | Alive |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Merchantile Custodians |  | Alive |
 | [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay | Reeves Pirate, Crimson shipping company |  | Alive |
