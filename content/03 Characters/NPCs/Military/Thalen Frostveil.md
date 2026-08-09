@@ -1,13 +1,13 @@
 ---
 type: npc
-name: Commander Garrick Stonevein
+name: Thalen Frostveil
 aliases: []
 category: Military
-occupation: Military officer
-title: Commander Garrick Stonevein
+occupation: City Guard
+title: Thalen Frostveil
 status: Alive
-importance: Major
-disposition: Friendly
+importance: Minor
+disposition: Suspicious
 ancestry: Human
 culture: null
 gender: null
@@ -17,27 +17,27 @@ alignment: null
 continent: "[[Eldoria]]"
 country: "[[Galeria]]"
 region: "[[Frostfjord]]"
-settlement: "[[Wyrmsgate]]"
+settlement: Wrexfjord
 district: ""
-location: Wyrmsgate
+location: Wrexfjord
 poi: null
-faction: Gorgeguard
+faction: Frostguard
 organizations: []
-religion: none
+religion: ""
 deity: null
 portrait: null
 token: null
 map: null
 public_description: null
 publish: true
-created: 2026-07-22
-updated: 2026-07-22
-character_title: Commander
+created: 2026-08-09
+updated: 2026-08-09
+character_title: Deputy Sheriff
 ---
 
-# Commander Garrick Stonevein
+# Thalen Frostveil
 > [!infobox]
-> # Commander Garrick Stonevein
+> # Thalen Frostveil
 >
 >
 >
@@ -46,8 +46,8 @@ character_title: Commander
 > | Field | Value |
 > |---|---|
 > | **Category** | Military |
-> | **Occupation** | Military officer |
-> | **Title** | Commander |
+> | **Occupation** | City Guard |
+> | **Title** | Deputy Sheriff |
 > | **Ancestry** | Human |
 > | **Culture** |  |
 > | **Pronouns** |  |
@@ -58,11 +58,11 @@ character_title: Commander
 >
 > | Field | Value |
 > |---|---|
-> | **Settlement** | [[Wyrmsgate]] |
-> | **Location** | Wyrmsgate |
-> | **Faction** | Gorgeguard |
-> | **Religion** | none |
-> | **Disposition** | Friendly |
+> | **Settlement** | Wrexfjord |
+> | **Location** | Wrexfjord |
+> | **Faction** | Frostguard |
+> | **Religion** |  |
+> | **Disposition** | Suspicious |
 
 ## Overview
 

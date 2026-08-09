@@ -167,6 +167,7 @@ _No published entries._
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage | the inverted tower |  | Alive |
 | [[03 Characters/NPCs/Religious/Silas Rhel\|Silas Rhel]] | Brother | Temple of Thaniel |  | Alive |
 | [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] | High Mage | The Inverted Towers |  | Alive |
+| [[03 Characters/NPCs/Military/Thalen Frostveil\|Thalen Frostveil]] | City Guard | Frostguard |  | Alive |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Ruler |  | Palace District | Alive |
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner |  |  | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | the Spectres thieves guild |  | Alive |
