@@ -35,28 +35,34 @@ Describe the NPCs who belong to the **Military** category.
 
 | Name | Occupation | Title | Settlement | Faction | Status | Importance |
 | --- | --- | --- | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Anya Varkos\|Anya Varkos]] | Military officer | Anya Varkos | Iosia | Merchantile Custodians | Alive | Minor |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Balen The Shepard | Wrexfjord | Frostguard | Alive | Major |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Captain Edrik Vale | Wyrmsgate | Gorgeguard | Alive | Supporting |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Commander Garrick Stonevein | % tp.file.title % | Gorgeguard | Alive | Major |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Mira Stonecloak | Wrexfjord | Frostguard | Alive | Minor |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Selia Rook | Iosia | Merchant Guard | Alive | Minor |
 
 ## Statistics
 
 | Name | WITHOUT ID length(rows) AS "NPC Count" |
 | --- | --- |
+| [[03 Characters/NPCs/Military/Anya Varkos\|Anya Varkos]] |  |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] |  |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] |  |
 
 ## Recently Modified
 
 | Name | Modified | Occupation | Settlement |
 | --- | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Anya Varkos\|Anya Varkos]] |  | Military officer | Iosia |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] |  | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] |  | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  | Military officer | % tp.file.title % |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] |  | Commander of the City Guard | Iosia |
 
 ## Health Checks
 
@@ -64,28 +70,34 @@ Describe the NPCs who belong to the **Military** category.
 
 | Name | Settlement | Status |
 | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Anya Varkos\|Anya Varkos]] | Iosia | Alive |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | % tp.file.title % | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Wrexfjord | Alive |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Iosia | Alive |
 
 ### Missing Settlement
 
 | Name | Occupation | Status |
 | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Anya Varkos\|Anya Varkos]] | Military officer | Alive |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Alive |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Alive |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Alive |
 
 ### Missing Portrait
 
 | Name | Occupation | Settlement |
 | --- | --- | --- |
+| [[03 Characters/NPCs/Military/Anya Varkos\|Anya Varkos]] | Military officer | Iosia |
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | % tp.file.title % |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord |
+| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Iosia |
 
 ## Notes
 
