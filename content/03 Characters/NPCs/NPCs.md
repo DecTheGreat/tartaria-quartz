@@ -42,6 +42,7 @@ actions:
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] |  |  |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] |  |  |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] |  |  |
+| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] |  |  |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] |  |  |
 
 ---
@@ -66,6 +67,7 @@ actions:
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia | The Golden League | Alive |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord | The Hand of Morpheus, The Amethyst Ravens | Alive |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |  | Alive |
+| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | Iosia | temple of Vaelor Thamiel | Alive |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia | Temple of Thaniel | Alive |
 
 ---
@@ -111,6 +113,7 @@ actions:
 | Name | Religion | Title | Settlement | Faction | Status |
 | --- | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Thaniel | Old Grimvald Gravekeeper | Iosia | Temple of Thaniel | Alive |
+| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] | Vaelor Thamiel | Durnik Ironjudged | Iosia | temple of Vaelor Thamiel | Alive |
 
 ---
 
@@ -148,6 +151,7 @@ _No published entries._
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |  |
 | [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |  |
 | [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Nobility | Ruler | Wyrmsgate |  |
+| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | Iosia |  |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |  |
 
 ---
@@ -162,6 +166,7 @@ _No published entries._
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | % tp.file.title % | Alive |
+| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] | Judge | Iosia | Alive |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Ruler | Iosia | Alive |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Guild member | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | City Guard | Iosia | Alive |
@@ -184,6 +189,7 @@ _No published entries._
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Wrexfjord | Frostguard |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Wyrmsgate | Gorgeguard |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | % tp.file.title % | Gorgeguard |
+| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Iosia | temple of Vaelor Thamiel |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Iosia | The Golden League |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Wyrmsgate | city council |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | Iosia | Merchantile Custodians |
@@ -206,6 +212,7 @@ _No published entries._
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Frostguard |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Gorgeguard |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | Gorgeguard |
+| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | temple of Vaelor Thamiel |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | The Golden League |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | city council |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | City Guard | Merchantile Custodians |
@@ -228,6 +235,7 @@ _No published entries._
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |
+| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | Iosia |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |
@@ -250,6 +258,7 @@ _No published entries._
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |
+| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | Iosia |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |
@@ -272,6 +281,7 @@ _No published entries._
 | [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | % tp.file.title % |
+| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | Iosia |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |
 | [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |
