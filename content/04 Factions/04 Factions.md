@@ -32,6 +32,7 @@ actions:
 
 | Name | WITHOUT ID file.link AS "Category" | length(filter(file.folder | (f) => contains(f | file.name))) AS "Factions" |
 | --- | --- | --- | --- | --- |
+| [[04 Factions/Clergy/Clergy\|Clergy]] |  |  |  |  |
 | [[04 Factions/Criminal/Criminal\|Criminal]] |  |  |  |  |
 | [[04 Factions/Military/Military\|Military]] |  |  |  |  |
 
