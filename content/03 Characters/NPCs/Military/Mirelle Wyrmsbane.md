@@ -3,7 +3,7 @@ type: npc
 name: Mirelle Wyrmsbane
 aliases: []
 category: Military
-occupation: Lady
+occupation: Military Officer
 title: Mirelle Wyrmsbane
 status: Alive
 importance: Minor
@@ -32,7 +32,7 @@ public_description: null
 publish: true
 created: 2026-08-10
 updated: 2026-08-10
-character_title: Leutenant
+character_title: Lady, Leutenant
 ---
 
 # Mirelle Wyrmsbane
@@ -46,8 +46,8 @@ character_title: Leutenant
 > | Field | Value |
 > |---|---|
 > | **Category** | Military |
-> | **Occupation** | Lady |
-> | **Title** | Leutenant |
+> | **Occupation** | Military Officer |
+> | **Title** | Lady, Leutenant |
 > | **Ancestry** | Human |
 > | **Culture** |  |
 > | **Pronouns** |  |

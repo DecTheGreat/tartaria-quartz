@@ -79,7 +79,7 @@ actions:
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | [[Wyrmsgate]] | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia | Merchantile Custodians | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord | Frostguard | Alive |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Lady | Wyrmsgate | Gorgeguard | Alive |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Military Officer | Wyrmsgate | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia | Merchantile Custodians | Alive |
 | [[03 Characters/NPCs/Military/Thalen Frostveil\|Thalen Frostveil]] | Military | City Guard | Wrexfjord | Frostguard | Alive |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia | The Golden League | Alive |
@@ -112,7 +112,7 @@ actions:
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  | Military officer | [[Wyrmsgate]] | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] |  | City Guard | Iosia | Merchantile Custodians | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  | Military Officer | Wrexfjord | Frostguard | Alive |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] |  | Lady | Wyrmsgate | Gorgeguard | Alive |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] |  | Military Officer | Wyrmsgate | Gorgeguard | Alive |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] |  | Commander of the City Guard | Iosia | Merchantile Custodians | Alive |
 | [[03 Characters/NPCs/Military/Thalen Frostveil\|Thalen Frostveil]] |  | City Guard | Wrexfjord | Frostguard | Alive |
 
@@ -184,7 +184,7 @@ actions:
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | [[Wyrmsgate]] |  |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |  |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |  |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Lady | Wyrmsgate |  |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Military Officer | Wyrmsgate |  |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |  |
 | [[03 Characters/NPCs/Military/Thalen Frostveil\|Thalen Frostveil]] | Military | City Guard | Wrexfjord |  |
 | [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |  |
@@ -216,7 +216,7 @@ actions:
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Iosia | Alive |
 | [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Banker | Iosia | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord | Alive |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Lady | Wyrmsgate | Alive |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military Officer | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Criminal/Nessa Veyr\|Nessa Veyr]] | Thief | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | High Priest | Iosia | Alive |
 | [[03 Characters/NPCs/Criminal/Rusk Varn\|Rusk Varn]] | Thief | Wyrmsgate | Alive |
@@ -282,7 +282,7 @@ actions:
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Golden League, Azure Crows, Morpheus' Hand |
 | [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | The Iorn Bank of Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Frostguard |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Lady | Gorgeguard |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Military Officer | Gorgeguard |
 | [[03 Characters/NPCs/Criminal/Nessa Veyr\|Nessa Veyr]] | Criminal | Thief | The Spectres |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Temple of Thaniel |
 | [[03 Characters/NPCs/Criminal/Rusk Varn\|Rusk Varn]] | Criminal | Thief | The Spectres |
@@ -315,7 +315,7 @@ actions:
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
 | [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Lady | Wyrmsgate |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Criminal/Nessa Veyr\|Nessa Veyr]] | Criminal | Thief | Wrexfjord |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Criminal/Rusk Varn\|Rusk Varn]] | Criminal | Thief | Wyrmsgate |
@@ -348,7 +348,7 @@ actions:
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
 | [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Lady | Wyrmsgate |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Criminal/Nessa Veyr\|Nessa Veyr]] | Criminal | Thief | Wrexfjord |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Criminal/Rusk Varn\|Rusk Varn]] | Criminal | Thief | Wyrmsgate |
@@ -381,7 +381,7 @@ actions:
 | [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
 | [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Lady | Wyrmsgate |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Criminal/Nessa Veyr\|Nessa Veyr]] | Criminal | Thief | Wrexfjord |
 | [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |
 | [[03 Characters/NPCs/Criminal/Rusk Varn\|Rusk Varn]] | Criminal | Thief | Wyrmsgate |

@@ -41,7 +41,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Commander Garrick Stonevein | [[Wyrmsgate]] | Gorgeguard | Alive | Major |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | City Guard | Kellen Marr | Iosia | Merchantile Custodians | Alive | Supporting |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Mira Stonecloak | Wrexfjord | Frostguard | Alive | Minor |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Lady | Mirelle Wyrmsbane | Wyrmsgate | Gorgeguard | Alive | Minor |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military Officer | Mirelle Wyrmsbane | Wyrmsgate | Gorgeguard | Alive | Minor |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Selia Rook | Iosia | Merchantile Custodians | Alive | Minor |
 | [[03 Characters/NPCs/Military/Thalen Frostveil\|Thalen Frostveil]] | City Guard | Thalen Frostveil | Wrexfjord | Frostguard | Alive | Minor |
 
@@ -69,7 +69,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] |  | Military officer | [[Wyrmsgate]] |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] |  | City Guard | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] |  | Military Officer | Wrexfjord |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] |  | Lady | Wyrmsgate |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] |  | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] |  | Commander of the City Guard | Iosia |
 | [[03 Characters/NPCs/Military/Thalen Frostveil\|Thalen Frostveil]] |  | City Guard | Wrexfjord |
 
@@ -99,7 +99,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Alive |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | City Guard | Alive |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Alive |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Lady | Alive |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military Officer | Alive |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Alive |
 | [[03 Characters/NPCs/Military/Thalen Frostveil\|Thalen Frostveil]] | City Guard | Alive |
 
@@ -113,7 +113,7 @@ Describe the NPCs who belong to the **Military** category.
 | [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | [[Wyrmsgate]] |
 | [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | City Guard | Iosia |
 | [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Lady | Wyrmsgate |
+| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Iosia |
 | [[03 Characters/NPCs/Military/Thalen Frostveil\|Thalen Frostveil]] | City Guard | Wrexfjord |
 
