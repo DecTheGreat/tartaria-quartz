@@ -1582,3 +1582,40 @@ To https://github.com/DecTheGreat/tartaria-quartz.git
    c9b4ec376344de151cfb8410899d770416ae22e0..6a64cdad8823741d6d1461f7613125ea3e4668e1  main -> main
 2026-08-10 23:10:37  Website update pushed successfully.
 2026-08-11 22:23:40  Starting Tartaria website publication.
+
+Tartaria Publisher v2 complete
+Published notes:     66
+Converted infoboxes: 12
+Converted tables:    231
+Copied assets:       9
+Skipped notes:       91
+
+Missing assets: 25
+- 03 Characters/NPCs/Arcane/Sierra Breedlove.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Arcane/Telnor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Arcane/Vorlag.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Nessa Veyr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Rusk Varn.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Vaelis Crowmark.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Lysander Vance.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Merissa Korrin.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Sevrin Vaelor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Thrasz.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Tom.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Anya Varkos.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Captain Edrik Vale.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Commander Garrick Stonevein.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Kellen Marr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mira Stonecloak.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mirelle Wyrmsbane.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Selia Rook.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Thalen Frostveil.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Francisco Valerius.md: PLACEHOLDER-NPC-PORTRAIT.png
+...and 5 more
+warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by LF the next time Git touches it
+[main 2750f64d0a3622ff4b9e9041e01beeb00d213797] Publish Tartaria update - 2026-08-11 22:23
+ 2 files changed, 37 insertions(+)
+To https://github.com/DecTheGreat/tartaria-quartz.git
+   6a64cdad8823741d6d1461f7613125ea3e4668e1..2750f64d0a3622ff4b9e9041e01beeb00d213797  main -> main
+2026-08-11 22:23:47  Website update pushed successfully.
+2026-08-11 22:28:48  Starting Tartaria website publication.
