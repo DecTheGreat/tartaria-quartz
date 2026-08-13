@@ -5,7 +5,7 @@ publish: true
 name: Oats
 aliases: null
 campaign: ""
-party: "[[03 Characters/Parties/Varmints/Varmints|Varmints]]"
+party: Varmints
 player: Marcin
 species: Sea Otter
 ancestry: null
@@ -51,17 +51,99 @@ religion: ""
 patron_deity: ""
 heroic_inspiration: 0
 echo_points: 0
-art: 10 Assets/Portraits/Player Portraits/placeholder-character.png
+art: 10 Assets/Portraits/Player Portraits/oats.png
 importance: Major
 updated: 2026-08-08
 title: Oats
 ---
 
 > [!infobox]
-> ## Oats
+> # Oats
 >
-> ![[10 Assets/Portraits/Player Portraits/placeholder-character.png]]
+> ![[10 Assets/Portraits/Player Portraits/oats.png]]
 >
+> ###### Player Character
+>
+> ```dataviewjs
+> const p = dv.current();
+>
+> const party = p.party
+>   ? dv.page(p.party.path ?? p.party)
+>   : null;
+>
+> const partyLevel = Number(party?.party_level ?? 0);
+>
+> const hasOverride =
+>   p.level_override !== undefined &&
+>   p.level_override !== null &&
+>   p.level_override !== "";
+>
+> const level = hasOverride
+>   ? Number(p.level_override)
+>   : partyLevel;
+>
+> const proficiency = level
+>   ? Math.ceil(level / 4) + 1
+>   : "";
+>
+> function display(value) {
+>   if (value === undefined || value === null || value === "") {
+>     return "";
+>   }
+>
+>   if (Array.isArray(value)) {
+>     return value.join(", ");
+>   }
+>
+>   if (typeof value === "object") {
+>     if (value.display) return value.display;
+>
+>     if (value.path) {
+>       return value.path
+>         .split("/")
+>         .pop()
+>         .replace(/\.md$/i, "");
+>     }
+>
+>     return "";
+>   }
+>
+>   return String(value);
+> }
+>
+> const rows = [
+>   ["Player", p.player],
+>   ["Party", p.party],
+>   ["Species", p.species],
+>   ["Ancestry", p.ancestry],
+>   ["Class", p.class],
+>   ["Subclass", p.subclass],
+>   ["Background", p.background],
+>   ["Level", level],
+>   ["Proficiency Bonus", proficiency ? `+${proficiency}` : ""],
+>   ["AC", p.armor_class ?? p.ac],
+>   ["Max HP", p.max_hp],
+>   ["Initiative", p.initiative_bonus],
+>   ["Alignment", p.alignment],
+>   ["Pronouns", p.pronouns],
+>   ["Homeland", p.homeland],
+>   ["Location", p.location],
+>   ["Faction", p.faction],
+>   ["Religion", p.religion],
+>   ["Patron Deity", p.patron_deity],
+>   ["Status", p.status]
+> ];
+>
+> dv.table(
+>   ["Field", "Value"],
+>   rows
+>     .filter(([_, value]) => display(value) !== "")
+>     .map(([field, value]) => [
+>       field,
+>       display(value)
+>     ])
+> );
+> ```
 
 # Oats
 
