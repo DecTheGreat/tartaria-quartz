@@ -1694,3 +1694,54 @@ warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by
 To https://github.com/DecTheGreat/tartaria-quartz.git
    1d77af6d2aaff289d744104b2c37c5413170a0e0..525ce24ba4edf3eddcdeab31a363d3462584bfd3  main -> main
 2026-08-11 22:33:55  Website update pushed successfully.
+2026-08-13 17:10:33  Starting Tartaria website publication.
+
+Tartaria Publisher v2 complete
+Published notes:     71
+Converted infoboxes: 11
+Converted tables:    232
+Copied assets:       15
+Skipped notes:       92
+
+Missing assets: 27
+- 03 Characters/NPCs/Arcane/Sierra Breedlove.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Arcane/Telnor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Arcane/Vorlag.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Nessa Veyr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Rusk Varn.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Vaelis Crowmark.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Lysander Vance.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Merissa Korrin.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Sevrin Vaelor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Thrasz.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Tom.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Anya Varkos.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Captain Edrik Vale.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Commander Garrick Stonevein.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Kellen Marr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mira Stonecloak.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mirelle Wyrmsbane.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Selia Rook.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Thalen Frostveil.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Francisco Valerius.md: PLACEHOLDER-NPC-PORTRAIT.png
+...and 7 more
+warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by LF the next time Git touches it
+[main 1d4a31be8b5150fdb2ed4f1c8f2731056709e5db] Publish Tartaria update - 2026-08-13 18:24
+ 18 files changed, 1065 insertions(+), 66 deletions(-)
+ rename content/03 Characters/Parties/Varmints/{ => Characters}/Bob.md (50%)
+ create mode 100644 content/03 Characters/Parties/Varmints/Characters/Doc Thumper.md
+ rename content/03 Characters/Parties/Varmints/{ => Characters}/Kyra.md (50%)
+ rename content/03 Characters/Parties/Varmints/{ => Characters}/Oats.md (50%)
+ create mode 100644 content/03 Characters/Parties/Varmints/Characters/Po.md
+ rename content/03 Characters/Parties/Varmints/{ => Characters}/Rocko.md (50%)
+ create mode 100644 content/03 Characters/Parties/Varmints/Varmints.md
+ delete mode 100644 content/10 Assets/Portraits/placeholder-character.png
+ create mode 100644 content/10 Assets/Portraits/player portraits/Bob.png
+ create mode 100644 content/10 Assets/Portraits/player portraits/Dr-Thumper.png
+ create mode 100644 content/10 Assets/Portraits/player portraits/Po.png
+ create mode 100644 content/10 Assets/Portraits/player portraits/kyra.png
+ create mode 100644 content/10 Assets/Portraits/player portraits/oats.png
+ create mode 100644 content/10 Assets/Portraits/player portraits/rocko.png
+ create mode 100644 content/10 Assets/Portraits/varmints.png
+fatal: unable to access 'https://github.com/DecTheGreat/tartaria-quartz.git/': Could not resolve host: github.com
+2026-08-13 18:24:37  ERROR: Git push failed.
