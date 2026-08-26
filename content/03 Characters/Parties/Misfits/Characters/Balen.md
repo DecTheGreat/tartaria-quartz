@@ -12,7 +12,7 @@ ancestry: null
 heritage: null
 complications: null
 heroic_destiny: null
-class: Monk
+class: Monk/Barbarian
 subclass: ""
 level_override: null
 ac: null
