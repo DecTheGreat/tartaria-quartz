@@ -8,10 +8,10 @@ campaign: "[[Tears Trade Trilogy]]"
 party: "[[03 Characters/Parties/Misfits/Misfits|Misfits]]"
 player: Jamie
 species: Halfling
-ancestry: null
+ancestry: Arcane-Touched
 heritage: null
 complications: null
-heroic_destiny: null
+heroic_destiny: Worldshaper
 class: Bard
 subclass: ""
 level_override: null
