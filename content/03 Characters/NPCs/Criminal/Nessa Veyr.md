@@ -151,21 +151,9 @@ Describe where the NPC is normally found and what they are usually doing.
 
 ### Allies
 
-```dataview
-LIST
-FROM "03 Characters"
-WHERE contains(allies, this.file.link)
-SORT file.name ASC
-```
 
 ### Rivals and Enemies
 
-```dataview
-LIST
-FROM "03 Characters"
-WHERE contains(enemies, this.file.link)
-SORT file.name ASC
-```
 
 ### Family and Personal Connections
 

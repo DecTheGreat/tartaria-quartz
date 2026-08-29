@@ -9,15 +9,6 @@ publish: true
 An index of Tartaria’s taverns, temples, shops, castles, ruins, dungeons, landmarks, and other notable locations.
 
 ## Create
-```meta-bind-button
-label: New POI
-icon: map-pinned
-style: primary
-
-actions:
-  - type: runTemplaterFile
-    templateFile: 09 Templates/Actions/New_POI.md
-```
 
 ---
 

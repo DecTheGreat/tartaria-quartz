@@ -192,13 +192,5 @@ Every complication should leave the players thinking:
 > _"We succeeded... but was it worth the price?"_
 ## Related Rules
 
-```dataview
-LIST
-FROM "08 Rules"
-WHERE type = "rule"
-AND file.path != this.file.path
-AND category = this.category
-SORT file.name ASC
-```
 
 ---

@@ -15,16 +15,6 @@ An index of Tartaria's factions, organisations, guilds, cults, governments and s
 
 ## Create
 
-```meta-bind-button
-label: New Faction Category
-icon: folder-plus
-style: primary
-tooltip: Create a new faction category
-id: new-faction-category
-actions:
-  - type: runTemplaterFile
-    templateFile: 09 Templates/Actions/New_Faction_Category.md
-```
 
 ---
 

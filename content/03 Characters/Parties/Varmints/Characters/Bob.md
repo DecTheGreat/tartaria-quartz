@@ -2,18 +2,18 @@
 type: player_character
 entity_type: pc
 publish: true
-name: Hughnaught Manlad
+name: Bob
 aliases: null
-campaign: "[[Tears Trade Trilogy]]"
-party: "[[03 Characters/Parties/Misfits/Misfits|Misfits]]"
-player: Marc
-species: Tiefling
+campaign: "[[the Varmints]]"
+party: Varmints
+player: Kieran
+species: Orangutan
 ancestry: null
 heritage: null
 complications: null
-heroic_destiny: null
-class: Ranger
-subclass: Feywanderer
+heroic_destiny: The Crown Unclaimed
+class: Monster Trainer
+subclass: ""
 level_override: null
 ac: null
 max_hp: ""
@@ -24,25 +24,25 @@ perception_training: none
 insight_training: none
 investigation_training: none
 history_training: none
-alignment: True Neutral
+alignment: Neutral Good
 pronouns: HeHim
 homeland: null
 location: ""
 faith: null
 portrait: null
-created: 2026-08-26
+created: 2026-08-11
 status: Active
-level: 11
+level: 5
 background: ""
-party_role: Striker
+party_role: Support
 armor_class: ""
 passive_perception: ""
-proficiency_bonus: 4
+proficiency_bonus: 3
 continent: ""
 country: ""
 region: ""
 settlement: ""
-wealth_type: personal
+wealth_type: pooled
 gold: 0
 gold_pool: ""
 bonds: []
@@ -51,31 +51,32 @@ religion: ""
 patron_deity: ""
 heroic_inspiration: 0
 echo_points: 0
-art: 10 Assets/Portraits/Player Portraits/placeholder-character.png
+art: 10 Assets/Portraits/Player Portraits/bob.png
 importance: Major
-updated: 2026-08-26
-title: Hughnaught Manlad
+updated: 2026-08-11
+title: Bob
 ---
 
 > [!infobox]
-> ## Hughnaught Manlad
+> # Bob
 >
-> ![[10 Assets/Portraits/Player Portraits/placeholder-character.png]]
+> ![[10 Assets/Portraits/Player Portraits/bob.png]]
 >
-
-# Hughnaught Manlad
+> ###### Player Character
+>
+>
 
 ## Character Controls
 
-Player: Marc
+Player: Kieran
 
-Party: [[03 Characters/Parties/Misfits/Misfits|Misfits]]
+Party: Varmints
 
-Species: Tiefling
+Species: Orangutan
 
-Class: Ranger
+Class: Monster Trainer
 
-Subclass: Feywanderer
+Subclass:
 
 AC:
 

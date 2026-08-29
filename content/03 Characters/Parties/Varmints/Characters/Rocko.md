@@ -2,18 +2,18 @@
 type: player_character
 entity_type: pc
 publish: true
-name: Hughnaught Manlad
+name: Rocko
 aliases: null
-campaign: "[[Tears Trade Trilogy]]"
-party: "[[03 Characters/Parties/Misfits/Misfits|Misfits]]"
-player: Marc
-species: Tiefling
-ancestry: null
+campaign: "[[the Varmints]]"
+party: Varmints
+player: Shan
+species: Raccoon
+ancestry: Silvery Tongue
 heritage: null
-complications: null
-heroic_destiny: null
-class: Ranger
-subclass: Feywanderer
+complications: Devils Bargain
+heroic_destiny: The Gate Key
+class: Bard, Rogue
+subclass: College of Glamour
 level_override: null
 ac: null
 max_hp: ""
@@ -24,25 +24,25 @@ perception_training: none
 insight_training: none
 investigation_training: none
 history_training: none
-alignment: True Neutral
+alignment: Chaotic Good
 pronouns: HeHim
 homeland: null
 location: ""
 faith: null
 portrait: null
-created: 2026-08-26
+created: 2026-08-11
 status: Active
-level: 11
-background: ""
+level: 5
+background: Musician
 party_role: Striker
 armor_class: ""
 passive_perception: ""
-proficiency_bonus: 4
+proficiency_bonus: 3
 continent: ""
 country: ""
 region: ""
 settlement: ""
-wealth_type: personal
+wealth_type: pooled
 gold: 0
 gold_pool: ""
 bonds: []
@@ -51,31 +51,34 @@ religion: ""
 patron_deity: ""
 heroic_inspiration: 0
 echo_points: 0
-art: 10 Assets/Portraits/Player Portraits/placeholder-character.png
+art: 10 Assets/Portraits/Player Portraits/rocko.png
 importance: Major
-updated: 2026-08-26
-title: Hughnaught Manlad
+updated: 2026-08-11
+title: Rocko
 ---
 
 > [!infobox]
-> ## Hughnaught Manlad
+> # Rocko
 >
-> ![[10 Assets/Portraits/Player Portraits/placeholder-character.png]]
+> ![[10 Assets/Portraits/Player Portraits/rocko.png]]
+>
+> ###### Player Character
+>
 >
 
-# Hughnaught Manlad
+# Rocko
 
 ## Character Controls
 
-Player: Marc
+Player: Shan
 
-Party: [[03 Characters/Parties/Misfits/Misfits|Misfits]]
+Party: Varmints
 
-Species: Tiefling
+Species: Raccoon
 
-Class: Ranger
+Class: Bard, Rogue
 
-Subclass: Feywanderer
+Subclass: College of Glamour
 
 AC:
 

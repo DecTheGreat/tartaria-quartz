@@ -246,13 +246,5 @@ Every Echo Point spent should reinforce the narrative by asking one simple quest
 The answer should always be rooted in the character's history, experiences, or the price they are willing to pay.
 ## Related Rules
 
-```dataview
-LIST
-FROM "08 Rules"
-WHERE type = "rule"
-AND file.path != this.file.path
-AND category = this.category
-SORT file.name ASC
-```
 
 ---

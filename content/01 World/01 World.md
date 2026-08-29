@@ -11,29 +11,9 @@ icon: globe
 Welcome to **Tartaria**, a high fantasy setting where ancient dragons still shape kingdoms, forgotten empires sleep beneath the earth, and gods quietly influence the fate of mortals.
 
 ## Create World Lore
-```meta-bind-button
-label: Create Pantheon
-icon: plus
-style: primary
-id: new-pantheon
-hidden: false
-actions:
-  - type: runTemplaterFile
-    templateFile: 09 Templates/Actions/New_Pantheon.md
-```
 
 <br>
 
-```meta-bind-button
-label: Create Deity
-icon: plus
-style: primary
-id: new-deity
-hidden: false
-actions:
-  - type: runTemplaterFile
-    templateFile: 09 Templates/Actions/New_Deity.md
-```
 
 <br>
 

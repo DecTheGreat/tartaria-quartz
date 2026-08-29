@@ -2,18 +2,18 @@
 type: player_character
 entity_type: pc
 publish: true
-name: Hughnaught Manlad
+name: Po
 aliases: null
-campaign: "[[Tears Trade Trilogy]]"
-party: "[[03 Characters/Parties/Misfits/Misfits|Misfits]]"
-player: Marc
-species: Tiefling
-ancestry: null
+campaign: "[[the Varmints]]"
+party: Varmints
+player: Ruairi
+species: Panda
+ancestry: Iron Stomach
 heritage: null
-complications: null
-heroic_destiny: null
-class: Ranger
-subclass: Feywanderer
+complications: Sacrificial Aegis
+heroic_destiny: Marked by the Enemy
+class: Monk
+subclass: Way of the open hand
 level_override: null
 ac: null
 max_hp: ""
@@ -24,20 +24,20 @@ perception_training: none
 insight_training: none
 investigation_training: none
 history_training: none
-alignment: True Neutral
+alignment: Neutral Good
 pronouns: HeHim
 homeland: null
 location: ""
 faith: null
 portrait: null
-created: 2026-08-26
+created: 2026-08-11
 status: Active
-level: 11
-background: ""
-party_role: Striker
+level: 5
+background: Merchant
+party_role: Frontliner
 armor_class: ""
 passive_perception: ""
-proficiency_bonus: 4
+proficiency_bonus: 3
 continent: ""
 country: ""
 region: ""
@@ -51,31 +51,33 @@ religion: ""
 patron_deity: ""
 heroic_inspiration: 0
 echo_points: 0
-art: 10 Assets/Portraits/Player Portraits/placeholder-character.png
+art: 10 Assets/Portraits/Player Portraits/po.png
 importance: Major
-updated: 2026-08-26
-title: Hughnaught Manlad
+updated: 2026-08-11
+title: Po
 ---
 
 > [!infobox]
-> ## Hughnaught Manlad
+> # Po
 >
-> ![[10 Assets/Portraits/Player Portraits/placeholder-character.png]]
+> ![[10 Assets/Portraits/Player Portraits/po.png]]
 >
-
-# Hughnaught Manlad
+> ###### Player Character
+>
+>
+# Po
 
 ## Character Controls
 
-Player: Marc
+Player: Ruairi
 
-Party: [[03 Characters/Parties/Misfits/Misfits|Misfits]]
+Party: Varmints
 
-Species: Tiefling
+Species: Panda
 
-Class: Ranger
+Class: Monk
 
-Subclass: Feywanderer
+Subclass: Way of the open hand
 
 AC:
 

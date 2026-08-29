@@ -2,18 +2,18 @@
 type: player_character
 entity_type: pc
 publish: true
-name: Hughnaught Manlad
+name: Oats
 aliases: null
-campaign: "[[Tears Trade Trilogy]]"
-party: "[[03 Characters/Parties/Misfits/Misfits|Misfits]]"
-player: Marc
-species: Tiefling
-ancestry: null
+campaign: ""
+party: Varmints
+player: Marcin
+species: Sea Otter
+ancestry: Thick-Skinned
 heritage: null
 complications: null
-heroic_destiny: null
-class: Ranger
-subclass: Feywanderer
+heroic_destiny: The Sleeping Titan
+class: Gunfighter
+subclass: Trickshot
 level_override: null
 ac: null
 max_hp: ""
@@ -24,20 +24,20 @@ perception_training: none
 insight_training: none
 investigation_training: none
 history_training: none
-alignment: True Neutral
+alignment: Chaotic Good
 pronouns: HeHim
 homeland: null
 location: ""
 faith: null
 portrait: null
-created: 2026-08-26
+created: 2026-08-08
 status: Active
-level: 11
-background: ""
+level: 4
+background: wayfarer
 party_role: Striker
 armor_class: ""
 passive_perception: ""
-proficiency_bonus: 4
+proficiency_bonus: 2
 continent: ""
 country: ""
 region: ""
@@ -51,31 +51,34 @@ religion: ""
 patron_deity: ""
 heroic_inspiration: 0
 echo_points: 0
-art: 10 Assets/Portraits/Player Portraits/placeholder-character.png
+art: 10 Assets/Portraits/Player Portraits/oats.png
 importance: Major
-updated: 2026-08-26
-title: Hughnaught Manlad
+updated: 2026-08-08
+title: Oats
 ---
 
 > [!infobox]
-> ## Hughnaught Manlad
+> # Oats
 >
-> ![[10 Assets/Portraits/Player Portraits/placeholder-character.png]]
+> ![[10 Assets/Portraits/Player Portraits/oats.png]]
+>
+> ###### Player Character
+>
 >
 
-# Hughnaught Manlad
+# Oats
 
 ## Character Controls
 
-Player: Marc
+Player: Marcin
 
-Party: [[03 Characters/Parties/Misfits/Misfits|Misfits]]
+Party: Varmints
 
-Species: Tiefling
+Species: Sea Otter
 
-Class: Ranger
+Class: Gunfighter
 
-Subclass: Feywanderer
+Subclass: Trickshot
 
 AC:
 

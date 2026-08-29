@@ -30,59 +30,7 @@ updated: 2026-07-19
 
 > [!infobox]
 >
-> ```dataviewjs
-> const p = dv.current();
 >
-> const clean = value => {
->   if (value === null || value === undefined || value === "") return "";
->   if (Array.isArray(value)) return value.join(", ");
->   return String(value);
-> };
->
-> const map = p.map ?? "10 Assets/Maps/placeholder-map.png";
->
-> const rows = [
->   ["Status", p.status],
->   ["Population", p.population],
->   ["Climate", p.climate],
->   ["Terrain", p.terrain],
->   ["Area", p.area],
->   ["Largest Country", p.largest_country],
->   ["Largest Settlement", p.largest_settlement],
->   ["Dominant Species", p.dominant_species],
->   ["Languages", p.languages],
->   ["Religions", p.religions],
->   ["Major Resources", p.major_resources],
->   ["Oceans", p.oceans],
->   ["Seas", p.seas],
-> ];
->
-> dv.container.innerHTML = `
->   <div class="tartaria-map">
->     <img src="${app.vault.adapter.getResourcePath(map)}">
->   </div>
->
->   <div class="tartaria-infobox-title">
->     ${clean(p.name) || p.file.name}
->   </div>
->
->   <div class="tartaria-infobox-section">
->     Continent
->   </div>
->
->   <table class="tartaria-infobox-table">
->     ${rows
->       .filter(([, value]) => clean(value) !== "")
->       .map(([field, value]) => `
->         <tr>
->           <td class="tartaria-field">${field}</td>
->           <td class="tartaria-value">${clean(value)}</td>
->         </tr>
->       `)
->       .join("")}
->   </table>
-> `;
-> ```
 
 # Eldoria
 

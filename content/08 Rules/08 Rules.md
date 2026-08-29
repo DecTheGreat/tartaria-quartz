@@ -10,23 +10,9 @@ publish: true
 >
 >> [!note]+ Create
 >>
->> ```meta-bind-button
->> label: ➕ New Rule
->> icon: plus
->> style: primary
->> actions:
->>   - type: runTemplaterFile
->>     templateFile: "09 Templates/Actions/New_Rule.md"
->> ```
 >>
->> ```meta-bind-button
->> label:  New Rule Category
->> icon: folder-plus
->> style: default
->> actions:
->>   - type: runTemplaterFile
->>     templateFile: "09 Templates/Actions/New_Rule_Category.md"
->> ```
+>>
+>>
 >
 >> [!info]+ Browse
 >>

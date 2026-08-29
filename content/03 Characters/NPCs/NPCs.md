@@ -10,15 +10,6 @@ An index of Tartaria’s named non-player characters, organised by social role a
 
 ## Create
 
-```meta-bind-button
-label: New NPC Category
-icon: folder-plus
-style: primary
-
-actions:
-  - type: runTemplaterFile
-    templateFile: 09 Templates/Actions/New_NPC_Category.md
-```
 
 ---
 

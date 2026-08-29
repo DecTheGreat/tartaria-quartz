@@ -628,13 +628,5 @@ The purpose of Bonds is to make the emotional history between player characters 
 
 ## Related Rules
 
-```dataview
-LIST
-FROM "08 Rules"
-WHERE type = "rule"
-AND file.path != this.file.path
-AND category = this.category
-SORT file.name ASC
-```
 
 ---

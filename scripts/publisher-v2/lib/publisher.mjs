@@ -14,6 +14,7 @@ import {
   removeCallouts,
   removeCodeBlocks,
   replaceViews,
+  replaceInputs,
   serializeMarkdown,
 } from "./markdown.mjs";
 
@@ -211,6 +212,7 @@ export async function runPublisher() {
     }
 
     body = replaceViews(body, viewFields);
+    body = replaceInputs(body, viewFields);
 
     const result = serializeMarkdown(
       frontmatter,

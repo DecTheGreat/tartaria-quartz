@@ -67,35 +67,35 @@ title: Lorne
 
 ## Character Controls
 
-Player: `INPUT[text:player]`
+Player: Eoin
 
-Party: `INPUT[text:party]`
+Party: [[03 Characters/Parties/Misfits/Misfits|Misfits]]
 
-Species: `INPUT[text:species]`
+Species: Human
 
-Class: `INPUT[text:class]`
+Class: Cleric
 
-Subclass: `INPUT[text:subclass]`
+Subclass: Domain of life
 
-AC: `INPUT[number:ac]`
+AC:
 
-Max HP: `INPUT[number:max_hp]`
+Max HP:
 
-Initiative Bonus: `INPUT[number:initiative_bonus]`
+Initiative Bonus: 0
 
-Wisdom Modifier: `INPUT[number:wisdom_mod]`
+Wisdom Modifier: 0
 
-Intelligence Modifier: `INPUT[number:intelligence_mod]`
+Intelligence Modifier: 0
 
 ## Skill Training
 
-Perception: `INPUT[inlineSelect(option(none), option(proficient), option(expertise)):perception_training]`
+Perception: none
 
-Insight: `INPUT[inlineSelect(option(none), option(proficient), option(expertise)):insight_training]`
+Insight: none
 
-Investigation: `INPUT[inlineSelect(option(none), option(proficient), option(expertise)):investigation_training]`
+Investigation: none
 
-History: `INPUT[inlineSelect(option(none), option(proficient), option(expertise)):history_training]`
+History: none
 
 ## Overview
 

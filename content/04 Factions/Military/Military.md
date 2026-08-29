@@ -15,16 +15,6 @@ updated: 2026-07-22
 
 ## Create
 
-```meta-bind-button
-label: New Faction
-icon: users-round
-style: primary
-tooltip: Create a new faction in this category
-id: new-faction
-actions:
-  - type: runTemplaterFile
-    templateFile: 09 Templates/Actions/New_Faction.md
-```
 
 ---
 

@@ -10,15 +10,6 @@ An index of the cities, towns, villages, forts and other settlements of Tartaria
 
 ## Create
 
-```meta-bind-button
-label: New Settlement
-icon: building-2
-style: primary
-
-actions:
-  - type: runTemplaterFile
-    templateFile: 09 Templates/Actions/New_Settlement.md
-```
 
 ---
 

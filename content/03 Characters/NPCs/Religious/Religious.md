@@ -13,17 +13,6 @@ title: Religious
 
 ## Create
 
-```meta-bind-button
-label: New NPC
-icon: user-plus
-style: primary
-tooltip: Create a new NPC
-id: new-npc
-hidden: false
-actions:
-  - type: runTemplaterFile
-    templateFile: 09 Templates/Actions/New_NPC.md
-```
 
 ---
 
