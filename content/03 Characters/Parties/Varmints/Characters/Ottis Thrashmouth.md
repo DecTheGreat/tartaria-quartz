@@ -13,7 +13,7 @@ heritage: null
 complications: null
 heroic_destiny: null
 class: Rogue
-subclass: ""
+subclass: Thief
 level_override: null
 ac: null
 max_hp: ""
@@ -75,7 +75,7 @@ Species: Raccoon
 
 Class: Rogue
 
-Subclass:
+Subclass: Thief
 
 AC:
 
