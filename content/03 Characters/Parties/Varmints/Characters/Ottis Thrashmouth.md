@@ -8,10 +8,10 @@ campaign: "[[Varmints]]"
 party: "[[03 Characters/Parties/Varmints/Varmints|Varmints]]"
 player: Ger
 species: Raccoon
-ancestry: null
+ancestry: Keen Eyed-Lineage
 heritage: null
-complications: null
-heroic_destiny: null
+complications: Devils Bargain
+heroic_destiny: Marked by the Enemy
 class: Rogue
 subclass: Thief
 level_override: null
@@ -33,7 +33,7 @@ portrait: null
 created: 2026-09-26
 status: Active
 level: 5
-background: ""
+background: Criminal
 party_role: Striker
 armor_class: ""
 passive_perception: ""
