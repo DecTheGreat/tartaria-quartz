@@ -60,4 +60,6 @@ Welcome to **Tartaria**, a high fantasy setting where ancient dragons still shap
 
 ## 👑 Gods
 
-_No published entries._
+| Name | Domain | Alignment |
+| --- | --- | --- |
+| [[01 World/Religions/Deities/Xylos\|Xylos]] | Knowledge Necromancy, Undeath. | Lawful Evil |

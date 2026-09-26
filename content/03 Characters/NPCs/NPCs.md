@@ -19,6 +19,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | --- | --- | --- |
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] |  |  |
 | [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] |  |  |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] |  |  |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] |  |  |
 | [[03 Characters/NPCs/Criminal/Nessa Veyr\|Nessa Veyr]] |  |  |
 | [[03 Characters/NPCs/Criminal/Rusk Varn\|Rusk Varn]] |  |  |
@@ -54,6 +55,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | --- | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia | the inverted tower | Alive |
 | [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] | Arcane | High Mage | Wrexfjord | The Inverted Towers | Alive |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | Arcane | high mage of Wyrmgate | Wyrmsgate |  | Alive |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia | inverted tower | Alive |
 | [[03 Characters/NPCs/Criminal/Nessa Veyr\|Nessa Veyr]] | Criminal | Thief | Wrexfjord | The Spectres | Alive |
 | [[03 Characters/NPCs/Criminal/Rusk Varn\|Rusk Varn]] | Criminal | Thief | Wyrmsgate | The Spectres | Alive |
@@ -150,6 +152,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage |  | Iosia | the inverted tower | Alive |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist |  | Iosia | inverted tower | Alive |
 | [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] | High Mage |  | Wrexfjord | The Inverted Towers | Alive |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | high mage of Wyrmgate |  | Wyrmsgate |  | Alive |
 
 ---
 
@@ -159,6 +162,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia |  |
 | [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] | Arcane | High Mage | Wrexfjord |  |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | Arcane | high mage of Wyrmgate | Wyrmsgate |  |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia |  |
 | [[03 Characters/NPCs/Criminal/Nessa Veyr\|Nessa Veyr]] | Criminal | Thief | Wrexfjord |  |
 | [[03 Characters/NPCs/Criminal/Rusk Varn\|Rusk Varn]] | Criminal | Thief | Wyrmsgate |  |
@@ -221,6 +225,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Thief | Iosia | Alive |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | high mage of Wyrmgate | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist | Iosia | Alive |
 
 ## Missing Occupation
@@ -254,6 +259,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Wrexfjord |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Wrexfjord | the Spectres thieves guild |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Iosia | The Spectres |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | Arcane | Wyrmsgate |  |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Iosia | inverted tower |
 
 ## Missing Location
@@ -287,6 +293,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner |  |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | the Spectres thieves guild |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | The Spectres |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | Arcane | high mage of Wyrmgate |  |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | inverted tower |
 
 ## Missing Faction
@@ -320,6 +327,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | Arcane | high mage of Wyrmgate | Wyrmsgate |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia |
 
 ## Missing Portrait
@@ -353,6 +361,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | Arcane | high mage of Wyrmgate | Wyrmsgate |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia |
 
 ## Missing Public Description
@@ -386,4 +395,5 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Merchant | Tavern owner | Wrexfjord |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | Arcane | high mage of Wyrmgate | Wyrmsgate |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia |

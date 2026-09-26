@@ -2358,3 +2358,39 @@ warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by
 To https://github.com/DecTheGreat/tartaria-quartz.git
    2e696de0fb31c72d84f2fbbdfad7facb7267276f..230a68fc4d7a306cd059cc0b32fecbe7dacc1d86  main -> main
 2026-08-27 00:22:40  Website update pushed successfully.
+2026-08-29 20:08:52  Starting Tartaria website publication.
+
+Tartaria Publisher v2 complete
+Published notes:     78
+Converted infoboxes: 16
+Converted tables:    242
+Copied assets:       15
+Skipped notes:       97
+
+Missing assets: 25
+- 03 Characters/NPCs/Arcane/Sierra Breedlove.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Arcane/Telnor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Arcane/Vorlag.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Nessa Veyr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Rusk Varn.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Vaelis Crowmark.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Lysander Vance.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Merissa Korrin.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Sevrin Vaelor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Thrasz.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Tom.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Anya Varkos.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Captain Edrik Vale.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Commander Garrick Stonevein.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Kellen Marr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mira Stonecloak.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mirelle Wyrmsbane.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Selia Rook.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Thalen Frostveil.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Nobility/Francisco Valerius.md: PLACEHOLDER-NPC-PORTRAIT.png
+...and 5 more
+[main 175a5f850231da6cf85596e1f6834aafc0b8648b] Publish Tartaria update - 2026-08-29 20:08
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+To https://github.com/DecTheGreat/tartaria-quartz.git
+   2b6e6febaf3bc9197fd3292dab8429af11f5f558..175a5f850231da6cf85596e1f6834aafc0b8648b  main -> main
+2026-08-29 20:08:58  Website update pushed successfully.

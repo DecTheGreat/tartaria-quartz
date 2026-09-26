@@ -175,6 +175,7 @@ _No published entries._
 | [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner |  |  | Alive |
 | [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | the Spectres thieves guild |  | Alive |
 | [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Thief | The Spectres |  | Alive |
+| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | high mage of Wyrmgate |  |  | Alive |
 | [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist | inverted tower |  | Alive |
 
 ## Creatures and Threats
