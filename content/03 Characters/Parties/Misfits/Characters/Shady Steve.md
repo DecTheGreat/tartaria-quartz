@@ -4,7 +4,7 @@ entity_type: pc
 publish: true
 name: Shady Steve
 aliases: null
-campaign: "[[Tears Trade Trilogy]]"
+campaign: "[[The Misfits]]"
 party: "[[03 Characters/Parties/Misfits/Misfits|Misfits]]"
 player: Jamie
 species: Halfling

@@ -4,7 +4,7 @@ entity_type: pc
 publish: true
 name: Balen
 aliases: null
-campaign: "[[Tears Trade Trilogy]]"
+campaign: "[[The Misfits]]"
 party: "[[03 Characters/Parties/Misfits/Misfits|Misfits]]"
 player: Tighe
 species: Dragonborn (red)
