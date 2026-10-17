@@ -11,6 +11,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 ## Create
 
 
+`BUTTON[new-npc-city]`
 ---
 
 ## NPC Categories
