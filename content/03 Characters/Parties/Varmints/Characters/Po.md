@@ -32,7 +32,7 @@ faith: null
 portrait: null
 created: 2026-08-11
 status: Active
-level: 5
+level: 6
 background: Merchant
 party_role: Frontliner
 armor_class: ""

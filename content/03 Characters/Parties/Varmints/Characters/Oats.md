@@ -32,7 +32,7 @@ faith: null
 portrait: null
 created: 2026-08-08
 status: Active
-level: 4
+level: 6
 background: wayfarer
 party_role: Striker
 armor_class: ""

@@ -20,10 +20,10 @@ max_hp: ""
 initiative_bonus: 0
 wisdom_mod: 0
 intelligence_mod: 0
-perception_training: none
-insight_training: none
-investigation_training: none
-history_training: none
+perception_training: proficient
+insight_training: proficient
+investigation_training: proficient
+history_training: proficient
 alignment: Chaotic Good
 pronouns: HeHim
 homeland: null
@@ -32,7 +32,7 @@ faith: null
 portrait: null
 created: 2026-08-11
 status: Active
-level: 5
+level: 6
 background: Musician
 party_role: Striker
 armor_class: ""
@@ -92,15 +92,17 @@ Intelligence Modifier: 0
 
 ## Skill Training
 
-Perception: none
+Perception: proficient
 
-Insight: none
+Insight: proficient
 
-Investigation: none
+Investigation: proficient
 
-History: none
+History: proficient
 
 ## Overview
+
+Rocko is obsessed with [[Kyra]] tail
 
 ## Appearance
 
