@@ -2804,3 +2804,40 @@ warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by
  2 files changed, 37 insertions(+)
 fatal: unable to access 'https://github.com/DecTheGreat/tartaria-quartz.git/': Could not resolve host: github.com
 2026-10-17 20:37:12  ERROR: Git push failed.
+2026-10-17 21:27:00  Starting Tartaria website publication.
+
+Tartaria Publisher v2 complete
+Published notes:     81
+Converted infoboxes: 18
+Converted tables:    245
+Copied assets:       16
+Skipped notes:       102
+
+Missing assets: 26
+- 03 Characters/NPCs/Arcane/Sierra Breedlove.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Arcane/Telnor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Arcane/Vaeryssa Coldscale.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Arcane/Vorlag.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Nessa Veyr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Rusk Varn.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Criminal/Vaelis Crowmark.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Lysander Vance.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Merissa Korrin.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Sevrin Vaelor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Thrasz.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Merchant/Tom.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Anya Varkos.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Captain Edrik Vale.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Commander Garrick Stonevein.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Kellen Marr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mira Stonecloak.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Mirelle Wyrmsbane.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Selia Rook.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Military/Thalen Frostveil.md: PLACEHOLDER-NPC-PORTRAIT.png
+...and 6 more
+warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by LF the next time Git touches it
+[main 868e820637088b1ec87d3ff8686a25065703b614] Publish Tartaria update - 2026-10-17 21:27
+ 2 files changed, 36 insertions(+)
+To https://github.com/DecTheGreat/tartaria-quartz.git
+   1000b871fa1a1cbca1eafd62f3e86040ccb7d8c8..868e820637088b1ec87d3ff8686a25065703b614  main -> main
+2026-10-17 21:27:04  Website update pushed successfully.
