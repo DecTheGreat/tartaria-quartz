@@ -102,7 +102,7 @@ History: proficient
 
 ## Overview
 
-Rocko is obsessed with [[Kyra]] tail
+Rocko is obsessed with [[Kyra]]'s tail and keeps trying to touch it.
 
 ## Appearance
 
