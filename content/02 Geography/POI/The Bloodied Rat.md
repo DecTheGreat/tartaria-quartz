@@ -8,7 +8,7 @@ publish: true
 continent: "[[Eldoria]]"
 country: "[[Galeria]]"
 region: "[[Frostfjord]]"
-settlement: "[[Wrexfjord]]"
+settlement: "[[02 Geography/Settlements/Wrexfjord]]"
 district: Slums
 owner: Old Tom One-Eye
 faction: the Spectres Thieves Guild
@@ -35,7 +35,7 @@ title: The Bloodied Rat
 > | --- | --- |
 > | Type | Point of Interest |
 > | Type | Tavern |
-> | Settlement | [[Wrexfjord]] |
+> | Settlement | [[02 Geography/Settlements/Wrexfjord]] |
 > | District | Slums |
 > | Region | [[Frostfjord]] |
 > | Country | [[Galeria]] |

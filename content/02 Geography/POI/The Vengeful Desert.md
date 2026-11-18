@@ -8,7 +8,7 @@ publish: true
 continent: "[[Eldoria]]"
 country: "[[Galeria]]"
 region: "[[Frostfjord]]"
-settlement: "[[Wrexfjord]]"
+settlement: "[[02 Geography/Settlements/Wrexfjord]]"
 district: Merchant Quarter
 owner: null
 faction: null
@@ -35,7 +35,7 @@ title: The Vengeful Desert
 > | --- | --- |
 > | Type | Point of Interest |
 > | Type | Inn |
-> | Settlement | [[Wrexfjord]] |
+> | Settlement | [[02 Geography/Settlements/Wrexfjord]] |
 > | District | Merchant Quarter |
 > | Region | [[Frostfjord]] |
 > | Country | [[Galeria]] |

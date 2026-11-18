@@ -50,8 +50,8 @@ This dashboard provides an overview of Tartaria’s physical world and automatic
 
 | Name | Type | Settlement | Region | Owner | Status |
 | --- | --- | --- | --- | --- | --- |
-| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | [[Wrexfjord]] | [[Frostfjord]] |  | active |
-| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | [[Wrexfjord]] | [[Frostfjord]] | Old Tom One-Eye | active |
+| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | [[02 Geography/Settlements/Wrexfjord]] | [[Frostfjord]] |  | active |
+| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | [[02 Geography/Settlements/Wrexfjord]] | [[Frostfjord]] | Old Tom One-Eye | active |
 | [[02 Geography/POI/Frostfangs Respite\|Frostfangs Respite]] | Inn | [[Wyrmsgate]] | [[Frostfjord]] | [[Halda Tern]] | active |
 
 ---

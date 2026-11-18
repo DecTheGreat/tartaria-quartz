@@ -87,8 +87,8 @@ Iosia the seat of [[The Golden League]] ruling council of Galeria.
 
 | Name | Type | Settlement | Region | Owner |
 | --- | --- | --- | --- | --- |
-| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | [[Wrexfjord]] | [[Frostfjord]] | Old Tom One-Eye |
-| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | [[Wrexfjord]] | [[Frostfjord]] |  |
+| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | [[02 Geography/Settlements/Wrexfjord]] | [[Frostfjord]] | Old Tom One-Eye |
+| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | [[02 Geography/Settlements/Wrexfjord]] | [[Frostfjord]] |  |
 | [[02 Geography/POI/Frostfangs Respite\|Frostfangs Respite]] | Inn | [[Wyrmsgate]] | [[Frostfjord]] | [[Halda Tern]] |
 
 ## People & Culture

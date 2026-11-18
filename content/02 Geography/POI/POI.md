@@ -16,8 +16,8 @@ An index of Tartaria’s taverns, temples, shops, castles, ruins, dungeons, land
 
 | Name | Type | Settlement | Region | Country | Owner | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | [[Wrexfjord]] | [[Frostfjord]] | [[Galeria]] |  | active |
-| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | [[Wrexfjord]] | [[Frostfjord]] | [[Galeria]] | Old Tom One-Eye | active |
+| [[02 Geography/POI/The Vengeful Desert\|The Vengeful Desert]] | Inn | [[02 Geography/Settlements/Wrexfjord]] | [[Frostfjord]] | [[Galeria]] |  | active |
+| [[02 Geography/POI/The Bloodied Rat\|The Bloodied Rat]] | Tavern | [[02 Geography/Settlements/Wrexfjord]] | [[Frostfjord]] | [[Galeria]] | Old Tom One-Eye | active |
 | [[02 Geography/POI/Frostfangs Respite\|Frostfangs Respite]] | Inn | [[Wyrmsgate]] | [[Frostfjord]] | [[Galeria]] | [[Halda Tern]] | active |
 
 ---

@@ -1,14 +1,14 @@
 ---
 type: npc
-name: Thrasz
+name: Carvos Rhel
 aliases: []
-category: Merchant
-occupation: Tavern owner
-title: Thrasz
+category: Wyrmsgate
+occupation: Temple of Thaniel Priest
+title: Carvos Rhel
 status: Alive
-importance: Supporting
-disposition: Friendly
-ancestry: Lizardfolk
+importance: Major
+disposition: Hostile
+ancestry: Human
 culture: null
 gender: null
 pronouns: null
@@ -17,27 +17,27 @@ alignment: null
 continent: "[[Eldoria]]"
 country: "[[Galeria]]"
 region: "[[Frostfjord]]"
-settlement: Wrexfjord
+settlement: Wyrmsgate
 district: ""
-location: Wrexfjord
+location: Wyrmsgate
 poi: null
-faction: ""
+faction: Gravebound Cohort
 organizations: []
-religion: ""
+religion: Xylos
 deity: null
 portrait: null
 token: null
 map: null
 public_description: null
 publish: true
-created: 2026-08-08
-updated: 2026-08-08
-character_title: owner
+created: 2026-11-15
+updated: 2026-11-15
+character_title: Priest
 ---
 
-# Thrasz
+# Carvos Rhel
 > [!infobox]
-> # Thrasz
+> # Carvos Rhel
 >
 >
 >
@@ -45,10 +45,10 @@ character_title: owner
 >
 > | Field | Value |
 > |---|---|
-> | **Category** | Merchant |
-> | **Occupation** | Tavern owner |
-> | **Title** | owner |
-> | **Ancestry** | Lizardfolk |
+> | **Category** | Wyrmsgate |
+> | **Occupation** | Temple of Thaniel Priest |
+> | **Title** | Priest |
+> | **Ancestry** | Human |
 > | **Culture** |  |
 > | **Pronouns** |  |
 > | **Age** |  |
@@ -58,16 +58,16 @@ character_title: owner
 >
 > | Field | Value |
 > |---|---|
-> | **Settlement** | Wrexfjord |
-> | **Location** | Wrexfjord |
-> | **Faction** |  |
-> | **Religion** |  |
-> | **Disposition** | Friendly |
+> | **Settlement** | Wyrmsgate |
+> | **Location** | Wyrmsgate |
+> | **Faction** | Gravebound Cohort |
+> | **Religion** | Xylos |
+> | **Disposition** | Hostile |
 
 ## Overview
 
 
-Ornery Lizardfolk owner of [[The Vengeful Desert]] Tavern in [[Wrexfjord]]
+Write a brief public description of who this character is and why they matter.
 ## Portrait
 
 ```image-layout-a

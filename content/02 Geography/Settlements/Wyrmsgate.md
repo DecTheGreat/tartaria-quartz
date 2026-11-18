@@ -142,35 +142,36 @@ _No published entries._
 
 | Name | Role | Faction | District | Status |
 | --- | --- | --- | --- | --- |
-| [[03 Characters/NPCs/Military/Anya Varkos\|Anya Varkos]] | Military officer | Merchantile Custodians |  | Alive |
-| [[03 Characters/NPCs/Military/Balen The Shepard\|Balen The Shepard]] | Military Officer | Frostguard | Military Quarter | Alive |
-| [[03 Characters/NPCs/Military/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Gorgeguard |  | Alive |
-| [[03 Characters/NPCs/Military/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Gorgeguard |  | Alive |
-| [[03 Characters/NPCs/Religious/Durnik Ironjudged\|Durnik Ironjudged]] | Judge | temple of Vaelor Thamiel |  | Alive |
-| [[03 Characters/NPCs/Religious/Elowen Brightwater\|Elowen Brightwater]] | High Priestess | Temple of Thaniel |  | Alive |
-| [[03 Characters/NPCs/Nobility/Francisco Valerius\|Francisco Valerius]] | Ruler | The Golden League | Merchant Quarter | Alive |
-| [[03 Characters/NPCs/Merchant/Halda Tern\|Halda Tern]] | Guild member | city council |  | Alive |
-| [[03 Characters/NPCs/Military/Kellen Marr\|Kellen Marr]] | City Guard | Merchantile Custodians |  | Alive |
-| [[03 Characters/NPCs/Nobility/Krucro Belnet\|Krucro Belnet]] | Lord-Mayor | The Hand of Morpheus, The Amethyst Ravens | Palace District | Alive |
-| [[03 Characters/NPCs/Merchant/Lysander Vance\|Lysander Vance]] | Merchant | Golden League, Azure Crows, Morpheus' Hand |  | Alive |
-| [[03 Characters/NPCs/Merchant/Merissa Korrin\|Merissa Korrin]] | Banker | The Iorn Bank of Iosia |  | Alive |
-| [[03 Characters/NPCs/Military/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Frostguard |  | Alive |
-| [[03 Characters/NPCs/Military/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military Officer | Gorgeguard |  | Alive |
-| [[03 Characters/NPCs/Criminal/Nessa Veyr\|Nessa Veyr]] | Thief | The Spectres |  | Alive |
-| [[03 Characters/NPCs/Religious/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | High Priest | Temple of Thaniel |  | Alive |
-| [[03 Characters/NPCs/Criminal/Rusk Varn\|Rusk Varn]] | Thief | The Spectres |  | Alive |
-| [[03 Characters/NPCs/Military/Selia Rook\|Selia Rook]] | Commander of the City Guard | Merchantile Custodians |  | Alive |
-| [[03 Characters/NPCs/Merchant/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay | Reeves Pirate, Crimson shipping company |  | Alive |
-| [[03 Characters/NPCs/Arcane/Sierra Breedlove\|Sierra Breedlove]] | High Mage | the inverted tower |  | Alive |
-| [[03 Characters/NPCs/Religious/Silas Rhel\|Silas Rhel]] | Brother | Temple of Thaniel |  | Alive |
-| [[03 Characters/NPCs/Arcane/Telnor\|Telnor]] | High Mage | The Inverted Towers |  | Alive |
-| [[03 Characters/NPCs/Military/Thalen Frostveil\|Thalen Frostveil]] | City Guard | Frostguard |  | Alive |
-| [[03 Characters/NPCs/Nobility/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Ruler |  | Palace District | Alive |
-| [[03 Characters/NPCs/Merchant/Thrasz\|Thrasz]] | Tavern owner |  |  | Alive |
-| [[03 Characters/NPCs/Merchant/Tom\|Tom]] | Tavern owner | the Spectres thieves guild |  | Alive |
-| [[03 Characters/NPCs/Criminal/Vaelis Crowmark\|Vaelis Crowmark]] | Thief | The Spectres |  | Alive |
-| [[03 Characters/NPCs/Arcane/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | high mage of Wyrmgate |  |  | Alive |
-| [[03 Characters/NPCs/Arcane/Vorlag\|Vorlag]] | Master Arcanist | inverted tower |  | Alive |
+| [[03 Characters/NPCs/Iosia/Anya Varkos\|Anya Varkos]] | Military officer | Merchantile Custodians |  | Alive |
+| [[03 Characters/NPCs/Wrexfjord/Balen The Shepard\|Balen The Shepard]] | Military Officer | Frostguard | Military Quarter | Alive |
+| [[03 Characters/NPCs/Wyrmsgate/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Gorgeguard |  | Alive |
+| [[03 Characters/NPCs/Wyrmsgate/Carvos Rhel\|Carvos Rhel]] | Temple of Thaniel Priest | Gravebound Cohort |  | Alive |
+| [[03 Characters/NPCs/Wyrmsgate/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Gorgeguard |  | Alive |
+| [[03 Characters/NPCs/Iosia/Durnik Ironjudged\|Durnik Ironjudged]] | Judge | temple of Vaelor Thamiel |  | Alive |
+| [[03 Characters/NPCs/Wrexfjord/Elowen Brightwater\|Elowen Brightwater]] | High Priestess | Temple of Thaniel |  | Alive |
+| [[03 Characters/NPCs/Iosia/Francisco Valerius\|Francisco Valerius]] | Ruler | The Golden League | Merchant Quarter | Alive |
+| [[03 Characters/NPCs/Wyrmsgate/Halda Tern\|Halda Tern]] | Guild member | city council |  | Alive |
+| [[03 Characters/NPCs/Iosia/Kellen Marr\|Kellen Marr]] | City Guard | Merchantile Custodians |  | Alive |
+| [[03 Characters/NPCs/Wrexfjord/Krucro Belnet\|Krucro Belnet]] | Lord-Mayor | The Hand of Morpheus, The Amethyst Ravens | Palace District | Alive |
+| [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Golden League, Azure Crows, Morpheus' Hand |  | Alive |
+| [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Banker | The Iorn Bank of Iosia |  | Alive |
+| [[03 Characters/NPCs/Wrexfjord/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Frostguard |  | Alive |
+| [[03 Characters/NPCs/Wyrmsgate/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military Officer | Gorgeguard |  | Alive |
+| [[03 Characters/NPCs/Wrexfjord/Nessa Veyr\|Nessa Veyr]] | Thief | The Spectres |  | Alive |
+| [[03 Characters/NPCs/Iosia/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | High Priest | Temple of Thaniel |  | Alive |
+| [[03 Characters/NPCs/Wyrmsgate/Rusk Varn\|Rusk Varn]] | Thief | The Spectres |  | Alive |
+| [[03 Characters/NPCs/Iosia/Selia Rook\|Selia Rook]] | Commander of the City Guard | Merchantile Custodians |  | Alive |
+| [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay | Reeves Pirate, Crimson shipping company |  | Alive |
+| [[03 Characters/NPCs/Iosia/Sierra Breedlove\|Sierra Breedlove]] | High Mage | the inverted tower |  | Alive |
+| [[03 Characters/NPCs/Wrexfjord/Silas Rhel\|Silas Rhel]] | Brother | Temple of Thaniel |  | Alive |
+| [[03 Characters/NPCs/Wrexfjord/Telnor\|Telnor]] | High Mage | The Inverted Towers |  | Alive |
+| [[03 Characters/NPCs/Wrexfjord/Thalen Frostveil\|Thalen Frostveil]] | City Guard | Frostguard |  | Alive |
+| [[03 Characters/NPCs/Wyrmsgate/Theren Wyrmsbane the fifth\|Theren Wyrmsbane the fifth]] | Ruler |  | Palace District | Alive |
+| [[03 Characters/NPCs/Wrexfjord/Thrasz\|Thrasz]] | Tavern owner |  |  | Alive |
+| [[03 Characters/NPCs/Wrexfjord/Tom\|Tom]] | Tavern owner | the Spectres thieves guild |  | Alive |
+| [[03 Characters/NPCs/Iosia/Vaelis Crowmark\|Vaelis Crowmark]] | Thief | The Spectres |  | Alive |
+| [[03 Characters/NPCs/Wyrmsgate/Vaeryssa Coldscale\|Vaeryssa Coldscale]] | high mage of Wyrmgate |  |  | Alive |
+| [[03 Characters/NPCs/Iosia/Vorlag\|Vorlag]] | Master Arcanist | inverted tower |  | Alive |
 
 ## Creatures and Threats
 
