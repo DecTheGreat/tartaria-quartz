@@ -26,6 +26,7 @@ An index of Tartaria's factions, organisations, guilds, cults, governments and s
 | [[04 Factions/Clergy/Clergy\|Clergy]] |  |  |  |  |
 | [[04 Factions/Criminal/Criminal\|Criminal]] |  |  |  |  |
 | [[04 Factions/Military/Military\|Military]] |  |  |  |  |
+| [[04 Factions/Travelling Company/Travelling Company\|Travelling Company]] |  |  |  |  |
 
 ---
 
