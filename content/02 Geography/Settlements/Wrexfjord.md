@@ -161,6 +161,7 @@ _No published entries._
 | [[03 Characters/NPCs/Iosia/Kellen Marr\|Kellen Marr]] | City Guard | Merchantile Custodians |  | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Krucro Belnet\|Krucro Belnet]] | Lord-Mayor | The Hand of Morpheus, The Amethyst Ravens | Palace District | Alive |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Golden League, Azure Crows, Morpheus' Hand |  | Alive |
+| [[03 Characters/NPCs/Iosia/Marta Grimsby\|Marta Grimsby]] | Monster trainer | Bellario's Grand Imperial Circus |  | Alive |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Banker | The Iorn Bank of Iosia |  | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Frostguard |  | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military Officer | Gorgeguard |  | Alive |
@@ -170,6 +171,7 @@ _No published entries._
 | [[03 Characters/NPCs/Iosia/Selia Rook\|Selia Rook]] | Commander of the City Guard | Merchantile Custodians |  | Alive |
 | [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay | Reeves Pirate, Crimson shipping company |  | Alive |
 | [[03 Characters/NPCs/Iosia/Sierra Breedlove\|Sierra Breedlove]] | High Mage | the inverted tower |  | Alive |
+| [[03 Characters/NPCs/Iosia/Silas Quickhand\|Silas Quickhand]] | Knife Thrower | Bellario's Grand Imperial Circus |  | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Silas Rhel\|Silas Rhel]] | Brother | Temple of Thaniel |  | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Telnor\|Telnor]] | High Mage | The Inverted Towers |  | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Thalen Frostveil\|Thalen Frostveil]] | City Guard | Frostguard |  | Alive |

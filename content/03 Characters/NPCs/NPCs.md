@@ -26,6 +26,8 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Wrexfjord/Nessa Veyr\|Nessa Veyr]] |  |  |
 | [[03 Characters/NPCs/Wyrmsgate/Rusk Varn\|Rusk Varn]] |  |  |
 | [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] |  |  |
+| [[03 Characters/NPCs/Iosia/Marta Grimsby\|Marta Grimsby]] |  |  |
+| [[03 Characters/NPCs/Iosia/Silas Quickhand\|Silas Quickhand]] |  |  |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] |  |  |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] |  |  |
 | [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] |  |  |
@@ -64,6 +66,8 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Wyrmsgate/Rusk Varn\|Rusk Varn]] | Criminal | Thief | Wyrmsgate | The Spectres | Alive |
 | [[03 Characters/NPCs/Iosia/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia | The Spectres | Alive |
 | [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] | Iosia | Circus |  | Bellario's Grand Imperial Circus | Alive |
+| [[03 Characters/NPCs/Iosia/Marta Grimsby\|Marta Grimsby]] | Iosia | Monster trainer |  | Bellario's Grand Imperial Circus | Alive |
+| [[03 Characters/NPCs/Iosia/Silas Quickhand\|Silas Quickhand]] | Iosia | Knife Thrower |  | Bellario's Grand Imperial Circus | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate | city council | Alive |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia | Golden League, Azure Crows, Morpheus' Hand | Alive |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia | The Iorn Bank of Iosia | Alive |
@@ -171,11 +175,13 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |  |
 | [[03 Characters/NPCs/Iosia/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |  |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |  |
+| [[03 Characters/NPCs/Iosia/Marta Grimsby\|Marta Grimsby]] | Iosia | Monster trainer |  |  |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |  |
 | [[03 Characters/NPCs/Iosia/Old Grimvald Gravekeeper\|Old Grimvald Gravekeeper]] | Religious | High Priest | Iosia |  |
 | [[03 Characters/NPCs/Iosia/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |  |
 | [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |  |
 | [[03 Characters/NPCs/Iosia/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia |  |
+| [[03 Characters/NPCs/Iosia/Silas Quickhand\|Silas Quickhand]] | Iosia | Knife Thrower |  |  |
 | [[03 Characters/NPCs/Iosia/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia |  |
 | [[03 Characters/NPCs/Iosia/Vorlag\|Vorlag]] | Arcane | Master Arcanist | Iosia |  |
 | [[03 Characters/NPCs/Wrexfjord/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |  |
@@ -218,6 +224,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Kellen Marr\|Kellen Marr]] | City Guard | Iosia | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Krucro Belnet\|Krucro Belnet]] | Lord-Mayor | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Iosia | Alive |
+| [[03 Characters/NPCs/Iosia/Marta Grimsby\|Marta Grimsby]] | Monster trainer |  | Alive |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Banker | Iosia | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Mira Stonecloak\|Mira Stonecloak]] | Military Officer | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military Officer | Wyrmsgate | Alive |
@@ -227,6 +234,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Selia Rook\|Selia Rook]] | Commander of the City Guard | Iosia | Alive |
 | [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] | Owner of the Red Quay | Iosia | Alive |
 | [[03 Characters/NPCs/Iosia/Sierra Breedlove\|Sierra Breedlove]] | High Mage | Iosia | Alive |
+| [[03 Characters/NPCs/Iosia/Silas Quickhand\|Silas Quickhand]] | Knife Thrower |  | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Silas Rhel\|Silas Rhel]] | Brother | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Telnor\|Telnor]] | High Mage | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Thalen Frostveil\|Thalen Frostveil]] | City Guard | Wrexfjord | Alive |
@@ -254,6 +262,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Kellen Marr\|Kellen Marr]] | Military | Iosia | Merchantile Custodians |
 | [[03 Characters/NPCs/Wrexfjord/Krucro Belnet\|Krucro Belnet]] | Nobility | Wrexfjord | The Hand of Morpheus, The Amethyst Ravens |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Iosia | Golden League, Azure Crows, Morpheus' Hand |
+| [[03 Characters/NPCs/Iosia/Marta Grimsby\|Marta Grimsby]] | Iosia |  | Bellario's Grand Imperial Circus |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Merchant | Iosia | The Iorn Bank of Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Mira Stonecloak\|Mira Stonecloak]] | Military | Wrexfjord | Frostguard |
 | [[03 Characters/NPCs/Wyrmsgate/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Wyrmsgate | Gorgeguard |
@@ -263,6 +272,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Selia Rook\|Selia Rook]] | Military | Iosia | Merchantile Custodians |
 | [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Iosia | Reeves Pirate, Crimson shipping company |
 | [[03 Characters/NPCs/Iosia/Sierra Breedlove\|Sierra Breedlove]] | Arcane | Iosia | the inverted tower |
+| [[03 Characters/NPCs/Iosia/Silas Quickhand\|Silas Quickhand]] | Iosia |  | Bellario's Grand Imperial Circus |
 | [[03 Characters/NPCs/Wrexfjord/Silas Rhel\|Silas Rhel]] | Religious | Wrexfjord | Temple of Thaniel |
 | [[03 Characters/NPCs/Wrexfjord/Telnor\|Telnor]] | Arcane | Wrexfjord | The Inverted Towers |
 | [[03 Characters/NPCs/Wrexfjord/Thalen Frostveil\|Thalen Frostveil]] | Military | Wrexfjord | Frostguard |
@@ -290,6 +300,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Kellen Marr\|Kellen Marr]] | Military | City Guard | Merchantile Custodians |
 | [[03 Characters/NPCs/Wrexfjord/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | The Hand of Morpheus, The Amethyst Ravens |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Golden League, Azure Crows, Morpheus' Hand |
+| [[03 Characters/NPCs/Iosia/Marta Grimsby\|Marta Grimsby]] | Iosia | Monster trainer | Bellario's Grand Imperial Circus |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | The Iorn Bank of Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Frostguard |
 | [[03 Characters/NPCs/Wyrmsgate/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Military Officer | Gorgeguard |
@@ -299,6 +310,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Merchantile Custodians |
 | [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Reeves Pirate, Crimson shipping company |
 | [[03 Characters/NPCs/Iosia/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | the inverted tower |
+| [[03 Characters/NPCs/Iosia/Silas Quickhand\|Silas Quickhand]] | Iosia | Knife Thrower | Bellario's Grand Imperial Circus |
 | [[03 Characters/NPCs/Wrexfjord/Silas Rhel\|Silas Rhel]] | Religious | Brother | Temple of Thaniel |
 | [[03 Characters/NPCs/Wrexfjord/Telnor\|Telnor]] | Arcane | High Mage | The Inverted Towers |
 | [[03 Characters/NPCs/Wrexfjord/Thalen Frostveil\|Thalen Frostveil]] | Military | City Guard | Frostguard |
@@ -326,6 +338,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
+| [[03 Characters/NPCs/Iosia/Marta Grimsby\|Marta Grimsby]] | Iosia | Monster trainer |  |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Wyrmsgate/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Military Officer | Wyrmsgate |
@@ -335,6 +348,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
 | [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |
 | [[03 Characters/NPCs/Iosia/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia |
+| [[03 Characters/NPCs/Iosia/Silas Quickhand\|Silas Quickhand]] | Iosia | Knife Thrower |  |
 | [[03 Characters/NPCs/Wrexfjord/Silas Rhel\|Silas Rhel]] | Religious | Brother | Wrexfjord |
 | [[03 Characters/NPCs/Wrexfjord/Telnor\|Telnor]] | Arcane | High Mage | Wrexfjord |
 | [[03 Characters/NPCs/Wrexfjord/Thalen Frostveil\|Thalen Frostveil]] | Military | City Guard | Wrexfjord |
@@ -362,6 +376,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
+| [[03 Characters/NPCs/Iosia/Marta Grimsby\|Marta Grimsby]] | Iosia | Monster trainer |  |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Wyrmsgate/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Military Officer | Wyrmsgate |
@@ -371,6 +386,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
 | [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |
 | [[03 Characters/NPCs/Iosia/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia |
+| [[03 Characters/NPCs/Iosia/Silas Quickhand\|Silas Quickhand]] | Iosia | Knife Thrower |  |
 | [[03 Characters/NPCs/Wrexfjord/Silas Rhel\|Silas Rhel]] | Religious | Brother | Wrexfjord |
 | [[03 Characters/NPCs/Wrexfjord/Telnor\|Telnor]] | Arcane | High Mage | Wrexfjord |
 | [[03 Characters/NPCs/Wrexfjord/Thalen Frostveil\|Thalen Frostveil]] | Military | City Guard | Wrexfjord |
@@ -398,6 +414,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Krucro Belnet\|Krucro Belnet]] | Nobility | Lord-Mayor | Wrexfjord |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia |
+| [[03 Characters/NPCs/Iosia/Marta Grimsby\|Marta Grimsby]] | Iosia | Monster trainer |  |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Mira Stonecloak\|Mira Stonecloak]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Wyrmsgate/Mirelle Wyrmsbane\|Mirelle Wyrmsbane]] | Military | Military Officer | Wyrmsgate |
@@ -407,6 +424,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Selia Rook\|Selia Rook]] | Military | Commander of the City Guard | Iosia |
 | [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] | Merchant | Owner of the Red Quay | Iosia |
 | [[03 Characters/NPCs/Iosia/Sierra Breedlove\|Sierra Breedlove]] | Arcane | High Mage | Iosia |
+| [[03 Characters/NPCs/Iosia/Silas Quickhand\|Silas Quickhand]] | Iosia | Knife Thrower |  |
 | [[03 Characters/NPCs/Wrexfjord/Silas Rhel\|Silas Rhel]] | Religious | Brother | Wrexfjord |
 | [[03 Characters/NPCs/Wrexfjord/Telnor\|Telnor]] | Arcane | High Mage | Wrexfjord |
 | [[03 Characters/NPCs/Wrexfjord/Thalen Frostveil\|Thalen Frostveil]] | Military | City Guard | Wrexfjord |

@@ -3174,3 +3174,41 @@ warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by
 To https://github.com/DecTheGreat/tartaria-quartz.git
    cab785396e2537cf0ee36223c5b161f56ed33185..4318ce777bc16ada95d95039f98bc574078cc62e  main -> main
 2026-11-20 21:53:37  Website update pushed successfully.
+2026-11-21 00:54:41  Starting Tartaria website publication.
+
+Tartaria Publisher v2 complete
+Published notes:     78
+Converted infoboxes: 18
+Converted tables:    219
+Copied assets:       16
+Skipped notes:       108
+
+Missing assets: 28
+- 03 Characters/NPCs/Iosia/Anya Varkos.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Cassian Bellario.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Durnik Ironjudged.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Francisco Valerius.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Kellen Marr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Lysander Vance.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Merissa Korrin.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Old Grimvald Gravekeeper.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Selia Rook.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Sevrin Vaelor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Sierra Breedlove.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Vaelis Crowmark.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Iosia/Vorlag.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Wrexfjord/Elowen Brightwater.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Wrexfjord/Krucro Belnet.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Wrexfjord/Mira Stonecloak.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Wrexfjord/Nessa Veyr.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Wrexfjord/Silas Rhel.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Wrexfjord/Telnor.md: PLACEHOLDER-NPC-PORTRAIT.png
+- 03 Characters/NPCs/Wrexfjord/Thalen Frostveil.md: PLACEHOLDER-NPC-PORTRAIT.png
+...and 8 more
+warning: in the working copy of 'post-commit-hook.log', CRLF will be replaced by LF the next time Git touches it
+[main 8f27a05436ac926cc83104897c8faff1caeb1431] Publish Tartaria update - 2026-11-21 00:54
+ 6 files changed, 330 insertions(+)
+ create mode 100644 content/03 Characters/NPCs/Iosia/Cassian Bellario.md
+To https://github.com/DecTheGreat/tartaria-quartz.git
+   4318ce777bc16ada95d95039f98bc574078cc62e..8f27a05436ac926cc83104897c8faff1caeb1431  main -> main
+2026-11-21 00:54:45  Website update pushed successfully.
