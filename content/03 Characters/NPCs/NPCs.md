@@ -25,6 +25,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Iosia/Vaelis Crowmark\|Vaelis Crowmark]] |  |  |
 | [[03 Characters/NPCs/Wrexfjord/Nessa Veyr\|Nessa Veyr]] |  |  |
 | [[03 Characters/NPCs/Wyrmsgate/Rusk Varn\|Rusk Varn]] |  |  |
+| [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] |  |  |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] |  |  |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] |  |  |
 | [[03 Characters/NPCs/Iosia/Sevrin Vaelor\|Sevrin Vaelor]] |  |  |
@@ -62,6 +63,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Wrexfjord/Nessa Veyr\|Nessa Veyr]] | Criminal | Thief | Wrexfjord | The Spectres | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Rusk Varn\|Rusk Varn]] | Criminal | Thief | Wyrmsgate | The Spectres | Alive |
 | [[03 Characters/NPCs/Iosia/Vaelis Crowmark\|Vaelis Crowmark]] | Criminal | Thief | Iosia | The Spectres | Alive |
+| [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] | Iosia | Circus |  | Bellario's Grand Imperial Circus | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Halda Tern\|Halda Tern]] | Merchant | Guild member | Wyrmsgate | city council | Alive |
 | [[03 Characters/NPCs/Iosia/Lysander Vance\|Lysander Vance]] | Merchant | Merchant | Iosia | Golden League, Azure Crows, Morpheus' Hand | Alive |
 | [[03 Characters/NPCs/Iosia/Merissa Korrin\|Merissa Korrin]] | Merchant | Banker | Iosia | The Iorn Bank of Iosia | Alive |
@@ -164,6 +166,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | Name | Category | Occupation | Settlement | Modified |
 | --- | --- | --- | --- | --- |
 | [[03 Characters/NPCs/Iosia/Anya Varkos\|Anya Varkos]] | Military | Military officer | Iosia |  |
+| [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] | Iosia | Circus |  |  |
 | [[03 Characters/NPCs/Iosia/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | Iosia |  |
 | [[03 Characters/NPCs/Iosia/Francisco Valerius\|Francisco Valerius]] | Nobility | Ruler | Iosia |  |
 | [[03 Characters/NPCs/Iosia/Kellen Marr\|Kellen Marr]] | Military | City Guard | Iosia |  |
@@ -206,6 +209,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Wrexfjord/Balen The Shepard\|Balen The Shepard]] | Military Officer | Wrexfjord | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Wyrmsgate | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Carvos Rhel\|Carvos Rhel]] | Temple of Thaniel Priest | Wyrmsgate | Alive |
+| [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] | Circus |  | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | [[Wyrmsgate]] | Alive |
 | [[03 Characters/NPCs/Iosia/Durnik Ironjudged\|Durnik Ironjudged]] | Judge | Iosia | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Elowen Brightwater\|Elowen Brightwater]] | High Priestess | Wrexfjord | Alive |
@@ -241,6 +245,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Wrexfjord/Balen The Shepard\|Balen The Shepard]] | Military | Wrexfjord | Frostguard |
 | [[03 Characters/NPCs/Wyrmsgate/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Wyrmsgate | Gorgeguard |
 | [[03 Characters/NPCs/Wyrmsgate/Carvos Rhel\|Carvos Rhel]] | Wyrmsgate | Wyrmsgate | Gravebound Cohort |
+| [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] | Iosia |  | Bellario's Grand Imperial Circus |
 | [[03 Characters/NPCs/Wyrmsgate/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | [[Wyrmsgate]] | Gorgeguard |
 | [[03 Characters/NPCs/Iosia/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Iosia | temple of Vaelor Thamiel |
 | [[03 Characters/NPCs/Wrexfjord/Elowen Brightwater\|Elowen Brightwater]] | Religious | Wrexfjord | Temple of Thaniel |
@@ -276,6 +281,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Wrexfjord/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Frostguard |
 | [[03 Characters/NPCs/Wyrmsgate/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Gorgeguard |
 | [[03 Characters/NPCs/Wyrmsgate/Carvos Rhel\|Carvos Rhel]] | Wyrmsgate | Temple of Thaniel Priest | Gravebound Cohort |
+| [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] | Iosia | Circus | Bellario's Grand Imperial Circus |
 | [[03 Characters/NPCs/Wyrmsgate/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | Gorgeguard |
 | [[03 Characters/NPCs/Iosia/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | temple of Vaelor Thamiel |
 | [[03 Characters/NPCs/Wrexfjord/Elowen Brightwater\|Elowen Brightwater]] | Religious | High Priestess | Temple of Thaniel |
@@ -311,6 +317,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Wrexfjord/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Wyrmsgate/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Wyrmsgate/Carvos Rhel\|Carvos Rhel]] | Wyrmsgate | Temple of Thaniel Priest | Wyrmsgate |
+| [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] | Iosia | Circus |  |
 | [[03 Characters/NPCs/Wyrmsgate/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | [[Wyrmsgate]] |
 | [[03 Characters/NPCs/Iosia/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Elowen Brightwater\|Elowen Brightwater]] | Religious | High Priestess | Wrexfjord |
@@ -346,6 +353,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Wrexfjord/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Wyrmsgate/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Wyrmsgate/Carvos Rhel\|Carvos Rhel]] | Wyrmsgate | Temple of Thaniel Priest | Wyrmsgate |
+| [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] | Iosia | Circus |  |
 | [[03 Characters/NPCs/Wyrmsgate/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | [[Wyrmsgate]] |
 | [[03 Characters/NPCs/Iosia/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Elowen Brightwater\|Elowen Brightwater]] | Religious | High Priestess | Wrexfjord |
@@ -381,6 +389,7 @@ An index of Tartaria’s named non-player characters, organised by social role a
 | [[03 Characters/NPCs/Wrexfjord/Balen The Shepard\|Balen The Shepard]] | Military | Military Officer | Wrexfjord |
 | [[03 Characters/NPCs/Wyrmsgate/Captain Edrik Vale\|Captain Edrik Vale]] | Military | Military Officer | Wyrmsgate |
 | [[03 Characters/NPCs/Wyrmsgate/Carvos Rhel\|Carvos Rhel]] | Wyrmsgate | Temple of Thaniel Priest | Wyrmsgate |
+| [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] | Iosia | Circus |  |
 | [[03 Characters/NPCs/Wyrmsgate/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military | Military officer | [[Wyrmsgate]] |
 | [[03 Characters/NPCs/Iosia/Durnik Ironjudged\|Durnik Ironjudged]] | Religious | Judge | Iosia |
 | [[03 Characters/NPCs/Wrexfjord/Elowen Brightwater\|Elowen Brightwater]] | Religious | High Priestess | Wrexfjord |

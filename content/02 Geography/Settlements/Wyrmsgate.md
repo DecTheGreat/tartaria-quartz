@@ -146,6 +146,7 @@ _No published entries._
 | [[03 Characters/NPCs/Wrexfjord/Balen The Shepard\|Balen The Shepard]] | Military Officer | Frostguard | Military Quarter | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Captain Edrik Vale\|Captain Edrik Vale]] | Military Officer | Gorgeguard |  | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Carvos Rhel\|Carvos Rhel]] | Temple of Thaniel Priest | Gravebound Cohort |  | Alive |
+| [[03 Characters/NPCs/Iosia/Cassian Bellario\|Cassian Bellario]] | Circus | Bellario's Grand Imperial Circus |  | Alive |
 | [[03 Characters/NPCs/Wyrmsgate/Commander Garrick Stonevein\|Commander Garrick Stonevein]] | Military officer | Gorgeguard |  | Alive |
 | [[03 Characters/NPCs/Iosia/Durnik Ironjudged\|Durnik Ironjudged]] | Judge | temple of Vaelor Thamiel |  | Alive |
 | [[03 Characters/NPCs/Wrexfjord/Elowen Brightwater\|Elowen Brightwater]] | High Priestess | Temple of Thaniel |  | Alive |
