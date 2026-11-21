@@ -8,7 +8,7 @@ campaign: ""
 party: Varmints
 player: Megan
 species: Red panda
-ancestry: null
+ancestry: Keen-Eyed
 heritage: null
 complications: Doomed Prophecy
 heroic_destiny: The Rival Soul

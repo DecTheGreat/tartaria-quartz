@@ -10,7 +10,7 @@ player: Sean
 species: Rabbit
 ancestry: Iron Stomach
 heritage: null
-complications: null
+complications: Cursed Bloodline
 heroic_destiny: Worldshaper
 class: Cleric
 subclass: light domain

@@ -8,9 +8,9 @@ campaign: "[[the Varmints]]"
 party: Varmints
 player: Kieran
 species: Orangutan
-ancestry: null
+ancestry: Night-bred
 heritage: null
-complications: null
+complications: Oath Bound
 heroic_destiny: The Crown Unclaimed
 class: Monster Trainer
 subclass: ""
