@@ -13,7 +13,7 @@ heritage: null
 complications: Devils Bargain
 heroic_destiny: The Gate Key
 class: Bard, Rogue
-subclass: College of Glamour
+subclass: College of Glamour, Arcane Trickster
 level_override: null
 ac: null
 max_hp: ""
@@ -78,7 +78,7 @@ Species: Raccoon
 
 Class: Bard, Rogue
 
-Subclass: College of Glamour
+Subclass: College of Glamour, Arcane Trickster
 
 AC:
 
